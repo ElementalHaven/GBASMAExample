@@ -183,7 +183,10 @@ function navigateByUrl() {
 
 function loadList(txtName, list, listener, type) {
 	fetch(basePath + txtName).then(res => res.text()).then(text => {
-		let lines = text.split("\r\n");
+		let lines = text.split("\n");
+		for(let i in lines) {
+			lines[i] = lines[i].replace("\r", "");
+		}
 		lines.sort();
 		lines.forEach((varName) => {
 			if(!varName) return;
