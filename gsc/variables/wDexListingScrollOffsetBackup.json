@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_UpdateSearchScreen"],"usingMethods":["Pokedex_UpdateSearchResultsScreen"],"name":"wDexListingScrollOffsetBackup","file":"wram.asm","lineNo":821,"address":20156,"addressUsedBy":[]}

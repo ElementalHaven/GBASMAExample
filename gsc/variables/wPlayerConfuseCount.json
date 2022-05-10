@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerConfuseCount","file":"wram.asm","lineNo":519,"address":18404,"addressUsedBy":["CheckPlayerTurn","BattleCommand_FinishConfusingTarget"]}

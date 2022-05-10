@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoMysteryGift"],"usingMethods":["PrepMysteryGiftDataToSend"],"name":"sBackupMysteryGiftItem","file":"sram.asm","lineNo":52,"address":44755,"addressUsedBy":["BackupMysteryGift","EraseMysteryGift","GetMysteryGiftBank","RestoreMysteryGift","PrepMysteryGiftDataToSend"]}

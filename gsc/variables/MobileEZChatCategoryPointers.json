@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MobileEZChatCategoryPointers","file":"mobile/fixed_words.asm","lineNo":3263,"address":287154,"addressUsedBy":["EZChat_GetCategoryWordsByKana","CopyMobileEZChatToC608"]}

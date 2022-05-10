@@ -1,0 +1,1 @@
+{"type":"byte[190]","validValues":[],"settingMethods":["BattleTowerRoomMenu_UpdatePickLevelMenu"],"usingMethods":[],"name":"w3_d800","file":"wram.asm","lineNo":3064,"address":31118,"addressUsedBy":["Function11a00e","Function1040fb","Function1040d4","asm_118d9f","Function11b570","Function118e92","Function119b6b","Function1009ae","Function1009d2","Function1198f7"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wNumPCItems","file":"wram.asm","lineNo":2616,"address":28745,"addressUsedBy":["Mom_GiveItemOrDoll","Function17e165","UnusedFindItemInPCOrBag","PlayerDepositItemMenu","PlayerWithdrawItemMenu","_ResetWRAM","PlayerTossItemMenu"]}

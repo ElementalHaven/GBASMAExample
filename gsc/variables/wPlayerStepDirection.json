@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HandleNPCStep","UpdatePlayerStep"],"usingMethods":["CheckMovingOffEdgeOfMap","CheckObjectEnteringVisibleRange","EnterMapConnection","UpdateOverworldMap","UpdatePlayerCoords"],"name":"wPlayerStepDirection","file":"wram.asm","lineNo":2100,"address":26993,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PalPacket_BetaTitleScreen","file":"gfx/sgb/pal_packets.asm","lineNo":70,"address":70374,"addressUsedBy":["LoadSGBLayout","_CGB_BetaTitleScreen"]}

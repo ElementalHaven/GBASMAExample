@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetFollowerNextMovementByte","ResetFollower","SetFollowerIfVisible","SpawnPlayer"],"usingMethods":["ApplyMovementToFollower","QueueFollowerFirstStep","ResetFollower","_SetFlagsForMovement_2"],"name":"wObjectFollow_Follower","file":"wram.asm","lineNo":2504,"address":27637,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Battle_GetTrainerName","PlayBattleMusic","ReadTrainerParty"],"name":"wOtherTrainerID","file":"wram.asm","lineNo":2237,"address":27207,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleMenuHeader","file":"engine/battle/menu.asm","lineNo":31,"address":99177,"addressUsedBy":["Function100b12","LoadBattleMenu"]}

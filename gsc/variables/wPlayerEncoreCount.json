@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_CheckObedience","HandleEncore"],"usingMethods":["HandleEncore"],"name":"wPlayerEncoreCount","file":"wram.asm","lineNo":522,"address":18407,"addressUsedBy":["BattleCommand_Encore"]}

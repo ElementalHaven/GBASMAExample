@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AskForgetMoveText","file":"engine/pokemon/learn.asm","lineNo":219,"address":64375,"addressUsedBy":["ForgetMove"]}

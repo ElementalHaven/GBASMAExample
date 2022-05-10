@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["_BugContestJudging"],"name":"wBugContestSecondPlaceWinnerID","lineNo":1,"address":26438,"addressUsedBy":["DetermineContestWinners"]}

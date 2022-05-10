@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ProtectedByText","file":"data/text/battle.asm","lineNo":933,"address":171782,"addressUsedBy":["BattleCommand_Confuse","BattleCommand_Poison","BattleCommand_Paralyze","BattleCommand_SleepTarget"]}

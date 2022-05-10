@@ -1,0 +1,1 @@
+{"names":["CheckCellNum"],"callingMethods":[],"methodsCalled":["_CheckCellNum"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["CheckCellNum::","\tjp _CheckCellNum ; useless"],"name":"CheckCellNum","file":"engine/phone/phone.asm","lineNo":25,"address":186972,"addressUsedBy":[]}

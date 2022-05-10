@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTurn"],"usingMethods":["HandleDefrost"],"name":"wEnemyJustGotFrozen","file":"wram.asm","lineNo":743,"address":18605,"addressUsedBy":["BattleCommand_FreezeTarget"]}

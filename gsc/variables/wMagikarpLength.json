@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["MagikarpHouseSign"],"usingMethods":["LoadEnemyMon"],"name":"wMagikarpLength","file":"wram.asm","lineNo":2201,"address":27149,"addressUsedBy":["CalcMagikarpLength","CheckMagikarpLength","PrintMagikarpLength"]}

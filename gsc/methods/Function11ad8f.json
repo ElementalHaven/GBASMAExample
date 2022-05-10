@@ -1,0 +1,1 @@
+{"names":["Function11ad8f"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11ad8f:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"Function11ad8f","file":"mobile/mobile_46.asm","lineNo":5687,"address":282061,"addressUsedBy":[]}

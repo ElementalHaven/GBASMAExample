@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBufferMonOT","file":"wram.asm","lineNo":1688,"address":26386,"addressUsedBy":["CopyOTNameToTemp","InsertPokemonIntoBox","InsertPokemonIntoParty","CheckPartyFullAfterContest"]}

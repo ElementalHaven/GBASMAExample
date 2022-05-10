@@ -1,0 +1,1 @@
+{"names":["MainMenu_MysteryGift"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["MysteryGift"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall MysteryGift","\tret"],"name":"MainMenu_MysteryGift","lineNo":1,"address":152676,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyTrappingMove","file":"wram.asm","lineNo":727,"address":18596,"addressUsedBy":["BattleCommand_Substitute","HandleWrap","BattleCommand_TrapTarget"]}

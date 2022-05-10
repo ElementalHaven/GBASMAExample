@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckEnemyTurn","NewEnemyMonStatus","ResetActorDisable"],"usingMethods":["AIChooseMove","BattleCommand_SleepTalk","CheckEnemyTurn","ParseEnemyAction"],"name":"wEnemyDisabledMove","file":"wram.asm","lineNo":622,"address":18535,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["EnterMapWarp"],"name":"wNextWarp","file":"wram.asm","lineNo":2086,"address":26982,"addressUsedBy":["EscapeRopeOrDig"]}

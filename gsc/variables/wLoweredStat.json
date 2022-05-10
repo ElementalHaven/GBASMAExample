@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_StatDown","LowerStat","RaiseStat"],"usingMethods":["BattleCommand_StatDown","BattleCommand_StatDownFailText","BattleCommand_StatDownMessage","BattleCommand_StatUpFailText","BattleCommand_StatUpMessage","LowerStat","RaiseStat"],"name":"wLoweredStat","file":"wram.asm","lineNo":689,"address":18565,"addressUsedBy":[]}

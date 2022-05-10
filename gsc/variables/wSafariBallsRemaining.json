@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wSafariBallsRemaining","file":"wram.asm","lineNo":2861,"address":29167,"addressUsedBy":["Function24f7c","StartMenu_PrintSafariGameStatus"]}

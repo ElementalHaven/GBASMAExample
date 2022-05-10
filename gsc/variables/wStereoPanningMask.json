@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_Cry","BattleAnimCmd_Sound"],"usingMethods":[],"name":"wStereoPanningMask","file":"wram.asm","lineNo":110,"address":17085,"addressUsedBy":[]}

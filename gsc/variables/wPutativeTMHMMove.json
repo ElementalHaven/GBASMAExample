@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AskTeachTMHM","Function2ca95","Function81df4","GetEggMove","LearnLevelMoves","MoveTutor","TMHM_DisplayPocketItems"],"usingMethods":["CanLearnTMHMMove","KnowsMove","LearnMove"],"name":"wPutativeTMHMMove","file":"wram.asm","lineNo":2289,"address":27244,"addressUsedBy":[]}

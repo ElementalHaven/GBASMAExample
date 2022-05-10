@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":["CalcExpBar","_Divide","_Multiply"],"usingMethods":["CalcExpBar","Function11a80c","_Divide","_Multiply"],"name":"hMathBuffer","file":"hram.asm","lineNo":86,"address":58864,"addressUsedBy":[]}

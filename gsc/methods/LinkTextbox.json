@@ -1,0 +1,1 @@
+{"names":["LinkTextbox"],"callingMethods":[],"methodsCalled":["_LinkTextbox"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["LinkTextbox:","\tcall _LinkTextbox","\tret"],"name":"LinkTextbox","file":"engine/link/link_trade.asm","lineNo":152,"address":293531,"addressUsedBy":["LinkTextboxAtHL"]}

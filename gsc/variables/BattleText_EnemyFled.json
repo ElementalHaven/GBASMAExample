@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_EnemyFled","file":"data/text/battle.asm","lineNo":50,"address":171625,"addressUsedBy":["WildFled_EnemyFled_LinkBattleCanceled"]}

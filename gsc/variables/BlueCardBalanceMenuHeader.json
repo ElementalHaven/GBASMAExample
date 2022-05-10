@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlueCardBalanceMenuHeader","file":"engine/events/buena.asm","lineNo":210,"address":179837,"addressUsedBy":["PrintBlueCardBalance","Buena_DisplayBlueCardBalance"]}

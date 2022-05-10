@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_BattleRandom"],"usingMethods":["_BattleRandom"],"name":"wLinkBattleRNCount","file":"wram.asm","lineNo":604,"address":18518,"addressUsedBy":[]}

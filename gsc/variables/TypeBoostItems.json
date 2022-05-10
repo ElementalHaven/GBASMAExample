@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TypeBoostItems","file":"data/types/type_boost_items.asm","lineNo":1,"address":119357,"addressUsedBy":["BattleCommand_DamageCalc"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"RepelUsedEarlierIsStillInEffectText","file":"engine/items/item_effects.asm","lineNo":2087,"address":80882,"addressUsedBy":["UseRepel"]}

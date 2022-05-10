@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTempMonExp","lineNo":5,"address":26938,"addressUsedBy":["AnimateExpBar","EvolveAfterBattle_MasterLoop","CalcLevel","LoadPinkPage"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_GetLandmark"],"usingMethods":["DexEntryScreen_MenuActionJumptable"],"name":"wDexCurLocation","file":"wram.asm","lineNo":825,"address":20160,"addressUsedBy":[]}

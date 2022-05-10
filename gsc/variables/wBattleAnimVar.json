@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_CheckPokeball","BattleAnimCmd_SetVar"],"usingMethods":[],"name":"wBattleAnimVar","file":"wram.asm","lineNo":3167,"address":33310,"addressUsedBy":["BattleAnimCmd_IncVar","BattleAnimCmd_IfVarEqual"]}

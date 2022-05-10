@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MartDialog","OpenMartDialog"],"usingMethods":["GetMartDialogGroup","OpenMartDialog"],"name":"wMartType","file":"wram.asm","lineNo":1894,"address":26710,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["DayCareMon1","DayCareStep","DayCare_InitBreeding"],"name":"wDayCareLady","file":"wram.asm","lineNo":2952,"address":29507,"addressUsedBy":["DayCareLady"]}

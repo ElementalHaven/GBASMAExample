@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_ChangingModesPleaseWait","file":"engine/pokedex/pokedex.asm","lineNo":1766,"address":144190,"addressUsedBy":["Pokedex_DisplayChangingModesMessage"]}

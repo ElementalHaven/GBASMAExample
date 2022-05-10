@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NamingScreen","_ComposeMailMessage"],"usingMethods":["MailComposition_TryAddCharacter","NamingScreen_InitNameEntry","NamingScreen_StoreEntry"],"name":"wNamingScreenMaxNameLength","file":"wram.asm","lineNo":864,"address":20196,"addressUsedBy":[]}

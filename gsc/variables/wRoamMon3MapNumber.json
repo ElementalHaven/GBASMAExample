@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["JumpRoamMons","UpdateRoamMons","_ResetWRAM"],"usingMethods":["UpdateRoamMons"],"name":"wRoamMon3MapNumber","lineNo":4,"address":29619,"addressUsedBy":["GetRoamMonMapNumber"]}

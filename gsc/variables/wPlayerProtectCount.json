@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewBattleMonStatus","ParsePlayerAction"],"usingMethods":[],"name":"wPlayerProtectCount","file":"wram.asm","lineNo":525,"address":18410,"addressUsedBy":["ProtectChance"]}

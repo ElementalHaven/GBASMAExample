@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":["GetMonAnimPointer","GetMonBitmaskPointer","GetMonFramesPointer"],"name":"wPokeAnimSpeciesOrUnown","file":"wram.asm","lineNo":3009,"address":29634,"addressUsedBy":[]}

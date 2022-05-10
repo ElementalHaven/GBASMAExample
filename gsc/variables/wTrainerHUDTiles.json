@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":["PlaceHUDBorderTiles"],"name":"wTrainerHUDTiles","file":"wram.asm","lineNo":1767,"address":26578,"addressUsedBy":["DrawPlayerHUDBorder","DrawEnemyHUDBorder","DrawPlayerPartyIconHUDBorder"]}

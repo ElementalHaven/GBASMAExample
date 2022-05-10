@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["TownMap_InitCursorAndPlayerIconPositions"],"usingMethods":["InitPokegearTilemap","PokegearMap_CheckRegion","PokegearMap_Init","RadioChannels"],"name":"wPokegearMapPlayerIconLandmark","file":"wram.asm","lineNo":843,"address":20172,"addressUsedBy":[]}

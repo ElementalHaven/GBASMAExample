@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDailyPhoneTimeOfDayFlags","file":"wram.asm","lineNo":2844,"address":29130,"addressUsedBy":["CheckDailyResetTimer"]}

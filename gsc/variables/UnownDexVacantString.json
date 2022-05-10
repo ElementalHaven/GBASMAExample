@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownDexVacantString","file":"engine/events/print_unown.asm","lineNo":212,"address":96007,"addressUsedBy":["_UnownPrinter"]}

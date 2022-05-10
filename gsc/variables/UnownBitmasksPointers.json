@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownBitmasksPointers","file":"gfx/pokemon/unown_bitmask_pointers.asm","lineNo":1,"address":242252,"addressUsedBy":["GetMonBitmaskPointer"]}

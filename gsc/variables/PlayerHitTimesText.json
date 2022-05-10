@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PlayerHitTimesText","file":"data/text/battle.asm","lineNo":763,"address":171761,"addressUsedBy":["BattleCommand_EndLoop"]}

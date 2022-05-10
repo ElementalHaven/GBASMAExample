@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PrintPCBox_Page1"],"usingMethods":["Printer_GetMonGender","Printer_PrintBoxListSegment"],"name":"wWhichBoxMonToPrint","file":"wram.asm","lineNo":1757,"address":26570,"addressUsedBy":["Printer_PrintBoxListSegment"]}

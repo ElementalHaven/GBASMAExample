@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["UseRepel"],"usingMethods":["CheckRepelEffect","UseRepel"],"name":"wRepelEffect","file":"wram.asm","lineNo":2872,"address":29196,"addressUsedBy":[]}

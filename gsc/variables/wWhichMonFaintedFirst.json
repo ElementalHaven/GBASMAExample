@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HandleEnemyMonFaint","HandlePlayerMonFaint"],"usingMethods":["UpdateBattleStateAndExperienceAfterEnemyFaint","UpdateFaintedPlayerMon"],"name":"wWhichMonFaintedFirst","file":"wram.asm","lineNo":623,"address":18536,"addressUsedBy":[]}

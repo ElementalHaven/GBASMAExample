@@ -1,0 +1,1 @@
+{"type":"byte[31]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wUsedSpritesEnd","file":"wram.asm","lineNo":2106,"address":26996,"addressUsedBy":["RefreshSprites"]}

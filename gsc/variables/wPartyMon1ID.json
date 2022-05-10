@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMon1ID","lineNo":4,"address":29220,"addressUsedBy":["DoNPCTrade","GiveShuckle","ReturnShuckle","CheckIfMonIsYourOT","LinkTrade","Function102a3b","GivePokeMail","CheckForLuckyNumberWinners","Function17ded9","_FindPartyMonThatSpeciesYourTrainerID","GivePoke"]}

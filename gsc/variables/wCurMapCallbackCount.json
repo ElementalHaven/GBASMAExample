@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function11560a","Function11581e","Function115b00"],"usingMethods":["Function11560a","Function11581e","Function115b00"],"name":"wCurMapCallbackCount","file":"wram.asm","lineNo":2796,"address":29060,"addressUsedBy":["Function1156cc","Function1159fb"]}

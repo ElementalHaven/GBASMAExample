@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PresentPower","file":"data/moves/present_power.asm","lineNo":1,"address":123735,"addressUsedBy":["BattleCommand_Present"]}

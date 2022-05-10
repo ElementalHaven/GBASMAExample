@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SlotsAction_GiveEarnedCoins","SlotsAction_Init","Slots_CheckMatchedFirstTwoReels"],"usingMethods":["Slots_CheckMatchedFirstTwoReels","Slots_StopReel3"],"name":"wFirstTwoReelsMatching","file":"wram.asm","lineNo":881,"address":20262,"addressUsedBy":[]}

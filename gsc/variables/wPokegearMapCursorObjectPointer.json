@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["PokegearMap_Init"],"usingMethods":["PokegearMap_ContinueMap"],"name":"wPokegearMapCursorObjectPointer","file":"wram.asm","lineNo":841,"address":20169,"addressUsedBy":[]}

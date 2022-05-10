@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBoxMon1DVs","lineNo":12,"address":45646,"addressUsedBy":["Function17e026","GetGender","BillsPC_LoadMonStats","SendMonIntoBox"]}

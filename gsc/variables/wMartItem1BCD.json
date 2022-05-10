@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMartItem1BCD","file":"wram.asm","lineNo":1706,"address":26454,"addressUsedBy":["MenuHeader_Buy","ReadMart","FarReadMart"]}

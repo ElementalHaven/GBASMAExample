@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AnimateHPBarPredef","lineNo":1,"address":67242,"addressUsedBy":["BattleCommand_Recoil","DoEnemyDamage","BattleCommand_CheckFaint","SapHealth","DoPlayerDamage","BattleCommand_PainSplit","HandleHPHealingItem","HealHP_SFX_GFX","UpdateHPBar","EnemyPotionFinish"]}

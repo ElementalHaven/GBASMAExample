@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_TryItem","NewEnemyMonStatus","ParseEnemyAction","ResetVarsForSubstatusRage"],"usingMethods":["AI_Smart_FuryCutter"],"name":"wEnemyFuryCutterCount","file":"wram.asm","lineNo":533,"address":18417,"addressUsedBy":["ResetFuryCutterCount","CleanUpBattleRAM","BattleCommand_FuryCutter"]}

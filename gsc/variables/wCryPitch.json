@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["BattleAnimCmd_Cry","PlaySlowCry"],"usingMethods":[],"name":"wCryPitch","file":"wram.asm","lineNo":93,"address":17073,"addressUsedBy":["PlaySlowCry","BattleAnimCmd_Cry"]}

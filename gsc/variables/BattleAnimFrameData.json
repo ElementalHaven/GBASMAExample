@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleAnimFrameData","file":"data/battle_anims/framesets.asm","lineNo":1,"address":229962,"addressUsedBy":["GetBattleAnimFrame"]}

@@ -1,0 +1,1 @@
+{"names":["ItemfinderEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["ItemFinder"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall ItemFinder","\tret"],"name":"ItemfinderEffect","lineNo":1,"address":81045,"addressUsedBy":[]}

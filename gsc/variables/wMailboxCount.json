@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["InitMail"],"name":"wMailboxCount","file":"wram.asm","lineNo":2029,"address":26919,"addressUsedBy":["InitMail"]}

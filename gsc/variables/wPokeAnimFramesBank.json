@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetMonFramesPointer"],"usingMethods":["PokeAnim_ConvertAndApplyBitmask","PokeAnim_GetBitmaskIndex"],"name":"wPokeAnimFramesBank","file":"wram.asm","lineNo":3017,"address":29644,"addressUsedBy":[]}

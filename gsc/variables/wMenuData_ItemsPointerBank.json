@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["InitScrollingMenuCursor","ScrollingMenu_GetListItemCoordAndFunctionArgs"],"name":"wMenuData_ItemsPointerBank","file":"wram.asm","lineNo":1538,"address":26284,"addressUsedBy":[]}

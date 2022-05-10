@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_min","file":"engine/rtc/timeset.asm","lineNo":320,"address":188347,"addressUsedBy":["DisplayMinutesWithMinString"]}

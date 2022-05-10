@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Pokered_MonIndices","file":"data/pokemon/gen1_order.asm","lineNo":1,"address":252211,"addressUsedBy":["ConvertMon_2to1","ConvertMon_1to2"]}

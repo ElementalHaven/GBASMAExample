@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AskItemMoveText","file":"engine/items/pack.asm","lineNo":1580,"address":83237,"addressUsedBy":["Pack_InterpretJoypad"]}

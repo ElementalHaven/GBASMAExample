@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ValidateBackupSave"],"usingMethods":["CheckBackupSaveFile"],"name":"sBackupCheckValue2","file":"sram.asm","lineNo":89,"address":45227,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["OaksPKMNTalk14","PrintRadioLine"],"usingMethods":["RadioScroll"],"name":"wNextRadioLine","file":"wram.asm","lineNo":1735,"address":26494,"addressUsedBy":[]}

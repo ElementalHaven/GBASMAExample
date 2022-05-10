@@ -1,0 +1,1 @@
+{"names":["MainMenu_Continue"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["Continue"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall Continue","\tret"],"name":"MainMenu_Continue","lineNo":1,"address":152672,"addressUsedBy":[]}

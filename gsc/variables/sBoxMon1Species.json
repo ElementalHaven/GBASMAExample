@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBoxMon1Species","lineNo":1,"address":45629,"addressUsedBy":["CopyBoxmonToTempMon","SendGetMonIntoFromBox","CheckOwnMonAnywhere","MobileCheckOwnMonAnywhere","LoadBoxMonListing"]}

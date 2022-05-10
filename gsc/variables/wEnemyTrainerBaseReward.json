@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetTrainerAttributes"],"usingMethods":["ComputeTrainerReward"],"name":"wEnemyTrainerBaseReward","file":"wram.asm","lineNo":415,"address":18384,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["ClearBattleRAM"],"usingMethods":[],"name":"wEvolvableFlags","file":"wram.asm","lineNo":2155,"address":27112,"addressUsedBy":["GiveExperiencePoints","EvolveAfterBattle_MasterLoop","EvolvePokemon"]}

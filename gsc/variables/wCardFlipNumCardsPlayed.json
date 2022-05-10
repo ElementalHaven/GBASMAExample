@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CardFlip_ShuffleDeck","_CardFlip"],"usingMethods":["_CardFlip"],"name":"wCardFlipNumCardsPlayed","file":"wram.asm","lineNo":899,"address":20327,"addressUsedBy":[]}

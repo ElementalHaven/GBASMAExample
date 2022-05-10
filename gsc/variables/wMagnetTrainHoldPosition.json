@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MagnetTrain"],"usingMethods":[],"name":"wMagnetTrainHoldPosition","file":"wram.asm","lineNo":3125,"address":32923,"addressUsedBy":["MagnetTrain_Jumptable"]}

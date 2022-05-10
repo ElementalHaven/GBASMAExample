@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyMonAttack","lineNo":12,"address":27184,"addressUsedBy":["CalcEnemyStats","InitEnemyMon","ApplyStatLevelMultiplier","EnemyAttackDamage","ApplyBrnEffectOnAttack","BattleCommand_StatDown"]}

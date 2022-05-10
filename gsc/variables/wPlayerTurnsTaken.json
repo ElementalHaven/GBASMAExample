@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["ClearBattleRAM","NewBattleMonStatus"],"usingMethods":["AIGoodWeatherType","AI_Setup","AI_Smart_Attract","AI_Smart_Curse","AI_Smart_SpeedDownHit","AI_Smart_Swagger","AI_Smart_TrapTarget"],"name":"wPlayerTurnsTaken","file":"wram.asm","lineNo":592,"address":18510,"addressUsedBy":["BattleCommand_DoTurn"]}

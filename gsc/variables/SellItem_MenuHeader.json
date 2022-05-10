@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"SellItem_MenuHeader","file":"engine/items/buy_sell_toss.asm","lineNo":216,"address":99491,"addressUsedBy":["SelectQuantityToSell"]}

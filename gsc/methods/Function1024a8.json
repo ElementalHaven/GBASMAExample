@@ -1,0 +1,1 @@
+{"names":["Function1024a8"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["Function1009f3"],"fallsInto":"Function1024af","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall Function1009f3","\tret c","","Function1024af:"],"name":"Function1024a8","lineNo":1,"address":259596,"addressUsedBy":[]}

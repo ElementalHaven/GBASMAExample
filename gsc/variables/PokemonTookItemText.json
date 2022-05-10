@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokemonTookItemText","file":"engine/pokemon/mon_menu.asm","lineNo":409,"address":86969,"addressUsedBy":["TakePartyItem"]}

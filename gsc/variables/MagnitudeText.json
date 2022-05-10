@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MagnitudeText","file":"data/text/battle.asm","lineNo":1031,"address":171789,"addressUsedBy":["BattleCommand_GetMagnitude"]}

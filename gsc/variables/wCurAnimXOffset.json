@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitSpriteAnimBuffer"],"usingMethods":["UpdateAnimFrame"],"name":"wCurAnimXOffset","file":"wram.asm","lineNo":292,"address":17512,"addressUsedBy":[]}

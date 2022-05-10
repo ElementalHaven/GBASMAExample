@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ComputeHPBarPixelsPredef","lineNo":1,"address":67221,"addressUsedBy":["PlacePartymonHPBar","DrawHP"]}

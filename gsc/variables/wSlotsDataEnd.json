@@ -1,0 +1,1 @@
+{"type":"byte[28]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wSlotsDataEnd","file":"wram.asm","lineNo":890,"address":20275,"addressUsedBy":["_SlotMachine"]}

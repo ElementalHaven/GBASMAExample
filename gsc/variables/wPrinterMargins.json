@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PrintDexEntry","Printer_PrepareTilemapForPrint"],"usingMethods":["Printer_StageHeaderForSend"],"name":"wPrinterMargins","file":"wram.asm","lineNo":998,"address":22018,"addressUsedBy":[]}

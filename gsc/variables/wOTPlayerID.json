@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wOTPlayerID","file":"wram.asm","lineNo":2336,"address":27262,"addressUsedBy":["Gen2ToGen2LinkComms","AddLastLinkBattleToLinkRecord"]}

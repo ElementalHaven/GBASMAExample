@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoNPCTrade","Function102a3b","Function170000","LinkTrade"],"usingMethods":["MobileTradeAnim_DisplayMonToBeSent","ShowPlayerTrademonStats"],"name":"wPlayerTrademonCaughtData","lineNo":8,"address":20182,"addressUsedBy":[]}

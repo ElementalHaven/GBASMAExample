@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["OaksPKMNTalk10","OaksPKMNTalk14","PlaceRadioString","PrintRadioLine"],"usingMethods":[],"name":"wRadioTextDelay","file":"wram.asm","lineNo":1736,"address":26495,"addressUsedBy":["RadioScroll","OaksPKMNTalk13","OaksPKMNTalk14","OaksPKMNTalk11","OaksPKMNTalk12"]}

@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPayDayMoney","file":"wram.asm","lineNo":613,"address":18525,"addressUsedBy":["BattleCommand_PayDay","CheckPayDay","PlayVictoryMusic","WinTrainerBattle"]}

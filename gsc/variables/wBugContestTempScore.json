@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":["ComputeAIContestantScores"],"usingMethods":[],"name":"wBugContestTempScore","lineNo":3,"address":26448,"addressUsedBy":["DetermineContestWinners"]}

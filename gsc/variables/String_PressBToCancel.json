@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_PressBToCancel","file":"engine/printer/printer.asm","lineNo":609,"address":174081,"addressUsedBy":["Function847bd","PlacePrinterStatusString"]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["NamingScreenJoypadLoop","_ComposeMailMessage"],"usingMethods":[],"name":"wNamingScreenCursorObjectPointer","file":"wram.asm","lineNo":866,"address":20198,"addressUsedBy":["NamingScreen_GetLastCharacter","NamingScreen_PressedA_GetCursorCommand","NamingScreenJoypadLoop","_ComposeMailMessage"]}

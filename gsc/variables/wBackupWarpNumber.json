@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBackupWarpNumber","file":"wram.asm","lineNo":2888,"address":29203,"addressUsedBy":["Elevator_GoToFloor"]}

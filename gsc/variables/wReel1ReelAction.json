@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SlotsAction_BetAndStart","SlotsAction_WaitReel1"],"usingMethods":["SlotsAction_WaitStopReel1","SlotsLoop"],"name":"wReel1ReelAction","lineNo":1,"address":20203,"addressUsedBy":[]}

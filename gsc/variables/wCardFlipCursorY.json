@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ChooseCard_HandleJoypad","_CardFlip"],"usingMethods":["ChooseCard_HandleJoypad","CollapseCursorPosition"],"name":"wCardFlipCursorY","file":"wram.asm","lineNo":1447,"address":26209,"addressUsedBy":["ChooseCard_HandleJoypad"]}

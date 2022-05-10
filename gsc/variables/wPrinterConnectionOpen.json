@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Printer_CleanUpAfterSend"],"usingMethods":[],"name":"wPrinterConnectionOpen","file":"wram.asm","lineNo":153,"address":17109,"addressUsedBy":["Printer_CheckConnectionStatus","Printer_StartTransmission"]}

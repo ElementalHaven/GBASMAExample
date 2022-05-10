@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimDelayFrame"],"usingMethods":["BattleAnimDelayFrame"],"name":"wVBlankOccurred","file":"wram.asm","lineNo":1575,"address":26314,"addressUsedBy":[]}

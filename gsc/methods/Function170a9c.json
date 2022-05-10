@@ -1,0 +1,1 @@
+{"names":["Function170a9c"],"callingMethods":[],"methodsCalled":["asm_170aa2"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["FALSE"],"lines":["Function170a9c:","\tld c, FALSE","\tjr asm_170aa2"],"name":"Function170a9c","file":"engine/events/battle_tower/battle_tower.asm","lineNo":1475,"address":295081,"addressUsedBy":[]}

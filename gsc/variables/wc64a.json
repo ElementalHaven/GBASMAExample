@@ -1,0 +1,1 @@
+{"type":"byte[30]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wc64a","file":"wram.asm","lineNo":792,"address":19750,"addressUsedBy":["EZChat_GetSeenPokemonByKana"]}

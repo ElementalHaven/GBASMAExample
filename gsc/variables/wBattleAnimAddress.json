@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBattleAnimAddress","file":"wram.asm","lineNo":3163,"address":33304,"addressUsedBy":["BattleAnimCmd_JumpUntil","BattleAnimCmd_IfParamEqual","BattleAnimCmd_Ret","BattleAnimCmd_Loop","BattleAnimCmd_Jump","BattleAnimCmd_IfVarEqual","BattleAnimCmd_IfParamAnd","BattleAnimCmd_Call"]}

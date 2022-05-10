@@ -1,0 +1,1 @@
+{"names":["CalcHoursDaysSince"],"callingMethods":[],"methodsCalled":["_CalcHoursDaysSince"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["CalcHoursDaysSince:","\tinc hl","\txor a","\tjr _CalcHoursDaysSince"],"name":"CalcHoursDaysSince","file":"engine/overworld/time.asm","lineNo":338,"address":83496,"addressUsedBy":[]}

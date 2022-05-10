@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ChangeBoxSaveText","file":"engine/menus/save.asm","lineNo":1121,"address":91828,"addressUsedBy":["ChangeBoxSaveGame"]}

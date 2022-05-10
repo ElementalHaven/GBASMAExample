@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["RefreshPlayerSprite"],"usingMethods":[],"name":"wPlayerMovement","file":"wram.asm","lineNo":168,"address":17120,"addressUsedBy":["Function5000"]}

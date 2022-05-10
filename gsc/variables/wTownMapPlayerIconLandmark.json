@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["FlyMap","Function92311","Pokedex_GetArea","_FlyMap","_TownMap"],"usingMethods":["Function92311","GetMapCursorCoordinates","Pokedex_GetArea","TownMapBubble","_FlyMap","_TownMap"],"name":"wTownMapPlayerIconLandmark","file":"wram.asm","lineNo":1719,"address":26484,"addressUsedBy":["FlyMapScroll","Function92311"]}

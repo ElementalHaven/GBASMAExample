@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["StubbedTrainerRankings_AddToSlotsWinStreak"],"usingMethods":["StubbedTrainerRankings_AddToSlotsWinStreak"],"name":"sTrainerRankingLongestSlotsStreak","file":"sram.asm","lineNo":302,"address":50255,"addressUsedBy":[]}

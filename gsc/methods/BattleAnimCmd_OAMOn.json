@@ -1,0 +1,1 @@
+{"names":["BattleAnimCmd_OAMOn"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["hOAMUpdate"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["BattleAnimCmd_OAMOn:","\txor a","\tldh [hOAMUpdate], a","\tret"],"name":"BattleAnimCmd_OAMOn","file":"engine/battle_anims/anim_commands.asm","lineNo":1158,"address":224484,"addressUsedBy":[]}

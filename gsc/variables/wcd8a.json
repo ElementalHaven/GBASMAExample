@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleTowerRoomMenu2_UpdateYesNoMenu","BattleTowerRoomMenu_InitRAM","Function11a536","Function11a9f4"],"usingMethods":["Function11a9f4"],"name":"wcd8a","file":"wram.asm","lineNo":1333,"address":26091,"addressUsedBy":[]}

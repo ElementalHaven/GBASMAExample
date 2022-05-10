@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["LoadMartPointer"],"usingMethods":[],"name":"wMartPointer","file":"wram.asm","lineNo":1896,"address":26712,"addressUsedBy":["RooftopSaleAskPurchaseQuantity","ReadMart","BargainShopAskPurchaseQuantity","FarReadMart"]}

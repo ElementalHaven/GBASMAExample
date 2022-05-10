@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Elevator"],"usingMethods":["Elevator","Elevator_GoToFloor"],"name":"wElevatorPointerBank","file":"wram.asm","lineNo":1870,"address":26695,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ExchangeBytes"],"usingMethods":["ExchangeBytes"],"name":"hSerialIgnoringInitialData","file":"hram.asm","lineNo":125,"address":58909,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLYOverridesEnd","file":"wram.asm","lineNo":3118,"address":32920,"addressUsedBy":["MagnetTrain_InitLYOverrides","Intro_ResetLYOverrides","_TitleScreen","StartTrainerBattle_SineWave"]}

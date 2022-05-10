@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLuckyNumberShowFlag","file":"wram.asm","lineNo":2868,"address":29192,"addressUsedBy":["ResetLuckyNumberShowFlag"]}

@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PalPacket_9ce6","file":"gfx/sgb/pal_packets.asm","lineNo":82,"address":70414,"addressUsedBy":["LoadSGBLayout","GSIntro_LoadMonPalette","SGB_ApplyCreditsPals","LoadMailPalettes"]}

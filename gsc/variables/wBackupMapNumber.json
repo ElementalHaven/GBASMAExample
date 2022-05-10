@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":["Elevator","FlyMap","Pokedex_GetLandmark","RegionCheck","SetBoxmonOrEggmonCaughtData","TownMap_GetCurrentLandmark","TownMap_InitCursorAndPlayerIconPositions"],"name":"wBackupMapNumber","file":"wram.asm","lineNo":2890,"address":29205,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"SpecialShuckleOT","file":"engine/events/shuckle.asm","lineNo":68,"address":66332,"addressUsedBy":["GiveShuckle","ReturnShuckle"]}

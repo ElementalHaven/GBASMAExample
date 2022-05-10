@@ -1,0 +1,1 @@
+{"names":["Function81cbc"],"callingMethods":["Function81ca7"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function81cbc:","\tand $f","\tadd DEBUGTEST_0","\tld [hld], a","\tret"],"name":"Function81cbc","file":"engine/menus/debug.asm","lineNo":515,"address":172332,"addressUsedBy":[]}

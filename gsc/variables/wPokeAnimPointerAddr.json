@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["GetMonAnimPointer"],"usingMethods":[],"name":"wPokeAnimPointerAddr","file":"wram.asm","lineNo":3016,"address":29642,"addressUsedBy":["PokeAnim_GetPointer"]}

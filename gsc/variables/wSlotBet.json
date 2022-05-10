@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Slots_AskBet"],"usingMethods":["Slots_CheckMatchedAllThreeReels","Slots_CheckMatchedFirstTwoReels","Slots_IlluminateBetLights","Slots_StopReel2"],"name":"wSlotBet","file":"wram.asm","lineNo":880,"address":20261,"addressUsedBy":[]}

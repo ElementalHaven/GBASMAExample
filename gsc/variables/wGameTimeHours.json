@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wGameTimeHours","file":"wram.asm","lineNo":2492,"address":27627,"addressUsedBy":["Continue_DisplayGameTime","PrintDiplomaPage2","StubbedTrainerRankings_HallOfFame2","TrainerCard_Page1_PrintGameTime","HOF_AnimatePlayerPic"]}

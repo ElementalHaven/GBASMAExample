@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["UnownPuzzle_A","UnownPuzzle_UpdateTilemap","_UnownPuzzle"],"usingMethods":["GetCurrentPuzzlePieceVTileCorner","UnownPuzzle_A"],"name":"wUnownPuzzleHeldPiece","file":"wram.asm","lineNo":1461,"address":26217,"addressUsedBy":[]}

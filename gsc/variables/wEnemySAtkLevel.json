@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckDamageStatsCritical"],"name":"wEnemySAtkLevel","file":"wram.asm","lineNo":585,"address":18504,"addressUsedBy":[]}

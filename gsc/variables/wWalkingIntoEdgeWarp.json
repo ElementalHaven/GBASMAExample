@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["DoPlayerMovement"],"name":"wWalkingIntoEdgeWarp","file":"wram.asm","lineNo":1906,"address":26719,"addressUsedBy":[]}

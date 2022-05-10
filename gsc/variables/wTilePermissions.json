@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":["CheckDirection","player_action"],"name":"wTilePermissions","file":"wram.asm","lineNo":207,"address":17151,"addressUsedBy":[]}

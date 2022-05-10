@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sDailyMysteryGiftPartnerIDs","file":"sram.asm","lineNo":54,"address":44757,"addressUsedBy":["DoMysteryGift"]}

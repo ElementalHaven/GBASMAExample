@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Function28926","Function28ade","Function28b68","Function29dba","LinkTrade","Link_EnsureSync"],"name":"wOtherPlayerLinkMode","file":"wram.asm","lineNo":1376,"address":26170,"addressUsedBy":["InitTradeMenuDisplay"]}

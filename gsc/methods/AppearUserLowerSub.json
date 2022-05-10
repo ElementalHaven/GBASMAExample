@@ -1,0 +1,1 @@
+{"names":["AppearUserLowerSub"],"callingMethods":["BattleCommand_MoveAnimNoSub","DoSubstituteDamage"],"methodsCalled":["FarCall"],"methodAddressesUsed":["_AppearUserLowerSub"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _AppearUserLowerSub","\tret"],"name":"AppearUserLowerSub","lineNo":1,"address":124469,"addressUsedBy":[]}

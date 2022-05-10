@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BoxAddresses","file":"engine/menus/save.asm","lineNo":1065,"address":91744,"addressUsedBy":["GetBoxAddress","EraseBoxes"]}

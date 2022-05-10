@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DexEntryScreen_MenuActionJumptable","InitPokedex","Pokedex_UpdateMainScreen","Pokedex_UpdateSearchResultsScreen"],"usingMethods":["DexEntryScreen_MenuActionJumptable","Pokedex_UpdateDexEntryScreen"],"name":"wPrevDexEntryJumptableIndex","file":"wram.asm","lineNo":1420,"address":26199,"addressUsedBy":[]}

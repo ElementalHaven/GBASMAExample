@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PrintUnownStamp","Print_InitPrinterHandshake","Printer_SignalLoopBack"],"usingMethods":["Printer_Convert2RowsTo2bpp"],"name":"wPrinterRowIndex","file":"wram.asm","lineNo":974,"address":22001,"addressUsedBy":["Printer_StartTransmittingTilemap","Printer_WaitSerialAndLoopBack2"]}

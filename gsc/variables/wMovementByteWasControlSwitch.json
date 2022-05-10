@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ContinueReadingMovement","HandleMovementData"],"usingMethods":["HandleMovementData"],"name":"wMovementByteWasControlSwitch","file":"wram.asm","lineNo":181,"address":17131,"addressUsedBy":[]}

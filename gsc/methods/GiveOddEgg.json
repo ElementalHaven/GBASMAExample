@@ -1,0 +1,1 @@
+{"names":["GiveOddEgg"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_GiveOddEgg"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _GiveOddEgg","\tret"],"name":"GiveOddEgg","lineNo":1,"address":275136,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SpawnPlayer"],"usingMethods":[],"name":"wCenteredObject","file":"wram.asm","lineNo":2505,"address":27638,"addressUsedBy":["NormalStep","SlideStep","JumpStep","MapObjectMovementPattern","TurningStep"]}

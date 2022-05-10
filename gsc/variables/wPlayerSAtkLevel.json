@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckDamageStatsCritical"],"name":"wPlayerSAtkLevel","file":"wram.asm","lineNo":573,"address":18496,"addressUsedBy":[]}

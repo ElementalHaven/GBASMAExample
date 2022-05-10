@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EnemyUsedOnText","file":"engine/battle/ai/items.asm","lineNo":834,"address":125173,"addressUsedBy":["PrintText_UsedItemOn"]}

@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["GetPlayerSprite"],"usingMethods":["_UpdatePlayerSprite"],"name":"wUsedSprites","file":"wram.asm","lineNo":2105,"address":26996,"addressUsedBy":["LoadSpriteGFX","RefreshSprites","AddSpriteGFX","ArrangeUsedSprites","SortUsedSprites","GetUsedSprites","LoadOpponentTrainerAndPokemonWithOTSprite"]}

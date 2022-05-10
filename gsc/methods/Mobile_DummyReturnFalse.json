@@ -1,0 +1,1 @@
+{"names":["Mobile_DummyReturnFalse"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wScriptVar"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Mobile_DummyReturnFalse:","\txor a","\tld [wScriptVar], a","\tret"],"name":"Mobile_DummyReturnFalse","file":"mobile/mobile_41.asm","lineNo":786,"address":265111,"addressUsedBy":[]}

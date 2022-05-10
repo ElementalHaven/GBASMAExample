@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DummyGameDarnText","file":"engine/games/dummy_game.asm","lineNo":327,"address":245497,"addressUsedBy":["DummyGame_CheckMatch"]}

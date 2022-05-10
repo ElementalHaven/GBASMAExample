@@ -1,0 +1,1 @@
+{"names":["MainMenu_NewGame"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["NewGame"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall NewGame","\tret"],"name":"MainMenu_NewGame","lineNo":1,"address":152664,"addressUsedBy":[]}

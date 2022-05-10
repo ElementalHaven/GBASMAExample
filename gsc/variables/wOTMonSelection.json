@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wOTMonSelection","file":"wram.asm","lineNo":1319,"address":26070,"addressUsedBy":["CopyOtherPlayersBattleMonSelection","LoadSelectedPartiesForColosseum"]}

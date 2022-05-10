@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wRadioText","file":"wram.asm","lineNo":1740,"address":26503,"addressUsedBy":["PrintRadioLine","CopyRadioTextToRAM"]}

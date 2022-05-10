@@ -1,0 +1,1 @@
+{"names":["ResetLeader"],"callingMethods":["StopFollow"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wObjectFollow_Leader"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["ResetLeader:","\tld a, -1","\tld [wObjectFollow_Leader], a","\tret"],"name":"ResetLeader","file":"engine/overworld/map_objects.asm","lineNo":2521,"address":62438,"addressUsedBy":[]}

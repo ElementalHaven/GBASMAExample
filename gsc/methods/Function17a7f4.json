@@ -1,0 +1,1 @@
+{"names":["Function17a7f4"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function17a7f4:","\tld hl, $d08b","\tdec [hl]","\tret nz","\tld hl, $d087","\tset 7, [hl]","\tret"],"name":"Function17a7f4","file":"mobile/mobile_5e.asm","lineNo":237,"address":296573,"addressUsedBy":[]}

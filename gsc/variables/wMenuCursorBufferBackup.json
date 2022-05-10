@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BuyMenu","BuyMenuLoop"],"usingMethods":["BuyMenuLoop"],"name":"wMenuCursorBufferBackup","file":"wram.asm","lineNo":1936,"address":26748,"addressUsedBy":[]}

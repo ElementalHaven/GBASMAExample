@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TileCollisionStdScripts","file":"data/events/collision_stdscripts.asm","lineNo":8,"address":88326,"addressUsedBy":["CheckFacingTileForStdScript"]}

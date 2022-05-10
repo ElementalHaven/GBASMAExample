@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_Loop"],"usingMethods":[],"name":"wBattleAnimLoops","file":"wram.asm","lineNo":3166,"address":33309,"addressUsedBy":["BattleAnimCmd_Loop"]}

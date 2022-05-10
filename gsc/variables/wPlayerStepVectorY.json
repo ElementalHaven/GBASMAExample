@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HandleNPCStep","StepType14","StepType15","UpdatePlayerStep"],"usingMethods":["ScrollScreen","StepType14","StepType15","UpdatePlayerStep","_HandlePlayerStep"],"name":"wPlayerStepVectorY","file":"wram.asm","lineNo":2098,"address":26991,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"RoamMaps","file":"data/wild/roammon_maps.asm","lineNo":14,"address":106448,"addressUsedBy":["UpdateRoamMons","JumpRoamMon"]}

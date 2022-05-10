@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"FlailReversalPower","file":"data/moves/flail_reversal_power.asm","lineNo":1,"address":119500,"addressUsedBy":["BattleCommand_ConstantDamage"]}

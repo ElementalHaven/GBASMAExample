@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"StoppedEvolvingText","file":"engine/pokemon/evolve.asm","lineNo":405,"address":147148,"addressUsedBy":["CancelEvolution"]}

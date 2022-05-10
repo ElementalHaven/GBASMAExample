@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function100720","Function100772","Function17d370","Function17d48d"],"usingMethods":["Function17d48d"],"name":"wcd6c","file":"wram.asm","lineNo":1309,"address":26061,"addressUsedBy":["Function100772","_SelectMonsForMobileBattle"]}

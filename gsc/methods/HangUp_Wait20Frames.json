@@ -1,0 +1,1 @@
+{"names":["HangUp_Wait20Frames"],"callingMethods":["HangUp","Phone_CallEnd"],"methodsCalled":["Phone_Wait20Frames"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["HangUp_Wait20Frames:","\tjr Phone_Wait20Frames"],"name":"HangUp_Wait20Frames","file":"engine/phone/phone.asm","lineNo":569,"address":187431,"addressUsedBy":[]}

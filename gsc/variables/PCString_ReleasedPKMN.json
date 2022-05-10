@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_ReleasedPKMN","file":"engine/pokemon/bills_pc.asm","lineNo":2221,"address":247932,"addressUsedBy":["ReleasePKMN_ByePKMN"]}

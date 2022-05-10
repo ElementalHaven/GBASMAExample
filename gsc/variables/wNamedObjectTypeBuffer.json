@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["GetOTName","GetTrainerClassName","InitList","ListMoves"],"usingMethods":[],"name":"wNamedObjectTypeBuffer","file":"wram.asm","lineNo":1389,"address":26186,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wCurElevatorFloors","file":"wram.asm","lineNo":2023,"address":26916,"addressUsedBy":["Elevator_GetCurrentFloorString"]}

@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NameInputLower","file":"data/text/name_input_chars.asm","lineNo":3,"address":84460,"addressUsedBy":["NamingScreenJoypadLoop","NamingScreen_ApplyTextInputMode"]}

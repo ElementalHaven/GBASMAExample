@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckAbleToSwitch"],"usingMethods":["SwitchOften","SwitchRarely","SwitchSometimes"],"name":"wEnemySwitchMonParam","file":"wram.asm","lineNo":703,"address":18572,"addressUsedBy":[]}

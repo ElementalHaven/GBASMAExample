@@ -1,0 +1,1 @@
+{"names":["Pokedex_Exit"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Pokedex_Exit:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"Pokedex_Exit","file":"engine/pokedex/pokedex.asm","lineNo":212,"address":142264,"addressUsedBy":[]}

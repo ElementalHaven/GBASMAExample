@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["Printer_ComputeChecksum","Printer_CopyPacket"],"usingMethods":["Printer_SendwPrinterChecksumHi","Printer_SendwPrinterChecksumLo"],"name":"wPrinterChecksum","file":"wram.asm","lineNo":978,"address":22006,"addressUsedBy":["Printer_ResetData"]}

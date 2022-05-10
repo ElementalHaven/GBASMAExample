@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"WontRiseAnymoreText","file":"data/text/battle.asm","lineNo":732,"address":171755,"addressUsedBy":["BattleCommand_Curse","BattleCommand_StatUpFailText"]}

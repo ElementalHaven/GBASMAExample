@@ -1,0 +1,1 @@
+{"names":["RepelEffect"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"fallsInto":"UseRepel","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["RepelEffect:","\tld b, 100","","UseRepel:"],"name":"RepelEffect","file":"engine/items/item_effects.asm","lineNo":2074,"address":80874,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[256]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBoxEnd","lineNo":9,"address":45653,"addressUsedBy":["SaveBoxAddress","LoadBoxAddress","EraseBoxes"]}

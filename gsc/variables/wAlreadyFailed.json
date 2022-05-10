@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_CheckTurn","CheckTurn"],"usingMethods":["TryPrintButItFailed"],"name":"wAlreadyFailed","file":"wram.asm","lineNo":631,"address":18540,"addressUsedBy":[]}

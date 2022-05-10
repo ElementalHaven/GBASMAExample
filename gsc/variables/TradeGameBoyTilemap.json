@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TradeGameBoyTilemap","file":"engine/movie/trade_animation.asm","lineNo":1442,"address":105436,"addressUsedBy":["TradeAnim_CopyTradeGameBoyTilemap"]}

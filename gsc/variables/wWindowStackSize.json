@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wWindowStackSize","file":"wram.asm","lineNo":1497,"address":26240,"addressUsedBy":["_PushWindow","_ExitMenu"]}

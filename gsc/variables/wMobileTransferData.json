@@ -1,0 +1,1 @@
+{"type":"byte[480]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMobileTransferData","file":"wram.asm","lineNo":755,"address":19056,"addressUsedBy":["MobileCopyTransferData2","MobileCopyTransferData"]}

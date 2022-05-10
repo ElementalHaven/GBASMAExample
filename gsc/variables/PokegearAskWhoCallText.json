@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokegearAskWhoCallText","file":"engine/pokegear/pokegear.asm","lineNo":1352,"address":189875,"addressUsedBy":["PokegearPhoneContactSubmenu","PokegearPhone_Init","PokegearPhone_FinishPhoneCall","PokegearPhone_MakePhoneCall"]}

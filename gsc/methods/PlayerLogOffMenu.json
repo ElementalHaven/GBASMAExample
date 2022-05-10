@@ -1,0 +1,1 @@
+{"names":["PlayerLogOffMenu"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["PlayerLogOffMenu:","\txor a","\tscf","\tret"],"name":"PlayerLogOffMenu","file":"engine/events/pokecenter_pc.asm","lineNo":427,"address":92862,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wReceiveCallDelay_MinsRemaining","file":"wram.asm","lineNo":2433,"address":27587,"addressUsedBy":["CheckReceiveCallDelay","RestartReceiveCallDelay"]}

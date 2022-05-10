@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wc9f4","file":"wram.asm","lineNo":1136,"address":25047,"addressUsedBy":["Link_PrepPartyData_Gen2","Gen2ToGen2LinkComms","LinkTrade"]}

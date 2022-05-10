@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_MoveList","file":"gfx/sgb/blk_packets.asm","lineNo":39,"address":70075,"addressUsedBy":["LoadSGBLayout"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_PerishSong"],"usingMethods":[],"name":"wPlayerPerishCount","file":"wram.asm","lineNo":523,"address":18408,"addressUsedBy":["HandlePerishSong"]}

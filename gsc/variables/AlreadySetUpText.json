@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AlreadySetUpText","file":"engine/overworld/decorations.asm","lineNo":899,"address":101514,"addressUsedBy":["DecoAction_SetItUp_Ornament","DecoAction_SetItUp"]}

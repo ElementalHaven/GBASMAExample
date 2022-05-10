@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ExchangeBytes","Function28b22","Gen2ToGen1LinkComms","Gen2ToGen2LinkComms"],"usingMethods":[],"name":"hSerialSend","file":"hram.asm","lineNo":126,"address":58910,"addressUsedBy":[]}

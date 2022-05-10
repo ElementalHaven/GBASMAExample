@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MainMenu_MobileStudium"],"usingMethods":["MainMenu_MobileStudium"],"name":"wStartSecond","file":"wram.asm","lineNo":2480,"address":27616,"addressUsedBy":["_InitTime"]}

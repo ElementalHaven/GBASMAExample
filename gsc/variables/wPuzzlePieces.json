@@ -1,0 +1,1 @@
+{"type":"byte[244]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPuzzlePieces","file":"wram.asm","lineNo":750,"address":18806,"addressUsedBy":["UnownPuzzle_CheckCurrentTileOccupancy","CheckSolvedUnownPuzzle","InitUnownPuzzlePiecePositions"]}

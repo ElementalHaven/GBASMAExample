@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadTrainerHudOAM"],"usingMethods":["LoadTrainerHudOAM"],"name":"wPlaceBallsX","file":"wram.asm","lineNo":1609,"address":26331,"addressUsedBy":["ShowPlayerMonsRemaining","ShowOTTrainerMonsRemaining","LinkBattle_TrainerHuds"]}

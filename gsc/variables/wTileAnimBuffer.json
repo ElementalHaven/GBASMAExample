@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTileAnimBuffer","file":"wram.asm","lineNo":1372,"address":26169,"addressUsedBy":["WriteTileFromBuffer","WriteTileToBuffer"]}

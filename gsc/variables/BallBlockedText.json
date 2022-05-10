@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BallBlockedText","file":"engine/items/item_effects.asm","lineNo":2686,"address":81362,"addressUsedBy":["UseBallInTrainerBattle"]}

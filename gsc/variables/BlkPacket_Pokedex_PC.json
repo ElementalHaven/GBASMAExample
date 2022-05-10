@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_Pokedex_PC","file":"gfx/sgb/blk_packets.asm","lineNo":44,"address":70088,"addressUsedBy":["LoadSGBLayout"]}

@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownStationName","file":"engine/pokegear/pokegear.asm","lineNo":1763,"address":190269,"addressUsedBy":["LoadStation_UnownRadio","LoadStation_EvolutionRadio"]}

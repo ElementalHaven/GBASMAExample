@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeGear","PokegearPhone_Init"],"usingMethods":["PokegearPhoneContactSubmenu","PokegearPhone_DeletePhoneNumber","PokegearPhone_Joypad","PokegearPhone_UpdateCursor"],"name":"wPokegearPhoneCursorPosition","file":"wram.asm","lineNo":837,"address":20165,"addressUsedBy":["PokegearPhone_GetDPad"]}

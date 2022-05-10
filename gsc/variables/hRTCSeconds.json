@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"hRTCSeconds","file":"hram.asm","lineNo":14,"address":58809,"addressUsedBy":["_InitTime"]}

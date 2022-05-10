@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ResetLeader","SetLeaderIfVisible","SpawnPlayer"],"usingMethods":["ApplyMovementToFollower","GetFollowerNextMovementByte","QueueFollowerFirstStep","RefreshPlayerCoords","_SetFlagsForMovement_2"],"name":"wObjectFollow_Leader","file":"wram.asm","lineNo":2503,"address":27636,"addressUsedBy":["Movement_remove_object"]}

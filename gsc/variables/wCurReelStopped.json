@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wCurReelStopped","file":"wram.asm","lineNo":884,"address":20265,"addressUsedBy":["Slots_CopyReelState","Slots_CheckMatchedFirstTwoReels","Slots_CheckMatchedAllThreeReels"]}

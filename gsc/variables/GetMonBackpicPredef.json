@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"GetMonBackpicPredef","lineNo":1,"address":67392,"addressUsedBy":["Function81adb","BattleAnimCmd_BeatUp","AnimateHOFMonEntrance","DropPlayerSub","BattleAnimCmd_Transform"]}

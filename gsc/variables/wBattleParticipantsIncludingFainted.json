@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoBattle","EnemySwitch","ResetBattleParticipants"],"usingMethods":[],"name":"wBattleParticipantsIncludingFainted","file":"wram.asm","lineNo":633,"address":18541,"addressUsedBy":["AddBattleParticipant","RevivePokemon"]}

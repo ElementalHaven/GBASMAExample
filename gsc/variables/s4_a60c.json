@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function103309","Function103362","Function14d83"],"usingMethods":["CheckBattleScene","Function1011f1"],"name":"s4_a60c","file":"sram.asm","lineNo":247,"address":47593,"addressUsedBy":["Function14d83","Function1011f1","CheckBattleScene","Function103362","Function103309"]}

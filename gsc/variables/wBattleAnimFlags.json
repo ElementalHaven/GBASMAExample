@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["BattleAnim_ClearOAM","RunBattleAnimScript"],"name":"wBattleAnimFlags","file":"wram.asm","lineNo":3162,"address":33303,"addressUsedBy":["BattleAnimCmd_KeepSprites","BattleAnimCmd_Ret","BattleAnimCmd_Loop","RunBattleAnimCommand","BattleAnimCmd_Call"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["InitScrollingMenuCursor","ScrollingMenuJoyAction","ScrollingMenu_ClearLeftColumn","ScrollingMenu_InitFlags","ScrollingMenu_PlaceCursor","ScrollingMenu_UpdateDisplay"],"name":"wMenuData_ScrollingMenuHeight","file":"wram.asm","lineNo":1535,"address":26281,"addressUsedBy":[]}

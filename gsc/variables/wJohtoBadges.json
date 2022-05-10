@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["_ResetWRAM"],"usingMethods":["BadgeStatBoosts","DoBadgeTypeBoosts"],"name":"wJohtoBadges","file":"wram.asm","lineNo":2598,"address":28742,"addressUsedBy":["Continue_DisplayBadgeCount","BattleCommand_CheckObedience"]}

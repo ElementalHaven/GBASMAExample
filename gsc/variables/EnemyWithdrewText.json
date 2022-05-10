@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EnemyWithdrewText","file":"engine/battle/ai/items.asm","lineNo":710,"address":125085,"addressUsedBy":["AI_Switch"]}

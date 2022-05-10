@@ -1,0 +1,1 @@
+{"names":["PlayCurMonCry"],"callingMethods":[],"methodsCalled":["PlayMonCry"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":["wCurPartySpecies"],"varAddressesUsed":[],"constantsUsed":[],"lines":["PlayCurMonCry:","\tld a, [wCurPartySpecies]","\tjp PlayMonCry"],"name":"PlayCurMonCry","file":"engine/events/specials.asm","lineNo":375,"address":73706,"addressUsedBy":[]}

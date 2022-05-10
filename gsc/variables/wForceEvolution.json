@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EvoStoneEffect","ExitBattle","Function102b32","Function11b7e5","Function17d0f3","LinkTrade","RareCandyEffect"],"usingMethods":["EvolutionAnimation","EvolveAfterBattle_MasterLoop"],"name":"wForceEvolution","file":"wram.asm","lineNo":2157,"address":27112,"addressUsedBy":[]}

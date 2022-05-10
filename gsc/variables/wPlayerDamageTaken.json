@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerDamageTaken","file":"wram.asm","lineNo":536,"address":18419,"addressUsedBy":["BattleCommand_EndLoop","BattleCommand_StoreEnergy","BattleCommand_ApplyDamage","UpdateFaintedPlayerMon","BattleCommand_UnleashEnergy"]}

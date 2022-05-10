@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDummyGameLastMatches","file":"wram.asm","lineNo":916,"address":20368,"addressUsedBy":["_DummyGame","DummyGame_CheckMatch"]}

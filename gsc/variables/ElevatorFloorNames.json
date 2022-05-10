@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ElevatorFloorNames","file":"data/events/elevator_floors.asm","lineNo":1,"address":88088,"addressUsedBy":["FloorToString"]}

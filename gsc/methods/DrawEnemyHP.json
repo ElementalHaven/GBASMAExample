@@ -1,0 +1,1 @@
+{"names":["DrawEnemyHP"],"callingMethods":["Unused_PlaceEnemyHPLevel"],"methodsCalled":[],"methodAddressesUsed":[],"fallsInto":"DrawHP","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DrawEnemyHP:","\tld a, $2","","DrawHP:"],"name":"DrawEnemyHP","file":"engine/pokemon/mon_stats.asm","lineNo":5,"address":161754,"addressUsedBy":[]}

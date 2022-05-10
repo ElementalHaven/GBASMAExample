@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["LoadOrRegenerateLuckyIDNumber"],"usingMethods":["LoadOrRegenerateLuckyIDNumber"],"name":"sLuckyIDNumber","file":"sram.asm","lineNo":70,"address":44828,"addressUsedBy":["LoadOrRegenerateLuckyIDNumber"]}

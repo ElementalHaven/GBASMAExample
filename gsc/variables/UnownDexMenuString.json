@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownDexMenuString","file":"engine/events/print_unown.asm","lineNo":205,"address":96004,"addressUsedBy":["_UnownPrinter"]}

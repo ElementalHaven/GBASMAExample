@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_SearchForMons"],"usingMethods":["Pokedex_SearchForMons"],"name":"wDexConvertedMonType","file":"wram.asm","lineNo":820,"address":20155,"addressUsedBy":[]}

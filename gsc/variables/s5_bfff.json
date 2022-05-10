@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTowerRoomMenu_InitRAM","Function118440"],"usingMethods":["Function118440"],"name":"s5_bfff","file":"sram.asm","lineNo":403,"address":56742,"addressUsedBy":["Function118440","BattleTowerRoomMenu_InitRAM"]}

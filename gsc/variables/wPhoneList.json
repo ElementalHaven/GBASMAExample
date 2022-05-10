@@ -1,0 +1,1 @@
+{"type":"byte[22]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPhoneList","file":"wram.asm","lineNo":2864,"address":29170,"addressUsedBy":["PokegearPhone_Joypad","PokegearPhoneContactSubmenu","Phone_FindOpenSlot","PokegearPhone_DeletePhoneNumber","GetAvailableCallers","PokegearPhone_UpdateDisplayList","_CheckCellNum"]}

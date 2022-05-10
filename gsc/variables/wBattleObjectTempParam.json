@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_Obj","BattleBGEffect_BattlerObj_1Row","BattleBGEffect_BattlerObj_2Row"],"usingMethods":["InitBattleAnimation"],"name":"wBattleObjectTempParam","file":"wram.asm","lineNo":3182,"address":33320,"addressUsedBy":[]}

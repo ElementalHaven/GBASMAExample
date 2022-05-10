@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":["GameFreakLogoScene4"],"usingMethods":[],"name":"wOBPals2","file":"wram.asm","lineNo":3115,"address":32912,"addressUsedBy":["BattleAnim_SetOBPals","BGEffects_LoadBGPal1_OBPal0","BattleAnim_SetBGPals","Function108af4","UnusedTitleScreen","BGEffects_LoadBGPal0_OBPal1","GameFreakLogoScene4","healmachineanimseq"]}

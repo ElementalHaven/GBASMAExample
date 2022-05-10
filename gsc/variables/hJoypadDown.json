@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SavingDontTurnOffThePower"],"usingMethods":["Pokedex_GetArea"],"name":"hJoypadDown","file":"hram.asm","lineNo":40,"address":58828,"addressUsedBy":[]}

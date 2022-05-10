@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["BattleIntro","CleanUpBattleRAM","Function100b12","Function24f19","LoadBattleMenu","SendOutPlayerMon","StartMenu"],"usingMethods":["BattleMenu","Function100b12","Function24f19","LoadBattleMenu","StartMenu"],"name":"wBattleMenuCursorBuffer","file":"wram.asm","lineNo":1958,"address":26869,"addressUsedBy":[]}

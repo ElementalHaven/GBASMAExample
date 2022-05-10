@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["ClearDailyTimers"],"usingMethods":[],"name":"wLuckyNumberDayBuffer","file":"wram.asm","lineNo":2828,"address":29091,"addressUsedBy":["RestartLuckyNumberCountdown","_CheckLuckyNumberShowFlag"]}

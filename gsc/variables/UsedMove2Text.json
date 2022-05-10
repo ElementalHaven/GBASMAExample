@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UsedMove2Text","file":"engine/battle/used_move_text.asm","lineNo":65,"address":264344,"addressUsedBy":["UsedMoveText"]}

@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleMenu_Pack","PokeBallEffect"],"usingMethods":["BattleMenu_Pack","GetPokeBallWobble","PokeBallEffect"],"name":"wWildMon","file":"wram.asm","lineNo":411,"address":18380,"addressUsedBy":[]}

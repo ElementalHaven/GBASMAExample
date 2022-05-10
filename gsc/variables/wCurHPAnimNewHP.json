@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["EnemyPotionContinue"],"usingMethods":["_AnimateHPBar"],"name":"wCurHPAnimNewHP","file":"wram.asm","lineNo":2172,"address":27123,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["EnemyMonEntrance"],"callingMethods":["PlayerSwitch"],"methodsCalled":["FarCall","SetEnemyTurn","SpikesDamage"],"methodAddressesUsed":["AI_Switch"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tcallfar AI_Switch","\tcall SetEnemyTurn","\tjp SpikesDamage"],"name":"EnemyMonEntrance","lineNo":1,"address":138398,"addressUsedBy":[]}

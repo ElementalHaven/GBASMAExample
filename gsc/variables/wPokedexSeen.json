@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPokedexSeen","file":"wram.asm","lineNo":2933,"address":29480,"addressUsedBy":["Rate","Pokedex_DrawMainScreenBG","_GetVarAction","GiveEgg","LoadEnemyMon"]}

@@ -1,0 +1,1 @@
+{"names":["asm_17d721"],"callingMethods":["Function17d6fd"],"methodsCalled":["Function17e5af"],"methodAddressesUsed":[],"varsSet":["wcd77"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_17d721:","\tcall Function17e5af","\tld a, $2","\tld [wcd77], a","\tret"],"name":"asm_17d721","file":"mobile/mobile_5f.asm","lineNo":1112,"address":298270,"addressUsedBy":[]}

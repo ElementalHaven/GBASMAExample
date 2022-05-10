@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckUnownLetter","ChooseWildEncounter"],"name":"wUnlockedUnowns","file":"wram.asm","lineNo":2937,"address":29480,"addressUsedBy":[]}

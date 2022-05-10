@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BT_ChrisName","file":"engine/events/battle_tower/battle_tower.asm","lineNo":492,"address":294199,"addressUsedBy":["ReadBTTrainerParty"]}

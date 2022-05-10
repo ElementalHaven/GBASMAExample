@@ -1,0 +1,1 @@
+{"names":["SaveGameData"],"callingMethods":[],"methodsCalled":["_SaveGameData"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SaveGameData:","\tcall _SaveGameData","\tret"],"name":"SaveGameData","file":"engine/menus/save.asm","lineNo":166,"address":91011,"addressUsedBy":["MovePKMNWitoutMail_InsertMon","HallOfFame"]}

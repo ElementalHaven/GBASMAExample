@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CriticalHitMoves","file":"data/moves/critical_hit_moves.asm","lineNo":1,"address":117197,"addressUsedBy":["BattleCommand_Critical"]}

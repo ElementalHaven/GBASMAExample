@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerToxicCount","file":"wram.asm","lineNo":520,"address":18405,"addressUsedBy":["BattleCommand_Poison","ResidualDamage"]}

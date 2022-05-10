@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_UpdateDexEntryScreen"],"usingMethods":["Pokedex_UpdateDexEntryScreen"],"name":"wLastVolume","file":"wram.asm","lineNo":96,"address":17077,"addressUsedBy":[]}

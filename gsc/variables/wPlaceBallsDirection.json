@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LinkBattle_TrainerHuds","ShowOTTrainerMonsRemaining","ShowPlayerMonsRemaining"],"usingMethods":["LoadTrainerHudOAM"],"name":"wPlaceBallsDirection","file":"wram.asm","lineNo":1766,"address":26577,"addressUsedBy":[]}

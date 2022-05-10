@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_SEEN","file":"engine/pokedex/pokedex.asm","lineNo":1127,"address":143047,"addressUsedBy":["Pokedex_DrawMainScreenBG"]}

@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["RestorePPOfDepositedPokemon"],"usingMethods":["PrintPartyMonPage1","PrintPartyMonPage2"],"name":"wTempMonMoves","lineNo":3,"address":26936,"addressUsedBy":["SetUpMoveList","RestorePPOfDepositedPokemon","InsertPokemonIntoBox","SendMonIntoBox","LoadGreenPage","GetMaxPPOfMove","ListMovePP"]}

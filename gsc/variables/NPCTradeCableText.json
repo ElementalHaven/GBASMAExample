@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NPCTradeCableText","file":"engine/events/npc_trade.asm","lineNo":433,"address":254372,"addressUsedBy":["NPCTrade"]}

@@ -1,0 +1,1 @@
+{"names":["Function101cbc"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd2b"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function101cbc:","\tld a, $01","\tld [wcd2b], a","\tret"],"name":"Function101cbc","file":"mobile/mobile_40.asm","lineNo":4144,"address":258554,"addressUsedBy":[]}

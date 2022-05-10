@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Elevator_MenuHeader","file":"engine/events/elevator.asm","lineNo":177,"address":88049,"addressUsedBy":["Elevator_AskWhichFloor"]}

@@ -1,0 +1,1 @@
+{"type":"byte[16]","validValues":[],"settingMethods":["ReadMart"],"usingMethods":[],"name":"wCurMart","file":"wram.asm","lineNo":2017,"address":26899,"addressUsedBy":["ReadMart","FarReadMart","InitList","LoadMartPointer"]}

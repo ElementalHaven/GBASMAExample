@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EvolveAfterBattle","EvolveAfterBattle_MasterLoop"],"usingMethods":["EvoStoneEffect","EvolveAfterBattle_MasterLoop"],"name":"wMonTriedToEvolve","file":"wram.asm","lineNo":2315,"address":27250,"addressUsedBy":[]}

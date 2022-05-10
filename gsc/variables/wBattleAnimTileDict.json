@@ -1,0 +1,1 @@
+{"type":"byte[10]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBattleAnimTileDict","file":"wram.asm","lineNo":3137,"address":33032,"addressUsedBy":["BattleAnimCmd_1GFX","BattleAnimCmd_2GFX","BattleAnimCmd_3GFX","BattleAnimCmd_4GFX","BattleAnimCmd_5GFX","GetBattleAnimTileOffset","BattleAnimCmd_BattlerGFX_1Row","BattleAnimCmd_BattlerGFX_2Row"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DecorationIDs","file":"data/decorations/decorations.asm","lineNo":1,"address":101558,"addressUsedBy":["GetDecorationID","SetAllDecorationFlags"]}

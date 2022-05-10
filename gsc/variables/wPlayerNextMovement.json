@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement","Function5000","RefreshPlayerSprite"],"usingMethods":["Function5000"],"name":"wPlayerNextMovement","file":"wram.asm","lineNo":167,"address":17119,"addressUsedBy":["StopPlayerForEvent"]}

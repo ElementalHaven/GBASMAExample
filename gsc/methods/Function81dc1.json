@@ -1,0 +1,1 @@
+{"names":["Function81dc1"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function81dc1:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"Function81dc1","file":"engine/menus/debug.asm","lineNo":689,"address":172468,"addressUsedBy":[]}

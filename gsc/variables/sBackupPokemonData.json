@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBackupPokemonData","file":"sram.asm","lineNo":82,"address":44831,"addressUsedBy":["LoadBackupPokemonData","SaveBackupPokemonData"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sMailboxCountBackup","file":"sram.asm","lineNo":37,"address":44682,"addressUsedBy":["RestorePartyMonMail","BackupPartyMonMail"]}

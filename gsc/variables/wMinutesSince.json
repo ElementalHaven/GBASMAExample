@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_CalcMinsHoursDaysSince"],"usingMethods":["CheckBugContestTimer","GetMinutesSinceIfLessThan60","GetSecondsSinceIfLessThan60"],"name":"wMinutesSince","file":"wram.asm","lineNo":1657,"address":26348,"addressUsedBy":[]}

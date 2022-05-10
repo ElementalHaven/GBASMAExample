@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBattleMonAttack","lineNo":12,"address":18366,"addressUsedBy":["ApplyStatLevelMultiplier","InitBattleMon","PlayerAttackDamage","ApplyBrnEffectOnAttack","CalcPlayerStats","BadgeStatBoosts","BattleCommand_StatDown"]}

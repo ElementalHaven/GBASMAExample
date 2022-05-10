@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["UpdateBattleStateAndExperienceAfterEnemyFaint"],"usingMethods":[],"name":"wGivingExperienceToExpShareHolders","file":"wram.asm","lineNo":713,"address":18580,"addressUsedBy":[]}

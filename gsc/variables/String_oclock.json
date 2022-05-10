@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_oclock","file":"engine/rtc/timeset.asm","lineNo":300,"address":188320,"addressUsedBy":["DisplayHourOClock"]}

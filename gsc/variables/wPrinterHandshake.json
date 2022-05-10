@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Printer_CheckConnectionStatus","Printer_ReceiveTwoPrinterHandshakeAndSend0x00"],"usingMethods":["CheckPrinterStatus","Printer_CheckConnectionStatus"],"name":"wPrinterHandshake","file":"wram.asm","lineNo":979,"address":22008,"addressUsedBy":[]}

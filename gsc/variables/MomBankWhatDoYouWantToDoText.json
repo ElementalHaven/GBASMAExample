@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MomBankWhatDoYouWantToDoText","file":"engine/events/mom.asm","lineNo":602,"address":95004,"addressUsedBy":["BankOfMom"]}

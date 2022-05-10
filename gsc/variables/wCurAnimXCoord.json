@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitSpriteAnimBuffer"],"usingMethods":["UpdateAnimFrame"],"name":"wCurAnimXCoord","file":"wram.asm","lineNo":290,"address":17510,"addressUsedBy":[]}

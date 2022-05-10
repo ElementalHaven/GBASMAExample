@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["GetCurTreeFruit","GetFruitTreeFlag"],"name":"wCurFruitTree","file":"wram.asm","lineNo":1850,"address":26688,"addressUsedBy":[]}

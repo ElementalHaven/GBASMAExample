@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ConsumableEffects","file":"data/battle/held_consumables.asm","lineNo":3,"address":101971,"addressUsedBy":["ConsumeHeldItem"]}

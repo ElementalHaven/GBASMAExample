@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CutTreeBlockPointers","file":"data/events/field_move_blocks.asm","lineNo":1,"address":74282,"addressUsedBy":["CheckMapForSomethingToCut"]}

@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":["Function10339a","Function1034be","Function16cba3","Function16cbba"],"usingMethods":["Function1033af","Function10343c","Function10350f","Function16cbba","Function16cbd1"],"name":"wd1f3","file":"wram.asm","lineNo":2197,"address":27145,"addressUsedBy":["Gen2ToGen2LinkComms","Gen2ToGen1LinkComms","FixDataForLinkTransfer"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_ResetWRAM"],"usingMethods":[],"name":"wRoamMon3Species","lineNo":1,"address":29616,"addressUsedBy":["GetRoamMonSpecies"]}

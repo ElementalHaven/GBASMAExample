@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitBattleAnimBuffer"],"usingMethods":["InitBattleAnimBuffer"],"name":"wBattleAnimTempField02","file":"wram.asm","lineNo":3186,"address":33322,"addressUsedBy":[]}

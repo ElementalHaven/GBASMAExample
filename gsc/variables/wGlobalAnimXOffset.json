@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EggHatch_AnimationSequence","IntroScene13","IntroScene14","IntroScene7","IntroScene8","IntroScene9","LoadNamingScreenGFX"],"usingMethods":["IntroScene14","IntroScene8","UpdateAnimFrame"],"name":"wGlobalAnimXOffset","file":"wram.asm","lineNo":295,"address":17515,"addressUsedBy":["MagnetTrain_Jumptable"]}

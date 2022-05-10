@@ -1,0 +1,1 @@
+{"names":["GoodRodEffect"],"callingMethods":[],"methodsCalled":["UseRod"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["GoodRodEffect:","\tld e, $1","\tjr UseRod"],"name":"GoodRodEffect","file":"engine/items/item_effects.asm","lineNo":2272,"address":81037,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["_TitleScreen"],"usingMethods":[],"name":"wSuicuneFrame","file":"wram.asm","lineNo":1785,"address":26591,"addressUsedBy":["SuicuneFrameIterator"]}

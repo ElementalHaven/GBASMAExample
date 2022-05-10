@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["StartMenu"],"name":"wQueuedScriptBank","file":"wram.asm","lineNo":1987,"address":26891,"addressUsedBy":["StartGameCornerGame"]}

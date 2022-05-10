@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_ChooseaPKMN","file":"engine/pokemon/bills_pc.asm","lineNo":2213,"address":247781,"addressUsedBy":["_MovePKMNWithoutMail","_DepositPKMN","_WithdrawPKMN"]}

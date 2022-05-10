@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["Link_CheckCommunicationError","WaitForLinkedFriend"],"usingMethods":["Link_CheckCommunicationError","WaitForLinkedFriend"],"name":"wLinkTimeoutFrames","file":"wram.asm","lineNo":1382,"address":26180,"addressUsedBy":["Function29dba","WaitForOtherPlayerToExit","CheckLinkTimeout","Link_CheckCommunicationError"]}

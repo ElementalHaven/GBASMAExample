@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EnterMapWarp"],"usingMethods":[],"name":"wDigWarpNumber","file":"wram.asm","lineNo":2882,"address":29200,"addressUsedBy":["EscapeRopeOrDig"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeGear","PokegearPhone_Init","PokegearPhone_Joypad"],"usingMethods":["PokegearPhone_MakePhoneCall"],"name":"wPokegearPhoneSelectedPerson","file":"wram.asm","lineNo":839,"address":20167,"addressUsedBy":[]}

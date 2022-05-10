@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckMovingOffEdgeOfMap","GetMapScreenCoords","UpdateOverworldMap"],"name":"wMapWidth","file":"wram.asm","lineNo":2128,"address":27039,"addressUsedBy":[]}

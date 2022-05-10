@@ -1,0 +1,1 @@
+{"names":["BillsPC_EndJumptableLoop"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["BillsPC_EndJumptableLoop:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"BillsPC_EndJumptableLoop","file":"engine/pokemon/bills_pc.asm","lineNo":797,"address":246494,"addressUsedBy":[]}

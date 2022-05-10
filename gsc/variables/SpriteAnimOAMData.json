@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"SpriteAnimOAMData","file":"data/sprite_anims/oam.asm","lineNo":1,"address":184892,"addressUsedBy":["GetFrameOAMPointer"]}

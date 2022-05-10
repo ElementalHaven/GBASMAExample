@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"LearnMovePredef","lineNo":1,"address":67209,"addressUsedBy":["TeachTMHM","CheckCanLearnMoveTutorMove","LearnLevelMoves"]}

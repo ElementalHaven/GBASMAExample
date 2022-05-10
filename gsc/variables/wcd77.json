@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function17d370","Function17d5c4","Function17d78d","Function17e309","Function17e427","asm_17d721"],"usingMethods":["Function17d45a","Function17d474","Function17d6fd","Function17dccf"],"name":"wcd77","file":"wram.asm","lineNo":1320,"address":26072,"addressUsedBy":["Function17e438","Function17e409"]}

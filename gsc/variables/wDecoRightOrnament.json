@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1146fa","Function1154d4","Function1155af"],"usingMethods":["DecorationDesc_RightOrnament","Function1147cd","Function1154d4","ToggleDecorationsVisibility"],"name":"wDecoRightOrnament","file":"wram.asm","lineNo":2808,"address":29071,"addressUsedBy":["QueryWhichSide","Function1153d2","Function11537d"]}

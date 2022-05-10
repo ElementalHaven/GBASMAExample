@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckFacingObject","CheckMovingOffEdgeOfMap","Function7113","player_action"],"name":"wPlayerStandingMapY","lineNo":17,"address":27662,"addressUsedBy":["RefreshPlayerCoords"]}

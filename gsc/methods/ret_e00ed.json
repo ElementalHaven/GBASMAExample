@@ -1,0 +1,1 @@
+{"names":["ret_e00ed"],"callingMethods":["_DummyGame"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["ret_e00ed:","\tret"],"name":"ret_e00ed","file":"engine/games/card_flip.asm","lineNo":10,"address":242983,"addressUsedBy":["DoAnimFrame"]}

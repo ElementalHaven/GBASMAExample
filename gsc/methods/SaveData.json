@@ -1,0 +1,1 @@
+{"names":["SaveData"],"callingMethods":["ErasePreviousSave"],"methodsCalled":["_SaveData"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SaveData:","\tcall _SaveData","\tret"],"name":"SaveData","file":"engine/menus/save.asm","lineNo":420,"address":91211,"addressUsedBy":[]}

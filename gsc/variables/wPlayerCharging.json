@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ParsePlayerAction"],"usingMethods":["CheckUserIsCharging"],"name":"wPlayerCharging","file":"wram.asm","lineNo":730,"address":18599,"addressUsedBy":["ResetTurn","BattleCommand_StoreEnergy"]}

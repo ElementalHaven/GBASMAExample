@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":["_UnownPrinter"],"name":"wUnownDex","file":"wram.asm","lineNo":2936,"address":29480,"addressUsedBy":["Pokedex_LoadUnownFrontpicTiles","_GetVarAction","Pokedex_DrawUnownModeBG","PrintUnownWord","UpdateUnownDex"]}

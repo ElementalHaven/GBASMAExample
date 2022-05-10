@@ -1,0 +1,1 @@
+{"names":["TradeAnim_End"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["TradeAnim_End:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"TradeAnim_End","file":"engine/movie/trade_animation.asm","lineNo":311,"address":104538,"addressUsedBy":[]}

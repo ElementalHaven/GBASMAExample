@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_NextOrPreviousDexEntry"],"usingMethods":["Pokedex_NextOrPreviousDexEntry"],"name":"wBackupDexListingPage","file":"wram.asm","lineNo":824,"address":20159,"addressUsedBy":[]}

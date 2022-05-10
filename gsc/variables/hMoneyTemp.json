@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["BargainShopAskPurchaseQuantity","CheckBalance_MomItem2","MomBuysItem_DeductFunds"],"usingMethods":[],"name":"hMoneyTemp","file":"hram.asm","lineNo":111,"address":58897,"addressUsedBy":["SellMenu","BuyMenuLoop","MomBuysItem_DeductFunds","CheckBalance_MomItem2","BuySell_DisplaySubtotal"]}

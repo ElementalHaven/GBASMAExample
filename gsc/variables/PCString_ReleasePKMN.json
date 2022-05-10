@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_ReleasePKMN","file":"engine/pokemon/bills_pc.asm","lineNo":2215,"address":247813,"addressUsedBy":["BillsPCDepositFuncRelease","BillsPC_Withdraw"]}

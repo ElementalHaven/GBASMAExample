@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetBattleAnimFrame","InitBattleAnimBuffer"],"usingMethods":["BattleAnimOAMUpdate"],"name":"wBattleAnimTempFrameOAMFlags","file":"wram.asm","lineNo":3192,"address":33328,"addressUsedBy":[]}

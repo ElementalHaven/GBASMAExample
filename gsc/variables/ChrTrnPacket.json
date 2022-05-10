@@ -1,0 +1,1 @@
+{"type":"byte[14]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ChrTrnPacket","file":"data/sgb_ctrl_packets.asm","lineNo":45,"address":70474,"addressUsedBy":["SGBBorder_YetMorePalPushing"]}

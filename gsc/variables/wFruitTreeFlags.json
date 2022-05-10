@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wFruitTreeFlags","file":"wram.asm","lineNo":2824,"address":29089,"addressUsedBy":["GetFruitTreeFlag","ResetFruitTrees"]}

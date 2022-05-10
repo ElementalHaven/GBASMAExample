@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleMonNicknameText","file":"engine/battle/core.asm","lineNo":7695,"address":140365,"addressUsedBy":["Function_TextJump_BattleMonNick01"]}

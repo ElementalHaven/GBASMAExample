@@ -1,0 +1,1 @@
+{"type":"byte[394]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBackupGameDataEnd","file":"sram.asm","lineNo":83,"address":44831,"addressUsedBy":["VerifyBackupChecksum","SaveBackupChecksum"]}

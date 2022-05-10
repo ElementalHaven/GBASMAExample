@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBikeFlags","file":"wram.asm","lineNo":2776,"address":29039,"addressUsedBy":["TrySurfOW","BikeFunction","SetStrengthFlag","CheckUpdatePlayerSprite","player_action","TryStrengthOW","DoPlayerMovement","SurfFunction"]}

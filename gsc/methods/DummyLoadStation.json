@@ -1,0 +1,1 @@
+{"names":["DummyLoadStation"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DummyLoadStation: ; unreferenced","\tret"],"name":"DummyLoadStation","file":"engine/pokegear/pokegear.asm","lineNo":1696,"address":190163,"addressUsedBy":[]}

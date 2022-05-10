@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_DepositPKMN","_MovePKMNWithoutMail","_WithdrawPKMN"],"usingMethods":["BillsPC_RefreshTextboxes","MoveMonWithoutMail_DPad","MoveMonWithoutMail_DPad_2","Withdraw_UpDown","_StatsScreenDPad"],"name":"wBillsPC_NumMonsOnScreen","file":"wram.asm","lineNo":1013,"address":22762,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["LoadTradeRoomBGPals"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_LoadTradeRoomBGPals"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _LoadTradeRoomBGPals","\tret"],"name":"LoadTradeRoomBGPals","lineNo":1,"address":293519,"addressUsedBy":["SetTradeRoomBGPals"]}

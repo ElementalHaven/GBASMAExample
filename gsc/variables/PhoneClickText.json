@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PhoneClickText","file":"engine/phone/phone.asm","lineNo":543,"address":187407,"addressUsedBy":["HangUp_Beep"]}

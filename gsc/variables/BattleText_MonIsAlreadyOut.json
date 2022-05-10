@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_MonIsAlreadyOut","file":"data/text/battle.asm","lineNo":310,"address":171679,"addressUsedBy":["SwitchMonAlreadyOut","TryPlayerSwitch"]}

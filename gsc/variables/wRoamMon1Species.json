@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitRoamMons","_ResetWRAM"],"usingMethods":["FindNest","GetRoamMonDVs","GetRoamMonHP","GetRoamMonMapGroup","GetRoamMonMapNumber"],"name":"wRoamMon1Species","lineNo":1,"address":29602,"addressUsedBy":["GetRoamMonSpecies"]}

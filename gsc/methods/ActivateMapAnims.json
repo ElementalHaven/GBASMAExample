@@ -1,0 +1,1 @@
+{"names":["ActivateMapAnims"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["hMapAnims"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["TRUE"],"lines":["ActivateMapAnims:","\tld a, TRUE","\tldh [hMapAnims], a","\tret"],"name":"ActivateMapAnims","file":"engine/overworld/map_setup.asm","lineNo":115,"address":92286,"addressUsedBy":[]}

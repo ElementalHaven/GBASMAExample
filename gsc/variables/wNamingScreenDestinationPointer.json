@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wNamingScreenDestinationPointer","file":"wram.asm","lineNo":862,"address":20193,"addressUsedBy":["NamingScreen_InitNameEntry","NamingScreen_GetTextCursorPosition","NamingScreen","NamingScreenJoypadLoop","NamingScreen_StoreEntry","_ComposeMailMessage"]}

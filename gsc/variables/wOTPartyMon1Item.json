@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitEnemyTrainer"],"usingMethods":[],"name":"wOTPartyMon1Item","lineNo":2,"address":27275,"addressUsedBy":["HandleBerserkGene","GetOTPartymonItem","ConsumeHeldItem","TrainerType3","TrainerType4","LoadEnemyMon"]}

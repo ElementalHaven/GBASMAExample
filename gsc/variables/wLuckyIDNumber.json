@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["LoadOrRegenerateLuckyIDNumber"],"usingMethods":[],"name":"wLuckyIDNumber","file":"wram.asm","lineNo":2870,"address":29194,"addressUsedBy":["LuckyNumberShow8","PrintTodaysLuckyNumber","CheckForLuckyNumberWinners"]}

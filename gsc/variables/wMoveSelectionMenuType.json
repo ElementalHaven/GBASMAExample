@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ParsePlayerAction","RestorePPEffect"],"usingMethods":["MoveSelectionScreen"],"name":"wMoveSelectionMenuType","file":"wram.asm","lineNo":2248,"address":27211,"addressUsedBy":[]}

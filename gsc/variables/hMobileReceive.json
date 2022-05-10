@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTowerRoomMenu_Cleanup","BattleTowerRoomMenu_InitRAM","DisableMobile","EnableMobile","Function1000fa","Function106442"],"usingMethods":[],"name":"hMobileReceive","file":"hram.asm","lineNo":122,"address":58906,"addressUsedBy":[]}

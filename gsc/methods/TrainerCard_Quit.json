@@ -1,0 +1,1 @@
+{"names":["TrainerCard_Quit"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["TrainerCard_Quit:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"TrainerCard_Quit","file":"engine/menus/trainer_card.asm","lineNo":99,"address":99582,"addressUsedBy":[]}

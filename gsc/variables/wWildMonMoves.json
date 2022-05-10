@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wWildMonMoves","file":"wram.asm","lineNo":735,"address":18602,"addressUsedBy":["BattleCommand_DoTurn","BattleCommand_Sketch","InitEnemyWildmon","PokeBallEffect","HandleMysteryberry"]}

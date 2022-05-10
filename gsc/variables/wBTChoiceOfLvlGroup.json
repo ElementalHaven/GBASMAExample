@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["LoadBattleTowerLevelGroup"],"usingMethods":["Function_LoadRandomBattleTowerMon","SaveBattleTowerLevelGroup"],"name":"wBTChoiceOfLvlGroup","file":"wram.asm","lineNo":3068,"address":31308,"addressUsedBy":["SaveBattleTowerLevelGroup","LoadBattleTowerLevelGroup"]}

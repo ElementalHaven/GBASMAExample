@@ -1,0 +1,1 @@
+{"names":["OldRodEffect"],"callingMethods":[],"methodsCalled":["UseRod"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["OldRodEffect:","\tld e, $0","\tjr UseRod"],"name":"OldRodEffect","file":"engine/items/item_effects.asm","lineNo":2268,"address":81035,"addressUsedBy":[]}

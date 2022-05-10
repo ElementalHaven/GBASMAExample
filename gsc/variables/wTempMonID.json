@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["DisplayHOFMon"],"usingMethods":[],"name":"wTempMonID","lineNo":4,"address":26936,"addressUsedBy":["DisplayHOFMon","LoadBluePage","PrintPartyMonPage1"]}

@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingHOFEntries","file":"sram.asm","lineNo":277,"address":50181,"addressUsedBy":["StubbedTrainerRankings_HallOfFame"]}

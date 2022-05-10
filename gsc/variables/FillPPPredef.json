@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"FillPPPredef","lineNo":1,"address":67224,"addressUsedBy":["Function17e026","LoadEggMove","ApplyPPUp","LoadEnemyMon","Function17ded9","DayCare_InitBreeding"]}

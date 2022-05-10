@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattlePack","DepositSellInitPackBuffers","InitPackBuffers","InitPocket","Pack"],"usingMethods":["BattlePack","DrawPackGFX","DrawPocketName","GiveTakePartyMonItem","Pack","RegisterItem","ResetPocketCursorPositions"],"name":"wCurPocket","file":"wram.asm","lineNo":1436,"address":26204,"addressUsedBy":[]}

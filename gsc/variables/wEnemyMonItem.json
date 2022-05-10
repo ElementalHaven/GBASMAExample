@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadEnemyMon"],"usingMethods":["GeneratePartyMonStats"],"name":"wEnemyMonItem","lineNo":2,"address":27173,"addressUsedBy":["BattleCommand_Critical","GetOpponentItem","GetUserItem","GetOTPartymonItem","ConsumeHeldItem","BattleCommand_Thief","PokeBallEffect"]}

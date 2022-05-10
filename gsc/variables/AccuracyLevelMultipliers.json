@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AccuracyLevelMultipliers","file":"data/battle/accuracy_multipliers.asm","lineNo":4,"address":118276,"addressUsedBy":["BattleCommand_CheckHit"]}

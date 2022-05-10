@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function11463c","Function115bc8"],"usingMethods":["Function1146fa","Function115b00","Function115bc8","ToggleMaptileDecorations"],"name":"wDecoCarpet","file":"wram.asm","lineNo":2803,"address":29066,"addressUsedBy":["DecoAction_putawaycarpet","DecoAction_setupcarpet","Function1155d1"]}

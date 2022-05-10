@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyMonBaseStats","file":"wram.asm","lineNo":2216,"address":27196,"addressUsedBy":["UpdateBattleStateAndExperienceAfterEnemyFaint","InitEnemyMon","GiveExperiencePoints","LoadEnemyMon"]}

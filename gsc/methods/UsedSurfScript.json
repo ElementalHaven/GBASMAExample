@@ -1,0 +1,1 @@
+{"names":["UsedSurfScript"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["StubbedTrainerRankings_Surf"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall StubbedTrainerRankings_Surf","\tret"],"name":"UsedSurfScript","lineNo":1,"address":74439,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":["QueueFollowerFirstStep"],"usingMethods":[],"name":"wFollowMovementQueue","file":"wram.asm","lineNo":2507,"address":27640,"addressUsedBy":["GetFollowerNextMovementByte","ApplyMovementToFollower"]}

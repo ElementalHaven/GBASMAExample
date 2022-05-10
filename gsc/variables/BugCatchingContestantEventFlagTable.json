@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BugCatchingContestantEventFlagTable","file":"data/events/bug_contest_flags.asm","lineNo":1,"address":88861,"addressUsedBy":["SelectRandomBugContestContestants","CheckBugContestContestantFlag"]}

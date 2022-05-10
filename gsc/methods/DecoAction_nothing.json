@@ -1,0 +1,1 @@
+{"names":["DecoAction_nothing"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DecoAction_nothing:","\tscf","\tret"],"name":"DecoAction_nothing","file":"engine/overworld/decorations.asm","lineNo":588,"address":101244,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["GetSpriteAnimFrame","InitSpriteAnimBuffer"],"usingMethods":["GetSpriteOAMAttr"],"name":"wCurSpriteOAMFlags","file":"wram.asm","lineNo":287,"address":17507,"addressUsedBy":["AddOrSubtractY","AddOrSubtractX"]}

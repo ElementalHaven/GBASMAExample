@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadMartPointer"],"usingMethods":[],"name":"wBargainShopFlags","file":"wram.asm","lineNo":1898,"address":26715,"addressUsedBy":["BargainShop","BargainShopAskPurchaseQuantity","BuyMenuLoop"]}

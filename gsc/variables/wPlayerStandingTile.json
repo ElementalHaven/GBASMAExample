@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckDirectionalWarp","CheckGrassCollision","CheckStandingOnIce","CheckWarpCollision","CheckWarpFacingDown","DoPlayerMovement","GetWarpSFX","Script_UsedWaterfall"],"name":"wPlayerStandingTile","lineNo":14,"address":27659,"addressUsedBy":[]}

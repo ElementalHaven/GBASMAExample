@@ -1,0 +1,1 @@
+{"type":"byte[14]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MaskEnFreezePacket","file":"data/sgb_ctrl_packets.asm","lineNo":48,"address":70506,"addressUsedBy":["Function9911"]}

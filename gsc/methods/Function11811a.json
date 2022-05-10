@@ -1,0 +1,1 @@
+{"names":["Function11811a"],"callingMethods":[],"methodsCalled":["Function118125"],"methodAddressesUsed":[],"varsSet":["wcd38"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11811a:","\tld a, 1","\tld [wcd38], a","\tjr Function118125"],"name":"Function11811a","file":"mobile/mobile_46.asm","lineNo":132,"address":276144,"addressUsedBy":["Function1700ba"]}

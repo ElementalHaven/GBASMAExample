@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MovementPointers","file":"engine/overworld/movement.asm","lineNo":1,"address":61329,"addressUsedBy":["DoMovementFunction"]}

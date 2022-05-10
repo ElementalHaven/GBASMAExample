@@ -1,0 +1,1 @@
+{"type":"byte[19]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wStringBuffer4","file":"wram.asm","lineNo":1955,"address":26831,"addressUsedBy":["RandomPhoneMon","Rate","RandomPhoneWildMon","DecoAction_SetItUp_Ornament","Function1704e1","DecoAction_SetItUp","Function11b295","Function11b022"]}

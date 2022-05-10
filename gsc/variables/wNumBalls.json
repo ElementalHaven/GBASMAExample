@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["HasNoItems"],"name":"wNumBalls","file":"wram.asm","lineNo":2612,"address":28744,"addressUsedBy":["CheckRegisteredItem","_ResetWRAM","_TossItem","_CheckItem","_ReceiveItem"]}

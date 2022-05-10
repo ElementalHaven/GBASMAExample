@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoBattle","HandleEnemyMonFaint","HandlePlayerMonFaint","LostBattle","WildFled_EnemyFled_LinkBattleCanceled","WinTrainerBattle"],"usingMethods":["BattleTurn","CheckFaint_EnemyThenPlayer","CheckFaint_PlayerThenEnemy"],"name":"wBattleEnded","file":"wram.asm","lineNo":733,"address":18601,"addressUsedBy":[]}

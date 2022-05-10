@@ -1,0 +1,1 @@
+{"names":["SuperRodEffect"],"callingMethods":[],"methodsCalled":["UseRod"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SuperRodEffect:","\tld e, $2","\tjr UseRod"],"name":"SuperRodEffect","file":"engine/items/item_effects.asm","lineNo":2276,"address":81039,"addressUsedBy":[]}

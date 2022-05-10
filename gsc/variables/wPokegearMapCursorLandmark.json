@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["TownMap_InitCursorAndPlayerIconPositions"],"usingMethods":["InitPokegearTilemap","PokegearMap_ContinueMap","PokegearMap_Init"],"name":"wPokegearMapCursorLandmark","file":"wram.asm","lineNo":842,"address":20171,"addressUsedBy":["PokegearMap_ContinueMap"]}

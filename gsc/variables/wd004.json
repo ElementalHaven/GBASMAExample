@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["AnimateExpBar","CopyBoxmonSpecies","Function4adc2","Function81d8e","Function81dc7"],"usingMethods":["AnimateExpBar","CopyBoxmonSpecies","Function4a9d7","Function4adc2","Function81dc7","Function81df4"],"name":"wd004","file":"wram.asm","lineNo":1795,"address":26598,"addressUsedBy":["LinkTrade","Function4aba8"]}

@@ -1,0 +1,1 @@
+{"names":["SlotsAction_Quit"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SlotsAction_Quit:","\tld hl, wJumptableIndex","\tset SLOTS_END_LOOP_F, [hl]","\tret"],"name":"SlotsAction_Quit","file":"engine/games/slot_machine.asm","lineNo":511,"address":191936,"addressUsedBy":[]}

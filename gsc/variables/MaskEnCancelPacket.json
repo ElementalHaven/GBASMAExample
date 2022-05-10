@@ -1,0 +1,1 @@
+{"type":"byte[14]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MaskEnCancelPacket","file":"data/sgb_ctrl_packets.asm","lineNo":49,"address":70522,"addressUsedBy":["InitSGBBorder","Function9911"]}

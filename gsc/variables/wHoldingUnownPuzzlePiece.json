@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["UnownPuzzle_A","_UnownPuzzle"],"usingMethods":["UnownPuzzleJumptable","UnownPuzzle_A","_UnownPuzzle"],"name":"wHoldingUnownPuzzlePiece","file":"wram.asm","lineNo":1459,"address":26215,"addressUsedBy":[]}

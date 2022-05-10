@@ -1,0 +1,1 @@
+{"type":"byte[6]","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["player_action"],"name":"wWalkingTile","file":"wram.asm","lineNo":1912,"address":26725,"addressUsedBy":[]}

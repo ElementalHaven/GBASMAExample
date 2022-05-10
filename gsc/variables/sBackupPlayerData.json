@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBackupPlayerData","file":"sram.asm","lineNo":80,"address":44831,"addressUsedBy":["SaveBackupPlayerData","TryLoadSaveData","LoadBackupPlayerData"]}

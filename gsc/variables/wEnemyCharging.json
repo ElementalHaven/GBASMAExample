@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ParseEnemyAction"],"usingMethods":["CheckUserIsCharging"],"name":"wEnemyCharging","file":"wram.asm","lineNo":731,"address":18600,"addressUsedBy":["ResetTurn","BattleCommand_StoreEnergy"]}

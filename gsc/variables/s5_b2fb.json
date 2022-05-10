@@ -1,0 +1,1 @@
+{"type":"byte[2889]","validValues":[],"settingMethods":["Function118d35"],"usingMethods":["BattleTowerAction_LevelCheck","BattleTowerAction_UbersCheck","ValidateBTParty"],"name":"s5_b2fb","file":"sram.asm","lineNo":394,"address":53410,"addressUsedBy":["Function118d35","BattleTowerAction_LevelCheck","BattleTowerAction_UbersCheck","ValidateBTParty"]}

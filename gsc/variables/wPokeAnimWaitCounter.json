@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_DoAnimScript","PokeAnim_SetWait"],"usingMethods":["PokeAnim_DoAnimScript"],"name":"wPokeAnimWaitCounter","file":"wram.asm","lineNo":3025,"address":29654,"addressUsedBy":["PokeAnim_Wait"]}

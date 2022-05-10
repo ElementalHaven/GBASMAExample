@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTower_RandomlyChooseReward"],"usingMethods":["BattleTower_GiveReward"],"name":"sBattleTowerReward","file":"sram.asm","lineNo":195,"address":47103,"addressUsedBy":["BattleTower_RandomlyChooseReward","BattleTower_GiveReward"]}

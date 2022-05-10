@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1040d4","HDMATransferToWRAMBank3","HDMATransfer_FillBGMap0WithBlack"],"usingMethods":["WaitDMATransfer"],"name":"hDMATransfer","file":"hram.asm","lineNo":165,"address":58937,"addressUsedBy":[]}

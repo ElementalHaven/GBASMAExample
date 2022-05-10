@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerSpDef","file":"wram.asm","lineNo":557,"address":18479,"addressUsedBy":["EnemyAttackDamage"]}

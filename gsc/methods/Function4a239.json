@@ -1,0 +1,1 @@
+{"names":["Function4a239"],"callingMethods":["Function4a20e","Function4a221"],"methodsCalled":["Function4a13b"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function4a239:","\tpop bc","\tjp Function4a13b"],"name":"Function4a239","file":"mobile/mobile_menu.asm","lineNo":357,"address":153062,"addressUsedBy":[]}

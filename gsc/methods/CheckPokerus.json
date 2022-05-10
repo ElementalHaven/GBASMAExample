@@ -1,0 +1,1 @@
+{"names":["CheckPokerus"],"callingMethods":[],"methodsCalled":["FarCall","ScriptReturnCarry"],"methodAddressesUsed":["_CheckPokerus"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _CheckPokerus","\tjp ScriptReturnCarry"],"name":"CheckPokerus","lineNo":1,"address":73660,"addressUsedBy":[]}

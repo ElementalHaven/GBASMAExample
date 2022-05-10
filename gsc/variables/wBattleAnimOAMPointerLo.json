@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimOAMUpdate","BattleAnim_UpdateOAM_All"],"usingMethods":["BattleAnimOAMUpdate","BattleAnim_UpdateOAM_All"],"name":"wBattleAnimOAMPointerLo","file":"wram.asm","lineNo":3169,"address":33312,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["BicycleEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["BikeFunction"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall BikeFunction","\tret"],"name":"BicycleEffect","lineNo":1,"address":80014,"addressUsedBy":[]}

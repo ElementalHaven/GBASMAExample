@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["GetMovementObject"],"name":"wMovementObject","file":"wram.asm","lineNo":173,"address":17123,"addressUsedBy":["Function5015"]}

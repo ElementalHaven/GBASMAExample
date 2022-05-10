@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NewPokedexOrder","file":"data/pokemon/dex_order_new.asm","lineNo":3,"address":143820,"addressUsedBy":["Pokedex_OrderMonsByMode"]}

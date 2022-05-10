@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitMapNameSign","NewGame"],"usingMethods":["InitMapNameSign"],"name":"wPrevLandmark","file":"wram.asm","lineNo":157,"address":17113,"addressUsedBy":[]}

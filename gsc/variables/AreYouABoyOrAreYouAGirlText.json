@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AreYouABoyOrAreYouAGirlText","file":"engine/menus/init_gender.asm","lineNo":55,"address":150984,"addressUsedBy":["InitGender"]}

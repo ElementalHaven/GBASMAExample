@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetCaughtLocation","ReadCaughtData"],"usingMethods":["SeerAction"],"name":"wSeerAction","file":"wram.asm","lineNo":1674,"address":26360,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1050c8"],"usingMethods":["DoMysteryGift","Function1050c8","MainMenu_GetWhichMenu"],"name":"sNumDailyMysteryGiftPartnerIDs","file":"sram.asm","lineNo":53,"address":44756,"addressUsedBy":["DoMysteryGift","MainMenu_GetWhichMenu"]}

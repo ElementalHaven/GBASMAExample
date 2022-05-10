@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["_HandlePlayerStep"],"usingMethods":[],"name":"wHandlePlayerStep","file":"wram.asm","lineNo":2071,"address":26975,"addressUsedBy":["HandlePlayerStep"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_BeatUp"],"usingMethods":["BattleCommand_BeatUpFailText"],"name":"wBeatUpHitAtLeastOnce","file":"wram.asm","lineNo":724,"address":18594,"addressUsedBy":[]}

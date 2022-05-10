@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wListMoves_MoveIndicesBuffer","file":"wram.asm","lineNo":2288,"address":27244,"addressUsedBy":["SetUpMoveList","Function3f662","Function100c74","MoveSelectionScreen","LoadGreenPage","ForgetMove","ListMoves"]}

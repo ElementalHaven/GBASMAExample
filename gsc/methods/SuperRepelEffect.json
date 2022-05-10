@@ -1,0 +1,1 @@
+{"names":["SuperRepelEffect"],"callingMethods":[],"methodsCalled":["UseRepel"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SuperRepelEffect:","\tld b, 200","\tjr UseRepel"],"name":"SuperRepelEffect","file":"engine/items/item_effects.asm","lineNo":2066,"address":80870,"addressUsedBy":[]}

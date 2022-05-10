@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_CheckTurn","BattleCommand_LowerSub","BattleCommand_Rampage","BattleCommand_RolloutPower","CheckTurn"],"usingMethods":["BattleCommand_LowerSub"],"name":"wSomeoneIsRampaging","file":"wram.asm","lineNo":740,"address":18603,"addressUsedBy":[]}

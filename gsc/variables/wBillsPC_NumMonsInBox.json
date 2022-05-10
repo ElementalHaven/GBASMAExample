@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CopyBoxmonSpecies"],"usingMethods":["BillsPC_CheckMail_PreventBlackout","BillsPC_CheckSpaceInDestination","BillsPC_UpdateSelectionCursor","MoveMonWithoutMail_DPad","MoveMonWithoutMail_DPad_2","Withdraw_UpDown","_StatsScreenDPad"],"name":"wBillsPC_NumMonsInBox","file":"wram.asm","lineNo":1012,"address":22761,"addressUsedBy":[]}

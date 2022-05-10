@@ -1,0 +1,1 @@
+{"names":["Function89346"],"callingMethods":["Function899b2"],"methodsCalled":["_incave"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function89346:","\tld h, b","\tld l, c","\tjr _incave"],"name":"Function89346","file":"mobile/mobile_22.asm","lineNo":379,"address":175867,"addressUsedBy":[]}

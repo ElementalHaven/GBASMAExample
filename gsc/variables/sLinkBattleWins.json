@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sLinkBattleWins","file":"sram.asm","lineNo":123,"address":45911,"addressUsedBy":["ReadAndPrintLinkBattleRecord"]}

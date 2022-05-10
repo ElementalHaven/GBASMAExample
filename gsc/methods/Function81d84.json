@@ -1,0 +1,1 @@
+{"names":["Function81d84"],"callingMethods":["Function81d34","Function81d46","Function81d58"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["wcf64"],"constantsUsed":[],"lines":["Function81d84:","\tld hl, wcf64","\tdec [hl]","\tret"],"name":"Function81d84","file":"engine/menus/debug.asm","lineNo":651,"address":172442,"addressUsedBy":[]}

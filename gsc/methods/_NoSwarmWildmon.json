@@ -1,0 +1,1 @@
+{"names":["_NoSwarmWildmon"],"callingMethods":["_SwarmWildmonCheck"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["_NoSwarmWildmon:","\tand a","\tret"],"name":"_NoSwarmWildmon","file":"engine/overworld/wildmons.asm","lineNo":449,"address":106227,"addressUsedBy":[]}

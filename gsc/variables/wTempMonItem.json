@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BillsPC_LoadMonStats","EvolveAfterBattle_MasterLoop"],"usingMethods":["EvolveAfterBattle_MasterLoop","LoadGreenPage","PCMonInfo"],"name":"wTempMonItem","lineNo":2,"address":26935,"addressUsedBy":[]}

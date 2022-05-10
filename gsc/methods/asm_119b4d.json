@@ -1,0 +1,1 @@
+{"names":["asm_119b4d"],"callingMethods":["Function119b3b","Function119b45"],"methodsCalled":["Function119e2b"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_119b4d:","\tld a, $26","\tjp Function119e2b"],"name":"asm_119b4d","file":"mobile/mobile_46.asm","lineNo":3574,"address":279917,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_CheckObedience","NewBattleMonStatus","SendOutPlayerMon"],"usingMethods":["AI_Smart_Conversion2","AI_Smart_Encore","BattleCommand_Encore","ParsePlayerAction"],"name":"wLastPlayerMove","file":"wram.asm","lineNo":707,"address":18576,"addressUsedBy":[]}

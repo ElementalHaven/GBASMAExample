@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_CheckUnlockedUnownMode"],"usingMethods":["Pokedex_DrawOptionScreenBG","Pokedex_UpdateOptionScreen"],"name":"wUnlockedUnownMode","file":"wram.asm","lineNo":817,"address":20152,"addressUsedBy":[]}

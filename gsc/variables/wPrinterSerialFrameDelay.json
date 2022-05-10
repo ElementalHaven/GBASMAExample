@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPrinterSerialFrameDelay","file":"wram.asm","lineNo":988,"address":22011,"addressUsedBy":["Printer_WaitSerial","Printer_WaitSerialAndLoopBack2"]}

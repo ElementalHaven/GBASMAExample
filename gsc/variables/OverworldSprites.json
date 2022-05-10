@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"OverworldSprites","file":"data/sprites/sprites.asm","lineNo":7,"address":90467,"addressUsedBy":["GetSprite","_GetSpritePalette","_DoesSpriteHaveFacings"]}

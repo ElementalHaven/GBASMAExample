@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingShortestMagikarp","file":"sram.asm","lineNo":306,"address":50267,"addressUsedBy":["StubbedTrainerRankings_MagikarpLength","InitializeTrainerRankings"]}

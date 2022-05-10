@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Function11b570","Function11b879"],"name":"hRTCDayHi","file":"hram.asm","lineNo":10,"address":58805,"addressUsedBy":["_FixDays"]}

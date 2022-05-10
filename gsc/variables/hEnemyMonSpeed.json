@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["TryToRunAwayFromBattle"],"usingMethods":["TryToRunAwayFromBattle"],"name":"hEnemyMonSpeed","file":"hram.asm","lineNo":63,"address":58843,"addressUsedBy":["TryToRunAwayFromBattle"]}

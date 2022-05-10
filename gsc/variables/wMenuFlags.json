@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function8b7bd"],"usingMethods":["Function8b7bd","_ExitMenu","_InitVerticalMenuCursor","_PushWindow"],"name":"wMenuFlags","file":"wram.asm","lineNo":1503,"address":26249,"addressUsedBy":[]}

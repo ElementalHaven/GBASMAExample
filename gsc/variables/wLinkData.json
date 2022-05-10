@@ -1,0 +1,1 @@
+{"type":"byte[1300]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLinkData","file":"wram.asm","lineNo":1029,"address":22811,"addressUsedBy":["Link_PrepPartyData_Gen1","Link_PrepPartyData_Gen2","Gen2ToGen2LinkComms","Gen2ToGen1LinkComms","Function10578c","Function104b88","Function104cd2","ClearLinkData"]}

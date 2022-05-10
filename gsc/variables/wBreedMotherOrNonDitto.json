@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DayCare_InitBreeding"],"usingMethods":["DayCare_InitBreeding","GetBreedmonMovePointer","GetHeritableMoves"],"name":"wBreedMotherOrNonDitto","file":"wram.asm","lineNo":2959,"address":29509,"addressUsedBy":[]}

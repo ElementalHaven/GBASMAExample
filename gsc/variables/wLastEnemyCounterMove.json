@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_TryItem","NewBattleMonStatus","NewEnemyMonStatus","ResetEnemyBattleVars","SendOutPlayerMon"],"usingMethods":[],"name":"wLastEnemyCounterMove","file":"wram.asm","lineNo":627,"address":18538,"addressUsedBy":["Function170c8b"]}

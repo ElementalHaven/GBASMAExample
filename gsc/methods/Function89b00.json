@@ -1,0 +1,1 @@
+{"names":["Function89b00"],"callingMethods":["Function89b14","Function89b1e"],"methodsCalled":["FarCall"],"methodAddressesUsed":["MG_Mobile_Layout_LoadPals"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall MG_Mobile_Layout_LoadPals","\tret"],"name":"Function89b00","lineNo":1,"address":176938,"addressUsedBy":[]}

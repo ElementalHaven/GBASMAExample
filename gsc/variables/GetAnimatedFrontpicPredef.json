@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"GetAnimatedFrontpicPredef","lineNo":1,"address":67395,"addressUsedBy":["DropEnemySub","EvolutionAnimation","InitEnemyWildmon","GetHatchlingFrontpic","StatsScreen_PlaceFrontpic","HOF_AnimateFrontpic","Function108201","GetTrademonFrontpic","StatsScreen_AnimateEgg"]}

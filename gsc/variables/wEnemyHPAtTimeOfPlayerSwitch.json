@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["LoadEnemyMonToSwitchTo","SendOutMonText"],"usingMethods":[],"name":"wEnemyHPAtTimeOfPlayerSwitch","file":"wram.asm","lineNo":612,"address":18523,"addressUsedBy":["WithdrawMonText"]}

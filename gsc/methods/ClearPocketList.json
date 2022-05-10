@@ -1,0 +1,1 @@
+{"names":["ClearPocketList"],"callingMethods":["BattlePack","InitPocket","Pack"],"methodsCalled":["ClearBox"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["SCREEN_WIDTH"],"lines":["\tlb bc, 10, SCREEN_WIDTH - 5","\tcall ClearBox","\tret"],"name":"ClearPocketList","lineNo":1,"address":83062,"addressUsedBy":[]}

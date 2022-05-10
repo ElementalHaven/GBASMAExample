@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function483bb","InitCrystalData"],"usingMethods":["Function119054","Function48304","InitMobileProfile"],"name":"wd474","file":"wram.asm","lineNo":2454,"address":27602,"addressUsedBy":["Function119054"]}

@@ -1,0 +1,1 @@
+{"names":["Functionce412"],"callingMethods":[],"methodsCalled":["DeinitBattleAnimation"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Functionce412:","\tcall DeinitBattleAnimation","\tret"],"name":"Functionce412","file":"engine/battle_anims/functions.asm","lineNo":3543,"address":229308,"addressUsedBy":[]}

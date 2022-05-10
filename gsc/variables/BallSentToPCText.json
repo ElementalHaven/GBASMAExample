@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BallSentToPCText","file":"engine/items/item_effects.asm","lineNo":1107,"address":79991,"addressUsedBy":["PokeBallEffect"]}

@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":["LoadSGBLayout","_CGB_StatsScreenHPPals"],"name":"wCurHPPal","file":"wram.asm","lineNo":1345,"address":26108,"addressUsedBy":["StatsScreen_InitUpperHalf","EggStatsScreen"]}

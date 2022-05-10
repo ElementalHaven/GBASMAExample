@@ -1,0 +1,1 @@
+{"names":["BasementKeyEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_BasementKey"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _BasementKey","\tret"],"name":"BasementKeyEffect","lineNo":1,"address":81254,"addressUsedBy":[]}

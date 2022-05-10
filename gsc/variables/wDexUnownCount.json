@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_DrawUnownModeBG"],"usingMethods":["Pokedex_UnownModeHandleDPadInput"],"name":"wDexUnownCount","file":"wram.asm","lineNo":819,"address":20154,"addressUsedBy":[]}

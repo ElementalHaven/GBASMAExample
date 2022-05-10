@@ -1,0 +1,1 @@
+{"type":"byte[1300]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wOverworldMapBlocks","file":"wram.asm","lineNo":960,"address":20660,"addressUsedBy":["GetMapScreenCoords","Function818fd","Function81bf4","Function81911","EnableMobile","Function81eca"]}

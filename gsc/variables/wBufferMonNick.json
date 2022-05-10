@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBufferMonNick","file":"wram.asm","lineNo":1687,"address":26386,"addressUsedBy":["CopyNicknameToTemp","InsertPokemonIntoBox","InsertPokemonIntoParty"]}

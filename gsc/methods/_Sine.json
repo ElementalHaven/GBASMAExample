@@ -1,0 +1,1 @@
+{"names":["_Sine"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["_Sine::","; a \u003d d * sin(e * pi/32)","\tld a, e","\tcalc_sine_wave"],"name":"_Sine","file":"engine/math/sine.asm","lineNo":1,"address":67159,"addressUsedBy":[]}

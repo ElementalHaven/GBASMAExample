@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingSelfdestruct","file":"sram.asm","lineNo":300,"address":50250,"addressUsedBy":["StubbedTrainerRankings_Selfdestruct"]}

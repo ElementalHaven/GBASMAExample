@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PalPacket_SlotMachine","file":"gfx/sgb/pal_packets.asm","lineNo":67,"address":70364,"addressUsedBy":["LoadSGBLayout"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyLightScreenCount","file":"wram.asm","lineNo":659,"address":18551,"addressUsedBy":["HandleScreens","BattleCommand_Screen"]}

@@ -1,0 +1,1 @@
+{"names":["AppearUserRaiseSub"],"callingMethods":["BattleCommand_FailureText","CantMove"],"methodsCalled":["FarCall"],"methodAddressesUsed":["_AppearUserRaiseSub"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _AppearUserRaiseSub","\tret"],"name":"AppearUserRaiseSub","lineNo":1,"address":124473,"addressUsedBy":[]}

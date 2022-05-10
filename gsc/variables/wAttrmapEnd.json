@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function102283","Function10228e","Function102298","Function10304f"],"usingMethods":["Function10305d"],"name":"wAttrmapEnd","file":"wram.asm","lineNo":1361,"address":26164,"addressUsedBy":["BlankScreen"]}

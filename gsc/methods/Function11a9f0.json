@@ -1,0 +1,1 @@
+{"names":["Function11a9f0"],"callingMethods":["BattleTowerRoomMenu2_UpdateYesNoMenu","Function11a536"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11a9f0:","\tld a, $1","\tand a","\tret"],"name":"Function11a9f0","file":"mobile/mobile_46.asm","lineNo":5400,"address":281870,"addressUsedBy":[]}

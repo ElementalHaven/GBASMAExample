@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ListMoves"],"usingMethods":["ForgetMove","Function100c98","ListMovePP","MobileMoveSelectionScreen","MoveSelectionScreen","SetUpMoveList"],"name":"wNumMoves","file":"wram.asm","lineNo":1990,"address":26894,"addressUsedBy":[]}

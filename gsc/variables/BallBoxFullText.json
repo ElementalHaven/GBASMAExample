@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BallBoxFullText","file":"engine/items/item_effects.asm","lineNo":2702,"address":81382,"addressUsedBy":["Ball_BoxIsFullMessage"]}

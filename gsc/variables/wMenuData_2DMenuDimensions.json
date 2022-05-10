@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Get2DMenuNumberOfColumns","Get2DMenuNumberOfRows"],"name":"wMenuData_2DMenuDimensions","file":"wram.asm","lineNo":1526,"address":26273,"addressUsedBy":[]}

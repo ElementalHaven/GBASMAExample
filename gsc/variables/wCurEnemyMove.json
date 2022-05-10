@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AIChooseMove","BattleCommand_Encore","OfferSwitch","ParseEnemyAction","ResetEnemyBattleVars"],"usingMethods":["CheckEnemyTurn","CompareMovePriority"],"name":"wCurEnemyMove","file":"wram.asm","lineNo":602,"address":18517,"addressUsedBy":["CheckEnemyTurn"]}

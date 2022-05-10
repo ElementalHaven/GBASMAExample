@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ActivateFishingSwarm"],"usingMethods":["GetFishGroupIndex"],"name":"wFishingSwarmFlag","file":"wram.asm","lineNo":2978,"address":29601,"addressUsedBy":[]}

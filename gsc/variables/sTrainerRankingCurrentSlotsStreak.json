@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingCurrentSlotsStreak","file":"sram.asm","lineNo":301,"address":50253,"addressUsedBy":["StubbedTrainerRankings_EndSlotsWinStreak","StubbedTrainerRankings_AddToSlotsWinStreak"]}

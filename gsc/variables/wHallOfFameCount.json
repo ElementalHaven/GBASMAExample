@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["GetHallOfFameParty","PokemonCenterPC"],"name":"wHallOfFameCount","file":"wram.asm","lineNo":2635,"address":28753,"addressUsedBy":["HallOfFame"]}

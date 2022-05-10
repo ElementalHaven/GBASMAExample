@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBugContestStartTime","file":"wram.asm","lineNo":2832,"address":29099,"addressUsedBy":["StartBugContestTimer","CheckBugContestTimer"]}

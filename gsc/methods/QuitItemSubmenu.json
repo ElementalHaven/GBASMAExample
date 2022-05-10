@@ -1,0 +1,1 @@
+{"names":["QuitItemSubmenu"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["QuitItemSubmenu:","\tret"],"name":"QuitItemSubmenu","file":"engine/items/pack.asm","lineNo":621,"address":82338,"addressUsedBy":[]}

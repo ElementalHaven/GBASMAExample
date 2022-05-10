@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ExitPokegearRadio_HandleMusic","NoRadioMusic","PlayRadio","RadioMusicRestartDE","RadioMusicRestartPokemonChannel"],"usingMethods":["ExitPokegearRadio_HandleMusic"],"name":"wPokegearRadioMusicPlaying","file":"wram.asm","lineNo":846,"address":20176,"addressUsedBy":[]}

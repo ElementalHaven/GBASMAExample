@@ -1,0 +1,1 @@
+{"names":["asm_11b26a"],"callingMethods":["Function11b242"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_11b26a:","\txor a","\tld [bc], a","\tld [hl], $7f","\tret"],"name":"asm_11b26a","file":"mobile/mobile_46.asm","lineNo":6464,"address":282698,"addressUsedBy":[]}

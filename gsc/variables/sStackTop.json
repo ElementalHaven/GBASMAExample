@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["ErasePreviousSave","UpdateStackTop"],"usingMethods":["UpdateStackTop"],"name":"sStackTop","file":"sram.asm","lineNo":91,"address":45228,"addressUsedBy":["UpdateStackTop","ErasePreviousSave"]}

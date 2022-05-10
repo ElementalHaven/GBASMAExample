@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NamingScreen_GetLastCharacter"],"usingMethods":["MailComposition_TryAddCharacter","MailComposition_TryAddLastCharacter","NamingScreen_TryAddCharacter"],"name":"wNamingScreenLastCharacter","file":"wram.asm","lineNo":867,"address":20200,"addressUsedBy":[]}

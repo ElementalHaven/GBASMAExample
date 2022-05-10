@@ -1,0 +1,1 @@
+{"names":["Mail_Draw7TileRow"],"callingMethods":[],"methodsCalled":["Mail_DrawRowLoop"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Mail_Draw7TileRow:","\tld b, $7","\tjr Mail_DrawRowLoop"],"name":"Mail_Draw7TileRow","file":"engine/pokemon/mail_2.asm","lineNo":814,"address":199654,"addressUsedBy":[]}

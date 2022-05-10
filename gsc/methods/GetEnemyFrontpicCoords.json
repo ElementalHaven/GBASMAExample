@@ -1,0 +1,1 @@
+{"names":["GetEnemyFrontpicCoords"],"callingMethods":["AppearUser","_DisappearUser"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tlb bc, 7, 7","\tret"],"name":"GetEnemyFrontpicCoords","lineNo":1,"address":252957,"addressUsedBy":[]}

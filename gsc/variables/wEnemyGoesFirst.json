@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_Switch","AI_TryItem","Battle_EnemyFirst","Battle_PlayerFirst"],"usingMethods":["BattleCommand_ForceSwitch","CheckOpponentWentFirst"],"name":"wEnemyGoesFirst","file":"wram.asm","lineNo":692,"address":18568,"addressUsedBy":[]}

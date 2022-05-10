@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Jumptable_UseQuit","file":"engine/items/pack.asm","lineNo":365,"address":82048,"addressUsedBy":["Pack"]}

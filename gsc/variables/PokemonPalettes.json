@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokemonPalettes","file":"data/pokemon/palettes.asm","lineNo":1,"address":70949,"addressUsedBy":["LoadSGBLayout","Function81cc2","Function818f4","Function81928","_GetMonPalettePointer"]}

@@ -1,0 +1,1 @@
+{"names":["ret_3e138"],"callingMethods":["DrawEnemyHUD","PrintPlayerHUD"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["ret_3e138:","\tret"],"name":"ret_3e138","file":"engine/battle/core.asm","lineNo":4857,"address":138101,"addressUsedBy":[]}

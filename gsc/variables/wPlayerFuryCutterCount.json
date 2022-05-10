@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewBattleMonStatus","ParsePlayerAction"],"usingMethods":["AI_Smart_AccuracyDown","AI_Smart_EvasionUp","AI_Smart_Protect"],"name":"wPlayerFuryCutterCount","file":"wram.asm","lineNo":524,"address":18409,"addressUsedBy":["ResetFuryCutterCount","BattleCommand_FuryCutter"]}

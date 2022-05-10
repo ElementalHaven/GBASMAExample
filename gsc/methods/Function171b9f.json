@@ -1,0 +1,1 @@
+{"names":["Function171b9f"],"callingMethods":["Function171b85"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd49"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function171b9f:","\tld a, $80","\tld [wcd49], a","\tret"],"name":"Function171b9f","file":"mobile/mobile_5c.asm","lineNo":540,"address":295683,"addressUsedBy":[]}

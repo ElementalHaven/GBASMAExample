@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":["CalcSecsMinsHoursDaysSince","CopyDayHourMinSecToHL","Function100665","Function1006dc","Function100720","Function100754","Function1007f6","StageRTCTimeForSave"],"name":"hSeconds","file":"hram.asm","lineNo":22,"address":58816,"addressUsedBy":[]}

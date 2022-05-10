@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ApplyBGMapAnchorToObjects","_HandlePlayerStep"],"usingMethods":["ApplyBGMapAnchorToObjects","Function56cd","InitSprites","_HandlePlayerStep"],"name":"wPlayerBGMapOffsetY","file":"wram.asm","lineNo":2094,"address":26989,"addressUsedBy":["FollowNotExact","CopyTempObjectToObjectStruct"]}

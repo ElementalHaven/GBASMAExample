@@ -1,0 +1,1 @@
+{"type":"byte[20]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTimeSetBuffer","file":"wram.asm","lineNo":762,"address":19536,"addressUsedBy":["InitClock"]}

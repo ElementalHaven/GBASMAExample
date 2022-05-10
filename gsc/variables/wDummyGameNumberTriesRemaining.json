@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_DummyGame"],"usingMethods":["_DummyGame"],"name":"wDummyGameNumberTriesRemaining","file":"wram.asm","lineNo":915,"address":20367,"addressUsedBy":["_DummyGame"]}

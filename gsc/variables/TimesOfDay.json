@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TimesOfDay","file":"engine/rtc/rtc.asm","lineNo":48,"address":89148,"addressUsedBy":["GetTimeOfDay"]}

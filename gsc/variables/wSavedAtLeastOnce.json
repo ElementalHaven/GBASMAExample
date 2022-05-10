@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ErasePreviousSave","_ResetWRAM"],"usingMethods":["GetBoxCount","HallOfFame_InitSaveIfNeeded","ReadAndPrintLinkBattleRecord"],"name":"wSavedAtLeastOnce","file":"wram.asm","lineNo":2473,"address":27611,"addressUsedBy":[]}

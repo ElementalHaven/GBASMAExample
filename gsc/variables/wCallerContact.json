@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wCallerContact","file":"wram.asm","lineNo":1931,"address":26741,"addressUsedBy":["CheckSpecialPhoneCall","LoadCallerScript","MomTriesToBuySomething"]}

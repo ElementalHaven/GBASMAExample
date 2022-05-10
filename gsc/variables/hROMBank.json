@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CopyBackpic","DecompressGet2bpp","FarPlaceString","GetAnimatedEnemyFrontpic","GetMonBackpic","GetTrainerPic","Pokedex_LoadSelectedMonTiles","RotateUnownFrontpic","ShrinkPlayer","_GetFrontpic","_UnownPrinter"],"name":"hROMBank","file":"hram.asm","lineNo":31,"address":58821,"addressUsedBy":[]}

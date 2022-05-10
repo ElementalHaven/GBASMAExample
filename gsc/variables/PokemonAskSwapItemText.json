@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokemonAskSwapItemText","file":"engine/pokemon/mon_menu.asm","lineNo":413,"address":86974,"addressUsedBy":["TryGiveItemToPartymon"]}

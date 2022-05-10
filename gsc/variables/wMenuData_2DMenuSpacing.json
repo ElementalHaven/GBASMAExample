@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Init2DMenuCursorPosition","Place2DMenuItemStrings"],"name":"wMenuData_2DMenuSpacing","file":"wram.asm","lineNo":1527,"address":26274,"addressUsedBy":[]}

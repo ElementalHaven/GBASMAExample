@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"SpawnPoints","file":"data/maps/spawn_points.asm","lineNo":7,"address":91838,"addressUsedBy":["IsSpawnPoint","EnterMapSpawnPoint"]}

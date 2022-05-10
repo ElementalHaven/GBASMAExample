@@ -1,0 +1,1 @@
+{"names":["BillsPC_ChangeBoxMenu"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_ChangeBox"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _ChangeBox","\tand a","\tret"],"name":"BillsPC_ChangeBoxMenu","lineNo":1,"address":78681,"addressUsedBy":[]}

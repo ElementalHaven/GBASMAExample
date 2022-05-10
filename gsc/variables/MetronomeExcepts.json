@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MetronomeExcepts","file":"data/moves/metronome_exception_moves.asm","lineNo":3,"address":123149,"addressUsedBy":["BattleCommand_Metronome"]}

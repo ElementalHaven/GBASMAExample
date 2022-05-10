@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokepicMenuHeader","file":"engine/events/pokepic.asm","lineNo":44,"address":97853,"addressUsedBy":["ClosePokepic","Pokepic"]}

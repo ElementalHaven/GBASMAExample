@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["_ScrollBGMapPalettes","_SwapTextboxPalettes"],"name":"wTilesetPalettes","file":"wram.asm","lineNo":2152,"address":27110,"addressUsedBy":["_SwapTextboxPalettes","_ScrollBGMapPalettes"]}

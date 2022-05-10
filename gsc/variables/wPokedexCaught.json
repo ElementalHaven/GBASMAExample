@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPokedexCaught","file":"wram.asm","lineNo":2930,"address":29480,"addressUsedBy":["Rate","Pokedex_DrawMainScreenBG","_GetVarAction","TrainerCard_Page1_PrintDexCaught_GameTime","GiveEgg","Continue_DisplayPokedexNumCaught","PrepMysteryGiftDataToSend"]}

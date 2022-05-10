@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewBattleMonStatus"],"usingMethods":["AI_Smart_Stomp","BattleCommand_Transform","DropPlayerSub"],"name":"wPlayerMinimized","file":"wram.asm","lineNo":635,"address":18543,"addressUsedBy":["BattleCommand_DoubleMinimizeDamage","MinimizeDropSub"]}

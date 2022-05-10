@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wSafariMonEating","file":"wram.asm","lineNo":616,"address":18529,"addressUsedBy":["HandleSafariAngerEatingStatus"]}

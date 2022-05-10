@@ -1,0 +1,1 @@
+{"names":["Function16cc6e"],"callingMethods":["Function16cc02"],"methodsCalled":["Function16cc73"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function16cc6e:","\thlbgcoord 0, 0, vBGMap1","\tjr Function16cc73"],"name":"Function16cc6e","file":"mobile/mobile_5b.asm","lineNo":719,"address":293352,"addressUsedBy":[]}

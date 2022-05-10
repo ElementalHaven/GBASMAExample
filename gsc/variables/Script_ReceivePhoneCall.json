@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Script_ReceivePhoneCall","file":"engine/phone/phone.asm","lineNo":422,"address":187291,"addressUsedBy":["CheckPhoneCall"]}

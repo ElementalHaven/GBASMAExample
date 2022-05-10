@@ -1,0 +1,1 @@
+{"type":"byte[14]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MltReq2Packet","file":"data/sgb_ctrl_packets.asm","lineNo":44,"address":70458,"addressUsedBy":["PushSGBBorderPalsAndWait"]}

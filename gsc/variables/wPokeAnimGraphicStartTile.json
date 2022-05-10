@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":["PokeAnim_PlaceGraphic"],"name":"wPokeAnimGraphicStartTile","file":"wram.asm","lineNo":3010,"address":29635,"addressUsedBy":["PokeAnim_ConvertAndApplyBitmask"]}

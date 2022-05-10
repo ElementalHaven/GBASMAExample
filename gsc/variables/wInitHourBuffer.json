@@ -1,0 +1,1 @@
+{"type":"byte[9]","validValues":[],"settingMethods":["InitClock"],"usingMethods":["DisplayHourOClock","InitClock","OakText_ResponseToSetTime"],"name":"wInitHourBuffer","file":"wram.asm","lineNo":764,"address":19556,"addressUsedBy":["SetHour"]}

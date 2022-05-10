@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MartSellHowManyText","file":"engine/items/mart.asm","lineNo":799,"address":93899,"addressUsedBy":["SellMenu"]}

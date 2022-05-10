@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_MovePKMNWithoutMail"],"usingMethods":["BillsPC_CheckSpaceInDestination","MovePKMNWitoutMail_InsertMon","_MovePKMNWithoutMail"],"name":"wBillsPC_BackupLoadedBox","file":"wram.asm","lineNo":1017,"address":22766,"addressUsedBy":["MovePKMNWitoutMail_InsertMon"]}

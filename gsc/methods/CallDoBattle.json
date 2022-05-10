@@ -1,0 +1,1 @@
+{"names":["CallDoBattle"],"callingMethods":[],"methodsCalled":["DoBattle"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["CallDoBattle: ; unreferenced","\tcall DoBattle","\tret"],"name":"CallDoBattle","file":"engine/battle/core.asm","lineNo":8031,"address":140655,"addressUsedBy":[]}

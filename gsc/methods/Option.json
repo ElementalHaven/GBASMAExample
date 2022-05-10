@@ -1,0 +1,1 @@
+{"names":["Option"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_Option"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _Option","\tret"],"name":"Option","lineNo":1,"address":62954,"addressUsedBy":["StartMenu_Option","MainMenu_Option"]}

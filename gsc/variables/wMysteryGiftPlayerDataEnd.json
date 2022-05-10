@@ -1,0 +1,1 @@
+{"type":"byte[144]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMysteryGiftPlayerDataEnd","file":"wram.asm","lineNo":1132,"address":24903,"addressUsedBy":["PrepMysteryGiftDataToSend"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["DoPlayerMovement"],"name":"wWalkingIntoLand","file":"wram.asm","lineNo":1905,"address":26718,"addressUsedBy":[]}

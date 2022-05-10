@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PhoneRing_CopyTilemapAtOnce","SaveMenu_CopyTilemapAtOnce"],"usingMethods":["PhoneRing_CopyTilemapAtOnce","SaveMenu_CopyTilemapAtOnce"],"name":"hTilesPerCycle","file":"hram.asm","lineNo":133,"address":58916,"addressUsedBy":[]}

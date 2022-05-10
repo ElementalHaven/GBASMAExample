@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMornEncounterRate","file":"wram.asm","lineNo":2284,"address":27240,"addressUsedBy":["GetMapEncounterRate","LoadWildMonData"]}

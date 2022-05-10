@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EvolutionAnimation"],"usingMethods":["EvolutionAnimation","GeneratePartyMonStats","StatsScreen_InitUpperHalf","StatsScreen_LoadGFX","UpdateSpeciesNameIfNotNicknamed"],"name":"wBaseDexNo","file":"wram.asm","lineNo":2252,"address":27212,"addressUsedBy":[]}

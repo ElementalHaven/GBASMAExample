@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["MagnetTrain_UpdateLYOverrides"],"name":"wMagnetTrainOffset","file":"wram.asm","lineNo":1453,"address":26212,"addressUsedBy":["MagnetTrain_UpdateLYOverrides"]}

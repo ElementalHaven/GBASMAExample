@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitClock","LoadMapTimeOfDay","Mobile_DisableSpriteUpdates","Mobile_EnableSpriteUpdates","PCItemsJoypad","PlayerDepositItemMenu"],"usingMethods":["PCItemsJoypad","PhoneRing_CopyTilemapAtOnce","PlayerDepositItemMenu"],"name":"wSpriteUpdatesEnabled","file":"wram.asm","lineNo":145,"address":17103,"addressUsedBy":[]}

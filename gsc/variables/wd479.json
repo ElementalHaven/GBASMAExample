@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["Function48a3a","InitCrystalData","asm_48972"],"usingMethods":["Function48187","Function486bf","Function48a3a","InitCrystalData","InitMobileProfile","asm_48972"],"name":"wd479","file":"wram.asm","lineNo":2461,"address":27607,"addressUsedBy":["Continue_MobileAdapterMenu","_LoadData","asm_4815f","Function4820d","_SaveData"]}

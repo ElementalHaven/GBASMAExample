@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"JohtoWaterWildMons","file":"data/wild/johto_water.asm","lineNo":3,"address":108087,"addressUsedBy":["FindNest","_WaterWildmonLookup"]}

@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PalPacket_Pokegear","file":"gfx/sgb/pal_packets.asm","lineNo":61,"address":70344,"addressUsedBy":["LoadSGBLayout"]}

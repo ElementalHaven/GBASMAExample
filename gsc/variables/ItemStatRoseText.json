@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemStatRoseText","file":"engine/items/item_effects.asm","lineNo":1225,"address":80085,"addressUsedBy":["VitaminEffect"]}

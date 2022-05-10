@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckBalance_MomItem2","MomTriesToBuySomething"],"usingMethods":["GetItemFromMom","MomTriesToBuySomething"],"name":"wWhichMomItemSet","file":"wram.asm","lineNo":2813,"address":29074,"addressUsedBy":[]}

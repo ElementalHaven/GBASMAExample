@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_AnimateHPBar"],"usingMethods":["ShortAnim_UpdateVariables"],"name":"wNewHPBarPixels","file":"wram.asm","lineNo":2175,"address":27127,"addressUsedBy":[]}

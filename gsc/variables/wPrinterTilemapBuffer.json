@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPrinterTilemapBuffer","file":"wram.asm","lineNo":993,"address":22016,"addressUsedBy":["Printer_CopyTilemapToBuffer","Printer_Convert2RowsTo2bpp","Printer_CopyBufferToTilemap"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CaughtAskNicknameText","file":"engine/pokemon/caught_data.asm","lineNo":159,"address":157463,"addressUsedBy":["GiveANickname_YesNo"]}

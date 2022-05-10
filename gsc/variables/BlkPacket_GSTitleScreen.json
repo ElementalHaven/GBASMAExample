@@ -1,0 +1,1 @@
+{"type":"byte[12]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_GSTitleScreen","file":"gfx/sgb/blk_packets.asm","lineNo":73,"address":70158,"addressUsedBy":["LoadSGBLayout"]}

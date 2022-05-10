@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HookedPokemonAttackedText","file":"data/text/battle.asm","lineNo":17,"address":171610,"addressUsedBy":["BattleStartMessage"]}

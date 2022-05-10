@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PhoneContacts","file":"data/phone/phone_contacts.asm","lineNo":11,"address":187629,"addressUsedBy":["GetCallerLocation","Function90199","GetCallerTrainerClass","LoadCallerScript","GetAvailableCallers"]}

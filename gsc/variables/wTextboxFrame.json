@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Function10649b","LoadFrame","UpdateFrame"],"name":"wTextboxFrame","file":"wram.asm","lineNo":1633,"address":26341,"addressUsedBy":["Options_Frame"]}

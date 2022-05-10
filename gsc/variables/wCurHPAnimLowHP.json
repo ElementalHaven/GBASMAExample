@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_AnimateHPBar"],"usingMethods":["ShortHPBar_CalcPixelFrame"],"name":"wCurHPAnimLowHP","file":"wram.asm","lineNo":2177,"address":27130,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewEnemyMonStatus","ResetEnemyBattleVars"],"usingMethods":["BattleCommand_Encore","ParseEnemyAction"],"name":"wLastEnemyMove","file":"wram.asm","lineNo":708,"address":18577,"addressUsedBy":[]}

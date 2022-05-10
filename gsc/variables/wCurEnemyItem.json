@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["EnemyPotionContinue","EnemyUsedFullRestore","EnemyUsedMaxPotion","EnemyUsedXItem","PrintText_UsedItemOn_AND_AIUpdateHUD"],"usingMethods":["PrintText_UsedItemOn"],"name":"wCurEnemyItem","file":"wram.asm","lineNo":2205,"address":27156,"addressUsedBy":[]}

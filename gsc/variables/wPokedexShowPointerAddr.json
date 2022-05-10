@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["CopyDexEntryPart2","PokedexShow2"],"usingMethods":["CopyDexEntry"],"name":"wPokedexShowPointerAddr","file":"wram.asm","lineNo":2325,"address":27253,"addressUsedBy":["CopyDexEntryPart1","CopyDexEntry","PokedexShow2"]}

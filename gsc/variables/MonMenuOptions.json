@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MonMenuOptions","file":"data/mon_menu.asm","lineNo":21,"address":98876,"addressUsedBy":["GetMonMenuString","IsFieldMove"]}

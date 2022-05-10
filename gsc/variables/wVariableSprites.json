@@ -1,0 +1,1 @@
+{"type":"byte[256]","validValues":[],"settingMethods":[],"usingMethods":["SetFacingBigDoll"],"name":"wVariableSprites","file":"wram.asm","lineNo":2550,"address":28461,"addressUsedBy":["GetMonSprite","ToggleDecorationsVisibility"]}

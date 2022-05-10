@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckPartyFullAfterContest"],"name":"sBoxMon1Level","lineNo":21,"address":45652,"addressUsedBy":["BillsPC_LoadMonStats","CheckPartyFullAfterContest"]}

@@ -1,0 +1,1 @@
+{"names":["StatsScreen_Exit"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["StatsScreen_Exit:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"StatsScreen_Exit","file":"engine/pokemon/stats_screen.asm","lineNo":144,"address":157759,"addressUsedBy":[]}

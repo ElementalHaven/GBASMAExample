@@ -1,0 +1,1 @@
+{"names":["NameRater"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_NameRater"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _NameRater","\tret"],"name":"NameRater","lineNo":1,"address":73483,"addressUsedBy":[]}

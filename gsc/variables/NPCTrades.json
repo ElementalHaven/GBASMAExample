@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NPCTrades","file":"data/events/npc_trades.asm","lineNo":9,"address":254289,"addressUsedBy":["GetTradeAttribute"]}

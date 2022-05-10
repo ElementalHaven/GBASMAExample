@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleAnimCommands","file":"engine/battle_anims/anim_commands.asm","lineNo":328,"address":223770,"addressUsedBy":["GetBattleMonBackpic_DoAnim","GetEnemyMonFrontpic_DoAnim","RunBattleAnimCommand"]}

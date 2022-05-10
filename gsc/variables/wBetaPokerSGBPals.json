@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBetaPokerSGBPals","file":"wram.asm","lineNo":665,"address":18555,"addressUsedBy":["LoadSGBLayout","Function8bec"]}

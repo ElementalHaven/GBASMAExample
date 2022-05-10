@@ -1,0 +1,1 @@
+{"type":"byte[40]","validValues":[],"settingMethods":["Function17d6a1","asm_11886f"],"usingMethods":["Function1003d8","Function100406","Function11a00e","Function17f4f6"],"name":"wBGMapPalBuffer","file":"wram.asm","lineNo":1196,"address":25892,"addressUsedBy":["_ScrollBGMapPalettes","Function10046a"]}

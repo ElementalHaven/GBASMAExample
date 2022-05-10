@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AlphRuinsStampString","file":"engine/events/print_unown.asm","lineNo":199,"address":95975,"addressUsedBy":["_UnownPrinter"]}

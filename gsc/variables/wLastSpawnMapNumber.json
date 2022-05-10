@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EnterMapWarp"],"usingMethods":["GetWhiteoutSpawn","TeleportFunction"],"name":"wLastSpawnMapNumber","file":"wram.asm","lineNo":2895,"address":29210,"addressUsedBy":[]}

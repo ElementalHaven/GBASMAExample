@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_BackUpMapIndices"],"usingMethods":["UpdateRoamMons"],"name":"wRoamMons_LastMapNumber","file":"wram.asm","lineNo":2986,"address":29625,"addressUsedBy":[]}

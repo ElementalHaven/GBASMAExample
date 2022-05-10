@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["HandleSafariAngerEatingStatus","LoadEnemyMon"],"name":"wBaseCatchRate","file":"wram.asm","lineNo":2263,"address":27221,"addressUsedBy":[]}

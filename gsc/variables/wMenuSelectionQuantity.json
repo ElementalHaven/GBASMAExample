@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BuenaPrize","Kurt_SelectApricorn","ScrollingMenu_GetListItemCoordAndFunctionArgs"],"usingMethods":["BuenaPrize","ScrollingMenuJoyAction"],"name":"wMenuSelectionQuantity","file":"wram.asm","lineNo":1494,"address":26237,"addressUsedBy":["PlaceMenuItemQuantity"]}

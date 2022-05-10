@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["MagikarpHouseSign"],"name":"wBestMagikarpLengthFeet","file":"wram.asm","lineNo":2989,"address":29627,"addressUsedBy":["InitializeMagikarpHouse","CheckMagikarpLength"]}

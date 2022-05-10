@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewBattleMonStatus","ParsePlayerAction"],"usingMethods":["BattleCommand_RageDamage"],"name":"wPlayerRageCounter","file":"wram.asm","lineNo":721,"address":18592,"addressUsedBy":["BattleCommand_BuildOpponentRage"]}

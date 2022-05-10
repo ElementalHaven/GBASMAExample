@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AlreadyASaveFileText","file":"engine/menus/save.asm","lineNo":1109,"address":91813,"addressUsedBy":["AskOverwriteSaveFile"]}

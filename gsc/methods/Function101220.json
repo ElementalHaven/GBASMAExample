@@ -1,0 +1,1 @@
+{"names":["Function101220"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wLinkMode"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function101220:","\txor a","\tld [wLinkMode], a","\tret"],"name":"Function101220","file":"mobile/mobile_40.asm","lineNo":2678,"address":257139,"addressUsedBy":[]}

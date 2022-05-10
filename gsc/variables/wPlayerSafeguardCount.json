@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerSafeguardCount","file":"wram.asm","lineNo":653,"address":18546,"addressUsedBy":["BattleCommand_Safeguard","HandleSafeguard"]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["GetMonBitmaskPointer"],"usingMethods":[],"name":"wPokeAnimBitmaskAddr","file":"wram.asm","lineNo":3020,"address":29648,"addressUsedBy":["PokeAnim_CopyBitmaskToBuffer"]}

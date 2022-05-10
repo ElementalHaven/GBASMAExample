@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMon1Level","lineNo":21,"address":29241,"addressUsedBy":["DoNPCTrade","PlacePartyMonLevel","BattleTower_LevelCheck","BattleTower_UbersCheck","BillsPC_LoadMonStats","_FindPartyMonAboveLevel","CheckPartyFullAfterContest"]}

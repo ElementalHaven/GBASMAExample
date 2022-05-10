@@ -1,0 +1,1 @@
+{"names":["HangUp_BoopOff"],"callingMethods":["Phone_CallEnd"],"methodsCalled":["SpeechTextbox"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["HangUp_BoopOff:","\tcall SpeechTextbox","\tret"],"name":"HangUp_BoopOff","file":"engine/phone/phone.asm","lineNo":556,"address":187420,"addressUsedBy":[]}

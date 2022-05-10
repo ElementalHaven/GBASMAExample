@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_TheresNoRoom","file":"engine/pokemon/bills_pc.asm","lineNo":2218,"address":247874,"addressUsedBy":["BillsPC_CheckSpaceInDestination"]}

@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":["SaveRTC","_ResetClock"],"usingMethods":[],"name":"sRTCStatusFlags","file":"sram.asm","lineNo":68,"address":44819,"addressUsedBy":["_ResetClock","SaveRTC"]}

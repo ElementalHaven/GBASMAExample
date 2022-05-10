@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["AICompareSpeed"],"name":"wEnemyMonSpeed","lineNo":14,"address":27188,"addressUsedBy":["ApplyPrzEffectOnSpeed","DetermineMoveOrder","BattleMenu_Run","AskUseNextPokemon"]}

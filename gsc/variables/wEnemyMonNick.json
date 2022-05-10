@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyMonNick","file":"wram.asm","lineNo":404,"address":18354,"addressUsedBy":["InitEnemyMon","LoadEnemyMon","DisplayCaughtContestMonStats","DrawEnemyHUD"]}

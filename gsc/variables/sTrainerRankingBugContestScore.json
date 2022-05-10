@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingBugContestScore","file":"sram.asm","lineNo":307,"address":50269,"addressUsedBy":["StubbedTrainerRankings_BugContestScore"]}

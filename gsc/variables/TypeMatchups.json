@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TypeMatchups","file":"data/types/type_matchups.asm","lineNo":1,"address":117930,"addressUsedBy":["CheckTypeMatchup","BattleCommand_Stab"]}

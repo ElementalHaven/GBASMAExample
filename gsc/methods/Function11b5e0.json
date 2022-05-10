@@ -1,0 +1,1 @@
+{"names":["Function11b5e0"],"callingMethods":[],"methodsCalled":["Function11ad8a"],"methodAddressesUsed":[],"varsSet":["wScriptVar"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11b5e0:","\txor a","\tld [wScriptVar], a","\tjp Function11ad8a"],"name":"Function11b5e0","file":"mobile/mobile_46.asm","lineNo":7072,"address":283224,"addressUsedBy":[]}

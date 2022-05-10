@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTowerBattle","InitBattleTowerChallengeRAM","RunBattleTowerTrainer"],"usingMethods":["_BattleTowerBattle"],"name":"wBattleTowerBattleEnded","file":"wram.asm","lineNo":1394,"address":26188,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function89c34","Function89c67","Function8a757","Function8aa0a","Function8b45c","Function8b539","Function8b5e7"],"usingMethods":["Function89c34"],"name":"wd012","file":"wram.asm","lineNo":1808,"address":26612,"addressUsedBy":["Function8a4fc","Function8a515","RotateUnownFrontpic","asm_8a529","Function89efd"]}

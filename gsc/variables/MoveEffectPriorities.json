@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MoveEffectPriorities","file":"data/moves/effects_priorities.asm","lineNo":1,"address":134768,"addressUsedBy":["GetMovePriority"]}

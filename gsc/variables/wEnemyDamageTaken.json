@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyDamageTaken","file":"wram.asm","lineNo":537,"address":18421,"addressUsedBy":["UpdateBattleStateAndExperienceAfterEnemyFaint","BattleCommand_EndLoop","BattleCommand_StoreEnergy","BattleCommand_ApplyDamage","BattleCommand_UnleashEnergy"]}

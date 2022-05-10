@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_TryItem","NewEnemyMonStatus","ParseEnemyAction","ResetVarsForSubstatusRage"],"usingMethods":["AI_Smart_Rage","BattleCommand_RageDamage"],"name":"wEnemyRageCounter","file":"wram.asm","lineNo":722,"address":18593,"addressUsedBy":["BattleCommand_BuildOpponentRage"]}

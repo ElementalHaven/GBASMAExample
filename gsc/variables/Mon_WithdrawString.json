@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Mon_WithdrawString","file":"engine/events/mom.asm","lineNo":653,"address":95071,"addressUsedBy":["Mom_SetUpWithdrawMenu"]}

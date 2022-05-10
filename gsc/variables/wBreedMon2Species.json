@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckBreedmonCompatibility","DayCareMon2","DayCare_InitBreeding","GetBreedmonMovePointer","GetHeritableMoves","GetMonSprite","RetrieveBreedmon","RetrieveMonFromDayCareLady"],"name":"wBreedMon2Species","lineNo":1,"address":29510,"addressUsedBy":[]}

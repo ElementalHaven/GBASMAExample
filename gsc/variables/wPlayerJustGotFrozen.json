@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTurn"],"usingMethods":["HandleDefrost"],"name":"wPlayerJustGotFrozen","file":"wram.asm","lineNo":742,"address":18604,"addressUsedBy":["BattleCommand_FreezeTarget"]}

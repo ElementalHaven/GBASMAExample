@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AnimateDexSearchSlowpoke","Pokedex_InitSearchScreen"],"usingMethods":["DoDexSearchSlowpokeFrame"],"name":"wDexSearchSlowpokeFrame","file":"wram.asm","lineNo":816,"address":20151,"addressUsedBy":[]}

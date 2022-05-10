@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["DayCare_InitBreeding","GiveEgg"],"name":"wBaseEggSteps","file":"wram.asm","lineNo":2270,"address":27227,"addressUsedBy":[]}

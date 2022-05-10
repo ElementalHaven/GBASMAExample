@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitBattleAnimBuffer"],"usingMethods":["BattleAnimOAMUpdate"],"name":"wBattleAnimTempYCoord","file":"wram.asm","lineNo":3189,"address":33325,"addressUsedBy":[]}

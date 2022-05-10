@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":["PCMonInfo"],"usingMethods":["BillsPC_CheckMail_PreventBlackout"],"name":"wBillsPC_MonHasMail","file":"wram.asm","lineNo":1018,"address":22767,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["UseRod"],"callingMethods":["GoodRodEffect","OldRodEffect","SuperRodEffect"],"methodsCalled":["FarCall"],"methodAddressesUsed":["FishFunction"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall FishFunction","\tret"],"name":"UseRod","lineNo":1,"address":81041,"addressUsedBy":[]}

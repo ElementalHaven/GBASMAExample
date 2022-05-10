@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TMHMMoves","file":"data/moves/tmhm_moves.asm","lineNo":1,"address":83598,"addressUsedBy":["GetTMHMMove","CanLearnTMHMMove","GetEggMove"]}

@@ -1,0 +1,1 @@
+{"names":["CardKeyEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_CardKey"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _CardKey","\tret"],"name":"CardKeyEffect","lineNo":1,"address":81250,"addressUsedBy":[]}

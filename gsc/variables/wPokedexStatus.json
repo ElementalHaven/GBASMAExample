@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewPokedexEntry","Pokedex_InitDexEntryScreen","Pokedex_Page","Pokedex_ReinitDexEntryScreen"],"usingMethods":["DisplayDexEntry","NewPokedexEntry","Pokedex_Page"],"name":"wPokedexStatus","file":"wram.asm","lineNo":1425,"address":26200,"addressUsedBy":[]}

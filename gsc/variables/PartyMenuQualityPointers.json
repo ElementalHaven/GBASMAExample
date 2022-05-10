@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PartyMenuQualityPointers","file":"data/party_menu_qualities.asm","lineNo":21,"address":160329,"addressUsedBy":["GetPartyMenuQualityIndexes"]}

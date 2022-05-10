@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoMysteryGiftIfDayHasPassed"],"usingMethods":[],"name":"sMysteryGiftTimer","file":"sram.asm","lineNo":57,"address":44766,"addressUsedBy":["DoMysteryGiftIfDayHasPassed"]}

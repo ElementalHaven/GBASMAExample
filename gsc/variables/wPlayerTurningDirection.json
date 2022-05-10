@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["DoPlayerMovement","RefreshPlayerSprite","StopPlayerForEvent"],"usingMethods":["CheckStandingOnIce","DoPlayerMovement"],"name":"wPlayerTurningDirection","file":"wram.asm","lineNo":1914,"address":26732,"addressUsedBy":[]}

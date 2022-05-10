@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckAmuletCoin","PokeBallEffect","TryToRunAwayFromBattle"],"name":"wBattleMonItem","lineNo":2,"address":18355,"addressUsedBy":["BattleCommand_Critical","GetOpponentItem","GetUserItem","ConsumeHeldItem","BattleCommand_Thief","GetPartymonItem"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoMysteryGift"],"usingMethods":["GetTrainerName","TrainerHouse"],"name":"sMysteryGiftTrainerHouseFlag","file":"sram.asm","lineNo":60,"address":44769,"addressUsedBy":["TrainerHouse","GetTrainerName"]}

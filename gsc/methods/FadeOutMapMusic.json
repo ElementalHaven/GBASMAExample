@@ -1,0 +1,1 @@
+{"names":["FadeOutMapMusic"],"callingMethods":[],"methodsCalled":["SkipMusic"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["FadeOutMapMusic:","\tld a, 6","\tcall SkipMusic","\tret"],"name":"FadeOutMapMusic","file":"engine/overworld/map_setup.asm","lineNo":219,"address":92365,"addressUsedBy":[]}

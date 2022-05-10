@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ConsumeTM","TossTMHM"],"usingMethods":["ConsumeTM","TMHM_ChooseTMorHM","TMHM_GetCurrentPocketPosition","TossTMHM"],"name":"wTMHMPocketScrollPosition","file":"wram.asm","lineNo":1977,"address":26885,"addressUsedBy":["TMHM_ScrollPocket"]}

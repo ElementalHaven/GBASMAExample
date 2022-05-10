@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_Present"],"usingMethods":[],"name":"wPresentPower","file":"wram.asm","lineNo":542,"address":18426,"addressUsedBy":[]}

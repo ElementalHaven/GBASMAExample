@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleBGEffect_27","BattleBGEffect_HideMon","BattleWinSlideInEnemyTrainerFrontpic","HPBarAnim_BGMapUpdate","MovePlayerPic","SuicuneFrameIterator"],"usingMethods":[],"name":"hBGMapThird","file":"hram.asm","lineNo":135,"address":58918,"addressUsedBy":[]}

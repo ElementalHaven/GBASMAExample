@@ -1,0 +1,1 @@
+{"type":"byte[12]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"w5_MobileOpponentBattleMessages","file":"wram.asm","lineNo":3213,"address":34494,"addressUsedBy":["Mobile_PrintOpponentBattleMessage"]}

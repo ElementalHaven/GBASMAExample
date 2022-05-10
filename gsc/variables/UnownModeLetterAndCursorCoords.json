@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownModeLetterAndCursorCoords","file":"engine/pokedex/pokedex.asm","lineNo":1347,"address":143264,"addressUsedBy":["Pokedex_UnownModeUpdateCursorGfx","Pokedex_DrawUnownModeBG"]}

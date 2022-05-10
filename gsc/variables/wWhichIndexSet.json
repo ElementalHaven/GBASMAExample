@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Buena_PrizeMenu","BuenasPassword","MainMenu","PokemonCenterPC","PopulateDecoCategoryMenu","StartMenu","_BillsPC","_PlayerDecorationMenu","_PlayersPC"],"usingMethods":["_PlayerDecorationMenu"],"name":"wWhichIndexSet","file":"wram.asm","lineNo":1495,"address":26238,"addressUsedBy":[]}

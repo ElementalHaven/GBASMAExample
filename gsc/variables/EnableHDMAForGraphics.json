@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["Get1bppOptionalHDMA","Get2bppOptionalHDMA"],"name":"EnableHDMAForGraphics","file":"engine/gfx/load_font.asm","lineNo":3,"address":251531,"addressUsedBy":[]}

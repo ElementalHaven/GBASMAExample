@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"WeatherTypeModifiers","file":"data/battle/weather_modifiers.asm","lineNo":1,"address":253025,"addressUsedBy":["DoWeatherModifiers"]}

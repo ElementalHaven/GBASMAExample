@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MomNotEnoughRoomInBankText","file":"engine/events/mom.asm","lineNo":630,"address":95039,"addressUsedBy":["BankOfMom"]}

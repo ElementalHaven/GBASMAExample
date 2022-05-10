@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DoBattleTransitionPredef","lineNo":1,"address":67365,"addressUsedBy":["FindFirstAliveMonAndStartBattle"]}

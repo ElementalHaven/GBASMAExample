@@ -1,0 +1,1 @@
+{"names":["BattleTower_SaveOptions"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["SaveOptions"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall SaveOptions","\tret"],"name":"BattleTower_SaveOptions","lineNo":1,"address":294654,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["TMHM_ExitPocket"],"callingMethods":["TMHM_JoypadLoop","TMHM_ShowTMMoveDescription"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["TMHM_ExitPocket:","\tand a","\tret"],"name":"TMHM_ExitPocket","file":"engine/items/tmhm.asm","lineNo":298,"address":110924,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_CardFlip"],"usingMethods":["GetCoordsOfChosenCard","_CardFlip"],"name":"wCardFlipWhichCard","file":"wram.asm","lineNo":1449,"address":26211,"addressUsedBy":["_CardFlip"]}

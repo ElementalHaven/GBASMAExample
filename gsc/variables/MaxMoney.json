@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MaxMoney","file":"engine/events/money.asm","lineNo":25,"address":94009,"addressUsedBy":["GiveMoney"]}

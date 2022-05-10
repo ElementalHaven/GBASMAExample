@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CopyMonToTempMonPredef","lineNo":1,"address":67302,"addressUsedBy":["SetUpMoveList","AnimateExpBar","GiveExperiencePoints","Function_SetEnemyMonAndSendOutAnimation","SendGetMonIntoFromBox","RareCandyEffect","EvolveAfterBattle_MasterLoop"]}

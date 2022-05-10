@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HeldStatUpItems","file":"data/battle/held_stat_up.asm","lineNo":1,"address":137821,"addressUsedBy":["HandleStatBoostingHeldItems"]}

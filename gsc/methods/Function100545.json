@@ -1,0 +1,1 @@
+{"names":["Function100545"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd28"],"varsUsed":["wcd28"],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function100545:","\tld a, [wcd28]","\tinc a","\tld [wcd28], a","\tret"],"name":"Function100545","file":"mobile/mobile_40.asm","lineNo":798,"address":255450,"addressUsedBy":[]}

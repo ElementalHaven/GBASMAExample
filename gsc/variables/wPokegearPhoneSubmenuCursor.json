@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokegearPhoneContactSubmenu"],"usingMethods":["PokegearPhoneContactSubmenu"],"name":"wPokegearPhoneSubmenuCursor","file":"wram.asm","lineNo":840,"address":20168,"addressUsedBy":["PokegearPhoneContactSubmenu"]}

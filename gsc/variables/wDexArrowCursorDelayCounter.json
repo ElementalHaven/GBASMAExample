@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitArrowCursor","Pokedex_MoveArrowCursor"],"usingMethods":[],"name":"wDexArrowCursorDelayCounter","file":"wram.asm","lineNo":814,"address":20149,"addressUsedBy":["Pokedex_ArrowCursorDelay"]}

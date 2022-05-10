@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["SampleKenjiBreakCountdown"],"usingMethods":[],"name":"wKenjiBreakTimer","file":"wram.asm","lineNo":2845,"address":29134,"addressUsedBy":["CheckDailyResetTimer"]}

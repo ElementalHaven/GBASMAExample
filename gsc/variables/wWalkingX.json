@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["player_action"],"name":"wWalkingX","file":"wram.asm","lineNo":1910,"address":26723,"addressUsedBy":[]}

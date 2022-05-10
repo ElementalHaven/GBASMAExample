@@ -1,0 +1,1 @@
+{"type":"byte[128]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDecompressEnemyFrontpic","file":"wram.asm","lineNo":3227,"address":34670,"addressUsedBy":["_GetFrontpic","GetAnimatedEnemyFrontpic"]}

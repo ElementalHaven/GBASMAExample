@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DeleteMoveScreenAttrs","file":"engine/pokemon/mon_menu.asm","lineNo":851,"address":87362,"addressUsedBy":["ChooseMoveToDelete"]}

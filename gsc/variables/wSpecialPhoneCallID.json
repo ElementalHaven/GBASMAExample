@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":["CheckSpecialPhoneCall"],"name":"wSpecialPhoneCallID","file":"wram.asm","lineNo":2830,"address":29095,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckPlayerTurn","LearnMove","NewBattleMonStatus","ResetActorDisable"],"usingMethods":["BattleCommand_CheckObedience","BattleCommand_SleepTalk","CheckPlayerTurn","LearnMove"],"name":"wDisabledMove","file":"wram.asm","lineNo":621,"address":18534,"addressUsedBy":["BattleCommand_Disable"]}

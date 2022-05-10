@@ -1,0 +1,1 @@
+{"names":["BugContestJudging"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_BugContestJudging"],"varsSet":["wScriptVar"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _BugContestJudging","\tld a, b","\tld [wScriptVar], a","\tret"],"name":"BugContestJudging","lineNo":1,"address":73551,"addressUsedBy":[]}

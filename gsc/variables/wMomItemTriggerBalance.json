@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMomItemTriggerBalance","file":"wram.asm","lineNo":2814,"address":29075,"addressUsedBy":["_ResetWRAM","CheckBalance_MomItem2"]}

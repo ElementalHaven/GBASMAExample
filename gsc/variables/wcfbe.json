@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function16c000","Function81f0c","InitSGBBorder","MonFaintedAnimation","PushSGBPals"],"usingMethods":["Function16c000","Function81f0c","InitSGBBorder","MonFaintedAnimation","PushSGBPals"],"name":"wcfbe","file":"wram.asm","lineNo":1591,"address":26325,"addressUsedBy":[]}

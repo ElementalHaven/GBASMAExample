@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wReel3Stopped","file":"wram.asm","lineNo":878,"address":20257,"addressUsedBy":["SlotsAction_WaitStopReel3"]}

@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingsEnd","file":"sram.asm","lineNo":309,"address":50273,"addressUsedBy":["InitializeTrainerRankings"]}

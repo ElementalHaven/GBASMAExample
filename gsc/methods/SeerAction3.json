@@ -1,0 +1,1 @@
+{"names":["SeerAction3"],"callingMethods":[],"methodsCalled":["PrintSeerText"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["SEER_CANT_TELL"],"lines":["SeerAction3:","\tld a, SEER_CANT_TELL","\tcall PrintSeerText","\tret"],"name":"SeerAction3","file":"engine/events/poke_seer.asm","lineNo":86,"address":159447,"addressUsedBy":[]}

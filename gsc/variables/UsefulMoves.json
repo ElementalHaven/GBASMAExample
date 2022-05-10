@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UsefulMoves","file":"data/battle/ai/useful_moves.asm","lineNo":3,"address":127264,"addressUsedBy":["AI_Smart_Disable","AI_Smart_MirrorMove","AI_Smart_Mimic"]}

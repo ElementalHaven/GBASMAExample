@@ -1,0 +1,1 @@
+{"names":["DrawPlayerHP"],"callingMethods":[],"methodsCalled":["DrawHP"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DrawPlayerHP:","\tld a, $1","\tjr DrawHP"],"name":"DrawPlayerHP","file":"engine/pokemon/mon_stats.asm","lineNo":1,"address":161752,"addressUsedBy":[]}

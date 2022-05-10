@@ -1,0 +1,1 @@
+{"names":["ResetWRAM"],"callingMethods":["NewGame"],"methodsCalled":["_ResetWRAM"],"methodAddressesUsed":[],"varsSet":["hBGMapMode"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["ResetWRAM:","\txor a","\tldh [hBGMapMode], a","\tcall _ResetWRAM","\tret"],"name":"ResetWRAM","file":"engine/menus/intro_menu.asm","lineNo":91,"address":62985,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitBattleAnimBuffer"],"usingMethods":["BattleAnimOAMUpdate"],"name":"wBattleAnimTempXOffset","file":"wram.asm","lineNo":3190,"address":33326,"addressUsedBy":[]}

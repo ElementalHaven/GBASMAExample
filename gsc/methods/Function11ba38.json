@@ -1,0 +1,1 @@
+{"names":["Function11ba38"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["CheckCurPartyMonFainted"],"varsSet":["wScriptVar"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall CheckCurPartyMonFainted","\tret c","\txor a","\tld [wScriptVar], a","\tret"],"name":"Function11ba38","lineNo":1,"address":283743,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[22]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMonNicknamesEnd","file":"wram.asm","lineNo":2926,"address":29458,"addressUsedBy":["RemoveMonFromPartyOrBox"]}

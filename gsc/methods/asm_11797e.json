@@ -1,0 +1,1 @@
+{"names":["asm_11797e"],"callingMethods":["Function117942","Function117976"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd49"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_11797e:","\tld a, $80","\tld [wcd49], a","\tret"],"name":"asm_11797e","file":"mobile/mobile_45_stadium.asm","lineNo":429,"address":275510,"addressUsedBy":[]}

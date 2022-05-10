@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_AnimateHPBar"],"usingMethods":["ShortHPBarAnim_UpdateTiles","ShortHPBar_CalcPixelFrame"],"name":"wCurHPBarPixels","file":"wram.asm","lineNo":2174,"address":27126,"addressUsedBy":["ShortAnim_UpdateVariables","LongAnim_UpdateVariables"]}

@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wUnusedTwoDayTimerStartDate","file":"wram.asm","lineNo":2835,"address":29105,"addressUsedBy":["SetUnusedTwoDayTimer","CheckUnusedTwoDayTimer"]}

@@ -1,0 +1,1 @@
+{"names":["WaitTileAnimation"],"callingMethods":["DoneTileAnimation"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["WaitTileAnimation:","; Do nothing this frame.","\tret"],"name":"WaitTileAnimation","file":"engine/tilesets/tileset_anims.asm","lineNo":282,"address":253492,"addressUsedBy":[]}

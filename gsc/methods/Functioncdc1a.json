@@ -1,0 +1,1 @@
+{"names":["Functioncdc1a"],"callingMethods":[],"methodsCalled":["DeinitBattleAnimation"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Functioncdc1a:","\tcall DeinitBattleAnimation","\tret"],"name":"Functioncdc1a","file":"engine/battle_anims/functions.asm","lineNo":2134,"address":228097,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Slots_CheckMatchedFirstTwoReels"],"usingMethods":["ReelAction_StopReel2"],"name":"wSlotBuildingMatch","file":"wram.asm","lineNo":889,"address":20274,"addressUsedBy":[]}

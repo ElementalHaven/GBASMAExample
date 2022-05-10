@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":["ClockContinue"],"name":"wRTC","file":"wram.asm","lineNo":2482,"address":27617,"addressUsedBy":["StageRTCTimeForSave","Function1709bb","Function11b5e8"]}

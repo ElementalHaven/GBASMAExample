@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function8b7bd","ScrollingMenuJoyAction","ScrollingMenu_UpdateDisplay"],"usingMethods":["Elevator_AskWhichFloor","Function249a7","Function249d1","Function8a62c","MenuHeader_Buy","SwitchItemsInBag"],"name":"wScrollingMenuCursorPosition","file":"wram.asm","lineNo":1496,"address":26239,"addressUsedBy":["Function483bb"]}

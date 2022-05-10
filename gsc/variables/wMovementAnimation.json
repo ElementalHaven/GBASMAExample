@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["DoPlayerMovement"],"name":"wMovementAnimation","file":"wram.asm","lineNo":1907,"address":26720,"addressUsedBy":[]}

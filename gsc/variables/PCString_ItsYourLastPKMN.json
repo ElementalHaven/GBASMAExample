@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_ItsYourLastPKMN","file":"engine/pokemon/bills_pc.asm","lineNo":2217,"address":247848,"addressUsedBy":["BillsPC_CheckMail_PreventBlackout"]}

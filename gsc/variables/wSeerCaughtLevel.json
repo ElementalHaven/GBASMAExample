@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetCaughtLevel"],"usingMethods":["SeerAdvice"],"name":"wSeerCaughtLevel","file":"wram.asm","lineNo":1681,"address":26383,"addressUsedBy":["GetCaughtLevel"]}

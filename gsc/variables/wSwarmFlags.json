@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["Function1158c2","Function115c49"],"usingMethods":["Function115c49"],"name":"wSwarmFlags","file":"wram.asm","lineNo":2819,"address":29082,"addressUsedBy":["Function10378c","Function1158c2","_SwarmWildmonCheck","Function103700"]}

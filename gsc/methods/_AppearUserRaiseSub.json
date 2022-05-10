@@ -1,0 +1,1 @@
+{"names":["_AppearUserRaiseSub"],"callingMethods":[],"methodsCalled":["AppearUser","FarCall"],"methodAddressesUsed":["BattleCommand_RaiseSubNoAnim"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall BattleCommand_RaiseSubNoAnim","\tjr AppearUser"],"name":"_AppearUserRaiseSub","lineNo":1,"address":252934,"addressUsedBy":["AppearUserRaiseSub"]}

@@ -1,0 +1,1 @@
+{"names":["MapRadio"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["PlayRadio"],"varsSet":[],"varsUsed":["wScriptVar"],"varAddressesUsed":[],"constantsUsed":[],"lines":["MapRadio:","\tld a, [wScriptVar]","\tld e, a","\tfarcall PlayRadio","\tret"],"name":"MapRadio","file":"engine/events/specials.asm","lineNo":180,"address":73557,"addressUsedBy":[]}

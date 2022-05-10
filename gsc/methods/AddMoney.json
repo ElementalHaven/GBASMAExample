@@ -1,0 +1,1 @@
+{"names":["AddMoney"],"callingMethods":["GiveMoney"],"methodsCalled":[],"methodAddressesUsed":[],"fallsInto":"AddFunds","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["AddMoney:","\tld a, 3","AddFunds:"],"name":"AddMoney","file":"engine/events/money.asm","lineNo":129,"address":94081,"addressUsedBy":["CheckBalance_MomItem2"]}

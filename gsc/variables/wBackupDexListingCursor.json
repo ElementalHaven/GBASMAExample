@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_NextOrPreviousDexEntry"],"usingMethods":["Pokedex_NextOrPreviousDexEntry"],"name":"wBackupDexListingCursor","file":"wram.asm","lineNo":823,"address":20158,"addressUsedBy":[]}

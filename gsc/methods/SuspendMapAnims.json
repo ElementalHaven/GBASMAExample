@@ -1,0 +1,1 @@
+{"names":["SuspendMapAnims"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["hMapAnims"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SuspendMapAnims:","\txor a ; FALSE","\tldh [hMapAnims], a","\tret"],"name":"SuspendMapAnims","file":"engine/overworld/map_setup.asm","lineNo":120,"address":92289,"addressUsedBy":[]}

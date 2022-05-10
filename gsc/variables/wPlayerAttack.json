@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerAttack","file":"wram.asm","lineNo":553,"address":18471,"addressUsedBy":["PlayerAttackDamage"]}

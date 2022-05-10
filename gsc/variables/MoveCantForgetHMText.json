@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MoveCantForgetHMText","file":"engine/pokemon/learn.asm","lineNo":237,"address":64396,"addressUsedBy":["ForgetMove"]}

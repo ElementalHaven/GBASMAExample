@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PrintPCBox","Printer_PrintBoxListSegment"],"usingMethods":["PrintPCBox_Page2","PrintPCBox_Page3","PrintPCBox_Page4"],"name":"wFinishedPrintingBox","file":"wram.asm","lineNo":1758,"address":26571,"addressUsedBy":[]}

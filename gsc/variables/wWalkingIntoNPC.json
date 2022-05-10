@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement"],"usingMethods":["TrainerWalkToPlayer"],"name":"wWalkingIntoNPC","file":"wram.asm","lineNo":1904,"address":26717,"addressUsedBy":[]}

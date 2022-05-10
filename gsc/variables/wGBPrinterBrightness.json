@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Options_Print"],"usingMethods":["GetPrinterSetting","Printer_StartTransmission"],"name":"wGBPrinterBrightness","file":"wram.asm","lineNo":1640,"address":26343,"addressUsedBy":[]}

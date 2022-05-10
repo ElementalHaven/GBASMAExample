@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_StartRain","BattleCommand_StartSandstorm","BattleCommand_StartSun"],"usingMethods":[],"name":"wWeatherCount","file":"wram.asm","lineNo":685,"address":18564,"addressUsedBy":["HandleWeather"]}

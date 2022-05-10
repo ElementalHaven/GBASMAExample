@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetMapScreenCoords"],"usingMethods":["Cut_GetLeafSpawnCoords","_LoadMapPart"],"name":"wMetatileStandingX","file":"wram.asm","lineNo":2115,"address":27031,"addressUsedBy":["UpdateOverworldMap"]}

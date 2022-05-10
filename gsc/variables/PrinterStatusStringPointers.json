@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PrinterStatusStringPointers","file":"engine/printer/printer.asm","lineNo":612,"address":174100,"addressUsedBy":["Function847bd","PlacePrinterStatusString"]}

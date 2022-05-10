@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["BattleMenu","TutorialPack"],"name":"wInputType","file":"wram.asm","lineNo":138,"address":17096,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingTotalBattlePayouts","file":"sram.asm","lineNo":304,"address":50261,"addressUsedBy":["StubbedTrainerRankings_AddToBattlePayouts"]}

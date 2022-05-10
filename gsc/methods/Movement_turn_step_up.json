@@ -1,0 +1,1 @@
+{"names":["Movement_turn_step_up"],"callingMethods":[],"methodsCalled":["TurnStep"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["OW_UP"],"lines":["Movement_turn_step_up:","\tld a, OW_UP","\tjr TurnStep"],"name":"Movement_turn_step_up","file":"engine/overworld/movement.asm","lineNo":636,"address":61845,"addressUsedBy":[]}

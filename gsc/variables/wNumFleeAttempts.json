@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleMenu_Fight","CleanUpBattleRAM","TryToRunAwayFromBattle"],"usingMethods":["TryToRunAwayFromBattle"],"name":"wNumFleeAttempts","file":"wram.asm","lineNo":2314,"address":27249,"addressUsedBy":[]}

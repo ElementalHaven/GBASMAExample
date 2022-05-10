@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TrainerGroups","file":"data/trainers/party_pointers.asm","lineNo":3,"address":128369,"addressUsedBy":["RandomPhoneMon","ReadTrainerParty","GetTrainerName"]}

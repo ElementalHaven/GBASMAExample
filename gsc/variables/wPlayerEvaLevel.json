@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":["AI_Smart_AlwaysHit","AI_Smart_Foresight","AI_Smart_LockOn","AI_Smart_Rollout","BattleCommand_CheckHit"],"name":"wPlayerEvaLevel","file":"wram.asm","lineNo":576,"address":18499,"addressUsedBy":[]}

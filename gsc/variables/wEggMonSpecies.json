@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DayCare_InitBreeding"],"usingMethods":["DayCare_GiveEgg","GetEggMove"],"name":"wEggMonSpecies","lineNo":1,"address":29534,"addressUsedBy":[]}

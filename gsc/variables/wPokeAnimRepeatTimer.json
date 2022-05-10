@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_DoAnimScript"],"usingMethods":["PokeAnim_DoAnimScript"],"name":"wPokeAnimRepeatTimer","file":"wram.asm","lineNo":3023,"address":29652,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Continue","FlyFunction","GetWhiteoutSpawn","NewGame","SpawnAfterRed","TeleportFunction"],"usingMethods":["EnterMapSpawnPoint"],"name":"wDefaultSpawnpoint","file":"wram.asm","lineNo":1666,"address":26352,"addressUsedBy":[]}

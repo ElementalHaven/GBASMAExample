@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CopyMapObjectToObjectStruct","ShakeScreen"],"usingMethods":["CopyTempObjectToObjectStruct"],"name":"wTempObjectCopyRange","file":"wram.asm","lineNo":194,"address":17142,"addressUsedBy":[]}

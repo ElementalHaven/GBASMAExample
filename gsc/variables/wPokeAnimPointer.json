@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":[],"name":"wPokeAnimPointer","file":"wram.asm","lineNo":3006,"address":29630,"addressUsedBy":["SetUpPokeAnim"]}

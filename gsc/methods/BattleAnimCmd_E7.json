@@ -1,0 +1,1 @@
+{"names":["BattleAnimCmd_E7"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["BattleAnimCmd_E7:","\tret"],"name":"BattleAnimCmd_E7","file":"engine/battle_anims/anim_commands.asm","lineNo":887,"address":224275,"addressUsedBy":[]}

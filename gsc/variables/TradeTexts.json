@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TradeTexts","file":"engine/events/npc_trade.asm","lineNo":405,"address":254332,"addressUsedBy":["PrintTradeText"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":["PokeAnim_GetSpeciesOrUnown"],"name":"wPokeAnimUnownLetter","file":"wram.asm","lineNo":3008,"address":29633,"addressUsedBy":[]}

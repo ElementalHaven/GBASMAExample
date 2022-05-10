@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function10034d","Function11b483","Function11b5e8","Function11cd20"],"usingMethods":["AnimateEZChatCursor","Function10016f","Function1199e2","Function17e4dd","Function17e5af"],"name":"wcd2c","file":"wram.asm","lineNo":1231,"address":25997,"addressUsedBy":["Function11cd54"]}

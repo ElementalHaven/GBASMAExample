@@ -1,0 +1,1 @@
+{"names":["_LoadHPBar"],"callingMethods":["BattleMenuPKMN_Loop","ForcePlayerMonChoice","OfferSwitch","TryPlayerSwitch"],"methodsCalled":["FarCall"],"methodAddressesUsed":["LoadHPBar"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tcallfar LoadHPBar","\tret"],"name":"_LoadHPBar","lineNo":1,"address":139627,"addressUsedBy":[]}

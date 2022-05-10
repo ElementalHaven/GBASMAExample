@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_Battle","file":"gfx/sgb/blk_packets.asm","lineNo":26,"address":70045,"addressUsedBy":["LoadSGBLayout"]}

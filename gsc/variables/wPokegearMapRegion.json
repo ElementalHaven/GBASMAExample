@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitPokegearTilemap","PokeGear"],"usingMethods":["InitPokegearTilemap"],"name":"wPokegearMapRegion","file":"wram.asm","lineNo":1431,"address":26202,"addressUsedBy":[]}

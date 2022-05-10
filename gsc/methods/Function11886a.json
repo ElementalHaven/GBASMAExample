@@ -1,0 +1,1 @@
+{"names":["Function11886a"],"callingMethods":[],"methodsCalled":["asm_11886f"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11886a:","\tld a, 1","\tjr asm_11886f"],"name":"Function11886a","file":"mobile/mobile_46.asm","lineNo":1016,"address":277338,"addressUsedBy":[]}

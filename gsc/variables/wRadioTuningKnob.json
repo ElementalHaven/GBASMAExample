@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AnimateTuningKnob"],"name":"wRadioTuningKnob","file":"wram.asm","lineNo":2627,"address":28747,"addressUsedBy":["AnimateTuningKnob","UpdateRadioStation"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EvolvingText","file":"engine/pokemon/evolve.asm","lineNo":409,"address":147153,"addressUsedBy":["EvolveAfterBattle_MasterLoop"]}

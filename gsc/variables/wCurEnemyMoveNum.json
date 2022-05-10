@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AIChooseMove","BattleCommand_Encore","ParseEnemyAction"],"usingMethods":["BattleCommand_DoTurn","CheckMimicUsed","HandleEncore"],"name":"wCurEnemyMoveNum","file":"wram.asm","lineNo":610,"address":18522,"addressUsedBy":[]}

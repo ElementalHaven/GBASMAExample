@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMenuData_ItemsPointerAddr","file":"wram.asm","lineNo":1539,"address":26285,"addressUsedBy":["InitScrollingMenuCursor","ScrollingMenu_GetListItemCoordAndFunctionArgs","ItemSwitch_GetNthItem","Function249d1"]}

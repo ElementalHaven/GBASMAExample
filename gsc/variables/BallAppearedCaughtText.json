@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BallAppearedCaughtText","file":"engine/items/item_effects.asm","lineNo":1076,"address":79956,"addressUsedBy":["PokeBallEffect"]}

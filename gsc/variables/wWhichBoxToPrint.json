@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["PrintPCBox"],"usingMethods":["PrintPCBox_Page1"],"name":"wWhichBoxToPrint","file":"wram.asm","lineNo":1761,"address":26575,"addressUsedBy":[]}

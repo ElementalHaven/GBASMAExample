@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ContestJudging_SecondPlaceScoreText","file":"engine/events/bug_contest/judging.asm","lineNo":51,"address":88406,"addressUsedBy":["ContestJudging_SecondPlaceText"]}

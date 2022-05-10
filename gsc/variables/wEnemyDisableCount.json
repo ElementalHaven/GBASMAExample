@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewEnemyMonStatus","ResetActorDisable"],"usingMethods":["ParseEnemyAction"],"name":"wEnemyDisableCount","file":"wram.asm","lineNo":530,"address":18414,"addressUsedBy":["BattleCommand_Disable","CheckEnemyTurn"]}

@@ -1,0 +1,1 @@
+{"names":["SquirtbottleEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_Squirtbottle"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _Squirtbottle","\tret"],"name":"SquirtbottleEffect","lineNo":1,"address":81246,"addressUsedBy":[]}

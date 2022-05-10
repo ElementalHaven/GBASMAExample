@@ -1,0 +1,1 @@
+{"names":["Function100327"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["HDMATransferTilemapToWRAMBank3"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall HDMATransferTilemapToWRAMBank3","\tret"],"name":"Function100327","lineNo":1,"address":255153,"addressUsedBy":[]}

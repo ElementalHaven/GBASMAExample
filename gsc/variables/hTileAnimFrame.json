@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoneTileAnimation","LoadMapGraphics","_AnimateTileset"],"usingMethods":["_AnimateTileset"],"name":"hTileAnimFrame","file":"hram.asm","lineNo":148,"address":58928,"addressUsedBy":[]}

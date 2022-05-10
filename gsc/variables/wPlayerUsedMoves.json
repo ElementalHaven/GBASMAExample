@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["UpdateUsedMoves"],"usingMethods":[],"name":"wPlayerUsedMoves","file":"wram.asm","lineNo":697,"address":18571,"addressUsedBy":["UpdateUsedMoves","AI_Smart_Counter","AI_Smart_RazorWind","AI_Smart_Unused2B","NewBattleMonStatus","AI_Smart_MirrorCoat","CheckPlayerMoveTypeMatchups"]}

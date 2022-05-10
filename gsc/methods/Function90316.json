@@ -1,0 +1,1 @@
+{"names":["Function90316"],"callingMethods":[],"methodsCalled":["PlaySFX"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["SFX_SHUT_DOWN_PC"],"lines":["Function90316:","\tld de, SFX_SHUT_DOWN_PC","\tcall PlaySFX","\tret"],"name":"Function90316","file":"engine/phone/phone.asm","lineNo":531,"address":187399,"addressUsedBy":[]}

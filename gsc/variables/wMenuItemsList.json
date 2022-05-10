@@ -1,0 +1,1 @@
+{"type":"byte[16]","validValues":[],"settingMethods":["StartMenu"],"usingMethods":[],"name":"wMenuItemsList","file":"wram.asm","lineNo":1845,"address":26672,"addressUsedBy":["StartMenu"]}

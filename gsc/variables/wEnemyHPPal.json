@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["LoadSGBLayout","_CGB_BattleColors"],"name":"wEnemyHPPal","file":"wram.asm","lineNo":1342,"address":26107,"addressUsedBy":["_UpdateBattleHUDs","UpdateEnemyHPPal","HandleEnemySwitch","UpdateBattleHUDs"]}

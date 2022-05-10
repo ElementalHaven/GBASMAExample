@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BrokenStdGFXPointers","file":"engine/gfx/sprites.asm","lineNo":540,"address":186143,"addressUsedBy":["BrokenGetStdGraphics"]}

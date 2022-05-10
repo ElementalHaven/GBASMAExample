@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemCantUseOnEggText","file":"engine/items/item_effects.asm","lineNo":2670,"address":81342,"addressUsedBy":["CantUseOnEggMessage"]}

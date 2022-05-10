@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleTowerRoomMenu_InitRAM","EZChat_GetSeenPokemonByKana"],"usingMethods":["BattleTowerRoomMenu_Cleanup","EZChat_GetSeenPokemonByKana"],"name":"wcd32","file":"wram.asm","lineNo":1237,"address":26003,"addressUsedBy":["Function100681","Function17d48d","Function17d5c4"]}

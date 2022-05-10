@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDailyRematchFlags","file":"wram.asm","lineNo":2842,"address":29122,"addressUsedBy":["CheckDailyResetTimer"]}

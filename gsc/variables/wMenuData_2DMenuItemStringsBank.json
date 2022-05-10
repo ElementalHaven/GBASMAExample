@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function100b12"],"usingMethods":["Function100b7a","Place2DMenuItemStrings","_2DMenu_","_InterpretBattleMenu","_InterpretMobileMenu"],"name":"wMenuData_2DMenuItemStringsBank","file":"wram.asm","lineNo":1528,"address":26275,"addressUsedBy":[]}

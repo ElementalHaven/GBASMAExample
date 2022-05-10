@@ -1,0 +1,1 @@
+{"names":["_QueueBGEffect"],"callingMethods":["BattleAnimCmd_BGEffect"],"methodsCalled":["FarCall"],"methodAddressesUsed":["QueueBGEffect"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tcallfar QueueBGEffect","\tret"],"name":"_QueueBGEffect","lineNo":1,"address":224999,"addressUsedBy":[]}

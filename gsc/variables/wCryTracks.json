@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_Cry","BattleAnimCmd_Sound","BattleStartMessage","FaintYourPokemon","Function_SetEnemyMonAndSendOutAnimation","PokeAnim_StereoCry","PursuitSwitch","SendOutPlayerMon"],"usingMethods":[],"name":"wCryTracks","file":"wram.asm","lineNo":112,"address":17086,"addressUsedBy":[]}

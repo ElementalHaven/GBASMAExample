@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_Switch","BattleTurn","EnemySwitch","EnemySwitch_SetMode"],"usingMethods":["ParseEnemyAction"],"name":"wEnemyIsSwitching","file":"wram.asm","lineNo":695,"address":18570,"addressUsedBy":["BattleCommand_Pursuit"]}

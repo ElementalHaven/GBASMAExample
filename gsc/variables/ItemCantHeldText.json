@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemCantHeldText","file":"engine/pokemon/mon_menu.asm","lineNo":417,"address":86979,"addressUsedBy":["GiveTakePartyMonItem"]}

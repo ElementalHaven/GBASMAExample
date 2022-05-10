@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokedexDataPointerTable","file":"data/pokemon/dex_entry_pointers.asm","lineNo":1,"address":147897,"addressUsedBy":["GetDexEntryPointer","PokedexShow2","HeavyBallMultiplier"]}

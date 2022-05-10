@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["LoadStation_BuenasPassword","PlayRadioShow"],"name":"wStatusFlags2","file":"wram.asm","lineNo":2574,"address":28732,"addressUsedBy":["GivePokerusAndConvertBerries","StartMenu","SweetScentEncounter","ConvertBerriesToBerryJuice"]}

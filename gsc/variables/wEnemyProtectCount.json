@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_TryItem","NewEnemyMonStatus","ParseEnemyAction","ResetVarsForSubstatusRage"],"usingMethods":["AI_Smart_Endure","AI_Smart_Protect"],"name":"wEnemyProtectCount","file":"wram.asm","lineNo":534,"address":18418,"addressUsedBy":["ProtectChance"]}

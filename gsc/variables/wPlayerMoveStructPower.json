@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["BattleCommand_BeatUp"],"name":"wPlayerMoveStructPower","lineNo":3,"address":18349,"addressUsedBy":["BattleCommand_ConstantDamage","PlayerAttackDamage"]}

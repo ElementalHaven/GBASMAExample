@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_StartWaitAnim","PokeAnim_StopWaitAnim"],"usingMethods":["PokeAnim_DoAnimScript","PokeAnim_Play","PokeAnim_Play2","PokeAnim_StartWaitAnim","PokeAnim_StopWaitAnim"],"name":"wPokeAnimJumptableIndex","file":"wram.asm","lineNo":3022,"address":29651,"addressUsedBy":["PokeAnim_End"]}

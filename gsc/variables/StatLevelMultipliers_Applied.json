@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"StatLevelMultipliers_Applied","file":"data/battle/stat_multipliers_2.asm","lineNo":7,"address":139550,"addressUsedBy":["ApplyStatLevelMultiplier"]}

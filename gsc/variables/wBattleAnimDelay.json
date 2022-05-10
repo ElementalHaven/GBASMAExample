@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["RunBattleAnimCommand"],"usingMethods":["RunBattleAnimCommand"],"name":"wBattleAnimDelay","file":"wram.asm","lineNo":3164,"address":33306,"addressUsedBy":[]}

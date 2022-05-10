@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TrainerClassDVs","file":"data/trainers/dvs.asm","lineNo":1,"address":101834,"addressUsedBy":["GetTrainerDVs"]}

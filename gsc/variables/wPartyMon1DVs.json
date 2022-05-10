@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMon1DVs","lineNo":12,"address":29235,"addressUsedBy":["DoNPCTrade","LoadSGBLayout","_CGB_Evolution","GeneratePartyMonStats","GetGender","LinkTrade","Function102a3b","Function102d48","PrintPlayerHUD","BillsPC_LoadMonStats","GetPartyMonDVs","Function17ded9","AddTempmonToParty","Function17d1f1"]}

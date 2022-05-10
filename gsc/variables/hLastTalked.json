@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetFacingObject"],"usingMethods":["Function5602","TrainerWalkToPlayer"],"name":"hLastTalked","file":"hram.asm","lineNo":150,"address":58929,"addressUsedBy":[]}

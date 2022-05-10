@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleTurn","PlayerSwitch"],"usingMethods":[],"name":"wPlayerIsSwitching","file":"wram.asm","lineNo":694,"address":18569,"addressUsedBy":["BattleCommand_Pursuit"]}

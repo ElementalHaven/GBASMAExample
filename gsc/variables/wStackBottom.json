@@ -1,0 +1,1 @@
+{"type":"byte[256]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wStackBottom","file":"wram.asm","lineNo":11,"address":16384,"addressUsedBy":["FindStackTop"]}

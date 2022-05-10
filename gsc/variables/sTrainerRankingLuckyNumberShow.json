@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingLuckyNumberShow","file":"sram.asm","lineNo":290,"address":50220,"addressUsedBy":["StubbedTrainerRankings_LuckyNumberShow"]}

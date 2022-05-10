@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["PhoneRing_CopyTilemapAtOnce","SaveMenu_CopyTilemapAtOnce"],"usingMethods":["PhoneRing_CopyTilemapAtOnce","SaveMenu_CopyTilemapAtOnce"],"name":"hSPBuffer","file":"hram.asm","lineNo":140,"address":58922,"addressUsedBy":[]}

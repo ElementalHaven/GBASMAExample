@@ -1,0 +1,1 @@
+{"names":["ApplyMapPalettes"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_UpdateTimePals"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _UpdateTimePals","\tret"],"name":"ApplyMapPalettes","lineNo":1,"address":92368,"addressUsedBy":[]}

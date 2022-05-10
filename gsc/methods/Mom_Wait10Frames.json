@@ -1,0 +1,1 @@
+{"names":["Mom_Wait10Frames"],"callingMethods":["BankOfMom"],"methodsCalled":["DelayFrames"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Mom_Wait10Frames:","\tld c, 10","\tcall DelayFrames","\tret"],"name":"Mom_Wait10Frames","file":"engine/events/mom.asm","lineNo":454,"address":94878,"addressUsedBy":[]}

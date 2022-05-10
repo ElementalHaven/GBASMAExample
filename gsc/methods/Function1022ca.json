@@ -1,0 +1,1 @@
+{"names":["Function1022ca"],"callingMethods":["Function1021f9"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wOverworldDelay"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function1022ca:","\tld a, 30","\tld [wOverworldDelay], a","\tret"],"name":"Function1022ca","file":"mobile/mobile_40.asm","lineNo":4951,"address":259333,"addressUsedBy":[]}

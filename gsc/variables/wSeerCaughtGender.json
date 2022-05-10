@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ReadCaughtData"],"usingMethods":["GetCaughtLocation","GetCaughtOT"],"name":"wSeerCaughtGender","file":"wram.asm","lineNo":1683,"address":26385,"addressUsedBy":[]}

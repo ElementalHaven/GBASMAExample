@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wReceiveCallDelay_StartTime","file":"wram.asm","lineNo":2434,"address":27588,"addressUsedBy":["CheckReceiveCallDelay","RestartReceiveCallDelay"]}

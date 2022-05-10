@@ -1,0 +1,1 @@
+{"type":"byte[106]","validValues":[],"settingMethods":["MagnetTrain"],"usingMethods":["MagnetTrain_Jumptable"],"name":"wMagnetTrainPlayerSpriteInitX","file":"wram.asm","lineNo":3127,"address":32925,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerLightScreenCount","file":"wram.asm","lineNo":654,"address":18547,"addressUsedBy":["HandleScreens","BattleCommand_Screen"]}

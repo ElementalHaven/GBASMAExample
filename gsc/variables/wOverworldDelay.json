@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1022ca","Mobile_SetOverworldDelay"],"usingMethods":["Function100e2d","Function1022d0","MobileComms_CheckInactivityTimer"],"name":"wOverworldDelay","file":"wram.asm","lineNo":1573,"address":26312,"addressUsedBy":[]}

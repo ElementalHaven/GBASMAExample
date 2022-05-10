@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["InitBattleMon","Pokedex_SearchForMons","PrintMonTypes","ValidateOTTrademon"],"name":"wBaseType2","file":"wram.asm","lineNo":2262,"address":27220,"addressUsedBy":[]}

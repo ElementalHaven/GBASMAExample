@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ResetBattleTowerTrainersSRAM"],"usingMethods":["Function_LoadOpponentTrainerAndPokemons","RunBattleTowerTrainer"],"name":"sNrOfBeatenBattleTowerTrainers","file":"sram.asm","lineNo":190,"address":47100,"addressUsedBy":["CopyBTTrainer_FromBT_OT_TowBT_OTTemp","RunBattleTowerTrainer"]}

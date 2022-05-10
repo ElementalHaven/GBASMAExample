@@ -1,0 +1,1 @@
+{"names":["Printer_SectionOne"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wJumptableIndex"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Printer_SectionOne:","\tld a, $1","\tld [wJumptableIndex], a","\tret"],"name":"Printer_SectionOne","file":"engine/printer/printer_serial.asm","lineNo":75,"address":173124,"addressUsedBy":[]}

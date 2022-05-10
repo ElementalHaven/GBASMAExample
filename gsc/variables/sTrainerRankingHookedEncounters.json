@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingHookedEncounters","file":"sram.asm","lineNo":279,"address":50187,"addressUsedBy":["StubbedTrainerRankings_HookedEncounters"]}

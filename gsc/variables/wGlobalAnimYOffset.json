@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadNamingScreenGFX"],"usingMethods":["UpdateAnimFrame"],"name":"wGlobalAnimYOffset","file":"wram.asm","lineNo":294,"address":17514,"addressUsedBy":[]}

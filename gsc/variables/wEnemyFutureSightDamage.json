@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyFutureSightDamage","file":"wram.asm","lineNo":720,"address":18590,"addressUsedBy":["BattleCommand_CheckFutureSight","BattleCommand_FutureSight"]}

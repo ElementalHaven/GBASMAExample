@@ -1,0 +1,1 @@
+{"names":["Functionce05f"],"callingMethods":[],"methodsCalled":["DeinitBattleAnimation"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Functionce05f:","\tcall DeinitBattleAnimation","\tret"],"name":"Functionce05f","file":"engine/battle_anims/functions.asm","lineNo":2886,"address":228748,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBackupEnemyMonBaseStats","file":"wram.asm","lineNo":715,"address":18581,"addressUsedBy":["UpdateBattleStateAndExperienceAfterEnemyFaint"]}

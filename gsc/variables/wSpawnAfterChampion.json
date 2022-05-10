@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HallOfFame","PostCreditsSpawn","RedCredits"],"usingMethods":["Continue","FinishContinueFunction"],"name":"wSpawnAfterChampion","file":"wram.asm","lineNo":2474,"address":27612,"addressUsedBy":[]}

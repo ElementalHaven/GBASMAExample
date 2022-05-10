@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function_LoadRandomBattleTowerMon"],"usingMethods":["Function_LoadRandomBattleTowerMon"],"name":"sBTMonPrevTrainer3","file":"sram.asm","lineNo":201,"address":47106,"addressUsedBy":[]}

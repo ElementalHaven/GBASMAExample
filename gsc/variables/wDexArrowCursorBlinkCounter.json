@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitArrowCursor","Pokedex_MoveArrowCursor"],"usingMethods":[],"name":"wDexArrowCursorBlinkCounter","file":"wram.asm","lineNo":815,"address":20150,"addressUsedBy":["Pokedex_BlinkArrowCursor"]}

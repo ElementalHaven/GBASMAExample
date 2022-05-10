@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":["SaveOptions"],"usingMethods":[],"name":"sOptions","file":"sram.asm","lineNo":96,"address":45230,"addressUsedBy":["SaveOptions","CheckPrimarySaveFile"]}

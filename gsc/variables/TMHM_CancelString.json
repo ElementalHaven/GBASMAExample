@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TMHM_CancelString","file":"engine/items/tmhm.asm","lineNo":452,"address":111054,"addressUsedBy":["TMHM_DisplayPocketItems","Tutorial_TMHMPocket"]}

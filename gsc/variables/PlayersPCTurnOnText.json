@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PlayersPCTurnOnText","file":"engine/events/pokecenter_pc.asm","lineNo":227,"address":92609,"addressUsedBy":["_PlayersHousePC"]}

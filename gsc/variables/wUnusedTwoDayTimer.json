@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ClearDailyTimers"],"usingMethods":["UnusedCheckUnusedTwoDayTimer"],"name":"wUnusedTwoDayTimer","file":"wram.asm","lineNo":2834,"address":29104,"addressUsedBy":["SetUnusedTwoDayTimer","CheckUnusedTwoDayTimer"]}

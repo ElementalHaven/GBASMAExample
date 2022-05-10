@@ -1,0 +1,1 @@
+{"names":["BattleAnimCmd_F5"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["BattleAnimCmd_F5:","\tret"],"name":"BattleAnimCmd_F5","file":"engine/battle_anims/anim_commands.asm","lineNo":1173,"address":224493,"addressUsedBy":[]}

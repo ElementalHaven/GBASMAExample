@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["asm_170aa2"],"usingMethods":["Function170aaf","StubbedTrainerRankings_BattleTowerWins"],"name":"s5_aa8d","file":"sram.asm","lineNo":363,"address":52673,"addressUsedBy":["asm_170aa2","Function170aaf","StubbedTrainerRankings_BattleTowerWins"]}

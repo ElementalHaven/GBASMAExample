@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["SaveBackupChecksum"],"usingMethods":["VerifyBackupChecksum"],"name":"sBackupChecksum","file":"sram.asm","lineNo":87,"address":45225,"addressUsedBy":[]}

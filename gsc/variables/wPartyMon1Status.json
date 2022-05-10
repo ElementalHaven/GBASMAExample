@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMon1Status","lineNo":2,"address":29242,"addressUsedBy":["BattleCommand_HealBell","Defrost","PlacePartyMonStatus","PokeFluteEffect","HandleDefrost"]}

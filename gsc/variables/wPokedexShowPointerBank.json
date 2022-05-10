@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["CopyDexEntryPart2"],"usingMethods":["CopyDexEntry"],"name":"wPokedexShowPointerBank","file":"wram.asm","lineNo":2326,"address":27255,"addressUsedBy":["CopyDexEntryPart1"]}

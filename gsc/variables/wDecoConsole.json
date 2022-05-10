@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1150b3","Function1153d2"],"usingMethods":["DecorationDesc_Console","Function1150b3","Function1153d2","ToggleDecorationsVisibility"],"name":"wDecoConsole","file":"wram.asm","lineNo":2806,"address":29069,"addressUsedBy":["DecoAction_putawayconsole","DecoAction_setupconsole"]}

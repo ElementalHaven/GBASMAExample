@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckRegisteredItem","RegisterItem"],"usingMethods":["CheckRegisteredItem"],"name":"wRegisteredItem","file":"wram.asm","lineNo":2631,"address":28751,"addressUsedBy":[]}

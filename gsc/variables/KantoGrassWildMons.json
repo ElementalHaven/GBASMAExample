@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"KantoGrassWildMons","file":"data/wild/kanto_grass.asm","lineNo":3,"address":108278,"addressUsedBy":["RandomPhoneWildMon","RandomUnseenWildMon","FindNest","_GrassWildmonLookup"]}

@@ -1,0 +1,1 @@
+{"names":["PlayerMailBoxMenu"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_PlayerMailBoxMenu"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _PlayerMailBoxMenu","\txor a","\tret"],"name":"PlayerMailBoxMenu","lineNo":1,"address":92994,"addressUsedBy":[]}

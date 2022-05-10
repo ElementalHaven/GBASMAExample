@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPoisonStep"],"usingMethods":["DoPoisonStep"],"name":"wPoisonStepFlagSum","file":"wram.asm","lineNo":1942,"address":26750,"addressUsedBy":[]}

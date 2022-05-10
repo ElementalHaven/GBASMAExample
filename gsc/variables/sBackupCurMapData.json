@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"sBackupCurMapData","file":"sram.asm","lineNo":81,"address":44831,"addressUsedBy":["SaveBackupPlayerData","LoadBackupPlayerData"]}

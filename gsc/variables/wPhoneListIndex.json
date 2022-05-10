@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetAvailableCallers"],"usingMethods":["GetAvailableCallers"],"name":"wPhoneListIndex","file":"wram.asm","lineNo":1924,"address":26738,"addressUsedBy":[]}

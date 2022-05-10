@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetUsedSprites","_ClearSprites","_RefreshSprites"],"usingMethods":["GetUsedSprite","GetUsedSprites","LoadMiscTiles"],"name":"wSpriteFlags","file":"wram.asm","lineNo":2069,"address":26974,"addressUsedBy":["_ClearSprites","_RefreshSprites"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_SearchForMons"],"usingMethods":["Pokedex_SearchForMons","Pokedex_UpdateSearchScreen"],"name":"wDexSearchResultCount","file":"wram.asm","lineNo":812,"address":20147,"addressUsedBy":["Pokedex_DrawSearchResultsScreenBG"]}

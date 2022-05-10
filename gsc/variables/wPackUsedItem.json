@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DepositSellInitPackBuffers","DepositSellTutorial_InterpretJoypad","InitPackBuffers","Pack_QuitNoScript","Pack_QuitRunScript","TutorialPack"],"usingMethods":["GiveTakePartyMonItem","PlayerDepositItemMenu","SellMenu","StartMenu_Pack"],"name":"wPackUsedItem","file":"wram.asm","lineNo":1437,"address":26205,"addressUsedBy":[]}

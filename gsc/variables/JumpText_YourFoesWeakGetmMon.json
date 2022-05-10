@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"JumpText_YourFoesWeakGetmMon","file":"engine/battle/core.asm","lineNo":7688,"address":140358,"addressUsedBy":["SendOutMonText"]}

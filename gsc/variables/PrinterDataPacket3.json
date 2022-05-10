@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PrinterDataPacket3","file":"engine/printer/printer_serial.asm","lineNo":441,"address":173417,"addressUsedBy":["Printer_StartTransmittingTilemap"]}

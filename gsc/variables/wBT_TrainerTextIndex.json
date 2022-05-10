@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleTowerText"],"usingMethods":["BattleTowerText"],"name":"wBT_TrainerTextIndex","file":"wram.asm","lineNo":3050,"address":30079,"addressUsedBy":[]}

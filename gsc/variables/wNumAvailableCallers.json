@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetAvailableCallers"],"usingMethods":["ChooseRandomCaller","GetAvailableCallers"],"name":"wNumAvailableCallers","file":"wram.asm","lineNo":1925,"address":26739,"addressUsedBy":["GetAvailableCallers"]}

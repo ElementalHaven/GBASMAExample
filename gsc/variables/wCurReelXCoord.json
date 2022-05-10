@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Slots_UpdateReelPositionAndOAM"],"usingMethods":["Slots_UpdateReelPositionAndOAM"],"name":"wCurReelXCoord","file":"wram.asm","lineNo":886,"address":20270,"addressUsedBy":[]}

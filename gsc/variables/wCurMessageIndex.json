@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MailboxPC"],"usingMethods":["MailboxPC"],"name":"wCurMessageIndex","file":"wram.asm","lineNo":2028,"address":26918,"addressUsedBy":[]}

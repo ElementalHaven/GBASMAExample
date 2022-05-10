@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TMHMNotCompatibleText","file":"engine/items/tmhm.asm","lineNo":181,"address":110821,"addressUsedBy":["TeachTMHM","CheckCanLearnMoveTutorMove"]}

@@ -1,0 +1,1 @@
+{"names":["Functioncd96a"],"callingMethods":["Functioncd961"],"methodsCalled":["Functioncd99a"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Functioncd96a:","\tcall Functioncd99a","\tret"],"name":"Functioncd96a","file":"engine/battle_anims/functions.asm","lineNo":1654,"address":227678,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[10]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLinkBattleRNs","file":"wram.asm","lineNo":2210,"address":27160,"addressUsedBy":["Function1018fb","FixDataForLinkTransfer","_BattleRandom","Link_CopyRandomNumbers"]}

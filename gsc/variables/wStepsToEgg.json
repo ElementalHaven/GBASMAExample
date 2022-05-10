@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DayCare_InitBreeding"],"usingMethods":[],"name":"wStepsToEgg","file":"wram.asm","lineNo":2957,"address":29508,"addressUsedBy":["DayCareStep"]}

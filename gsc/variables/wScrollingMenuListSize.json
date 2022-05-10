@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["InitScrollingMenuCursor"],"usingMethods":["InitScrollingMenuCursor","ScrollingMenuJoyAction","ScrollingMenu_InitFlags","ScrollingMenu_ValidateSwitchItem"],"name":"wScrollingMenuListSize","file":"wram.asm","lineNo":2081,"address":26980,"addressUsedBy":[]}

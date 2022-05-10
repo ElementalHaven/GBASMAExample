@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GiveExperiencePoints"],"usingMethods":["GiveExperiencePoints"],"name":"wTempLevel","file":"wram.asm","lineNo":705,"address":18574,"addressUsedBy":[]}

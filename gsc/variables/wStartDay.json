@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DSTChecks","MainMenu_MobileStudium"],"usingMethods":["DSTChecks","MainMenu_MobileStudium"],"name":"wStartDay","file":"wram.asm","lineNo":2477,"address":27613,"addressUsedBy":["MrChrono","TryLoadSaveData"]}

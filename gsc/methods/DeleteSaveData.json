@@ -1,0 +1,1 @@
+{"names":["DeleteSaveData"],"callingMethods":[],"methodsCalled":["FarCall","Init"],"methodAddressesUsed":["_DeleteSaveData"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _DeleteSaveData","\tjp Init"],"name":"DeleteSaveData","lineNo":1,"address":64026,"addressUsedBy":[]}

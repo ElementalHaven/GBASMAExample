@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function4876f","Function4880e","InitCrystalData"],"usingMethods":["Function4876f","Function4880e"],"name":"wd473","file":"wram.asm","lineNo":2453,"address":27601,"addressUsedBy":["Function4880e","Function487ec"]}

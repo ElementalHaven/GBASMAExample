@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_ConvertAndApplyBitmask"],"usingMethods":["PokeAnim_ConvertAndApplyBitmask"],"name":"wPokeAnimBitmaskCurBit","file":"wram.asm","lineNo":3031,"address":29660,"addressUsedBy":["PokeAnim_ConvertAndApplyBitmask"]}

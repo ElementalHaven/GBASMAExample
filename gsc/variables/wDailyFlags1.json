@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDailyFlags1","file":"wram.asm","lineNo":2817,"address":29080,"addressUsedBy":["GiveShuckle","TryResetFruitTrees","BargainShop","CheckUnusedTwoDayTimer","CheckDailyResetTimer","GetFishGroupIndex","ResetFruitTrees"]}

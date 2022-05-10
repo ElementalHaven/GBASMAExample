@@ -1,0 +1,1 @@
+{"names":["TownMapEffect"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["PokegearMap"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall PokegearMap","\tret"],"name":"TownMapEffect","lineNo":1,"address":80010,"addressUsedBy":[]}

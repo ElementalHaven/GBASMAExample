@@ -1,0 +1,1 @@
+{"names":["BattleTowerRoomMenu_DoNothing"],"callingMethods":["asm_11800b"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["BattleTowerRoomMenu_DoNothing:","\tret"],"name":"BattleTowerRoomMenu_DoNothing","file":"mobile/mobile_46.asm","lineNo":45,"address":276063,"addressUsedBy":[]}

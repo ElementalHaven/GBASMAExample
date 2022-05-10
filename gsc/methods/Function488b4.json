@@ -1,0 +1,1 @@
+{"names":["Function488b4"],"callingMethods":["Function4880e"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function488b4:","\tld a, $0","\tand a","\tscf","\tret"],"name":"Function488b4","file":"mobile/mobile_12.asm","lineNo":995,"address":150251,"addressUsedBy":[]}

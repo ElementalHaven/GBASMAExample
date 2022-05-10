@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SlotsAction_Init","Slots_CheckMatchedAllThreeReels"],"usingMethods":["SlotsAction_FlashIfWin","Slots_CheckMatchedAllThreeReels","Slots_GetPayout","Slots_PayoutText"],"name":"wSlotMatched","file":"wram.asm","lineNo":883,"address":20264,"addressUsedBy":[]}

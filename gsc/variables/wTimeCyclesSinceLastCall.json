@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitCallReceiveDelay"],"usingMethods":["NextCallReceiveDelay"],"name":"wTimeCyclesSinceLastCall","file":"wram.asm","lineNo":2432,"address":27586,"addressUsedBy":["CheckReceiveCallTimer"]}

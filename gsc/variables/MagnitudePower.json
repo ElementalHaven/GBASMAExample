@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MagnitudePower","file":"data/moves/magnitude_power.asm","lineNo":1,"address":123822,"addressUsedBy":["BattleCommand_GetMagnitude"]}

@@ -1,0 +1,1 @@
+{"names":["TextJump_ComeBack"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["ComeBackText"],"constantsUsed":[],"lines":["TextJump_ComeBack: ; unreferenced","\tld hl, ComeBackText","\tret"],"name":"TextJump_ComeBack","file":"engine/battle/core.asm","lineNo":7766,"address":140434,"addressUsedBy":[]}

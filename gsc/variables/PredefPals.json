@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PredefPals","file":"engine/gfx/color.asm","lineNo":1173,"address":70647,"addressUsedBy":["GetPredefPal","SGBBorder_PushBGPals"]}

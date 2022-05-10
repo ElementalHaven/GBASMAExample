@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NoRadioStation","PokeGear","Radio_BackUpFarCallParams","UpdateRadioStation"],"usingMethods":["PlayRadio","PokegearRadio_Joypad","UpdateRadioStation"],"name":"wPokegearRadioChannelBank","file":"wram.asm","lineNo":844,"address":20173,"addressUsedBy":[]}

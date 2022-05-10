@@ -1,0 +1,1 @@
+{"type":"byte[40]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBattleScriptBuffer","file":"wram.asm","lineNo":544,"address":18427,"addressUsedBy":["DoMove"]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["Slots_GetPayout"],"usingMethods":[],"name":"wPayout","file":"wram.asm","lineNo":885,"address":20268,"addressUsedBy":["SlotsAction_PayoutAnim","SlotsLoop","Slots_GetPayout"]}

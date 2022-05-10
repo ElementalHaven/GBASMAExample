@@ -1,0 +1,1 @@
+{"names":["TitleScreenNextScene"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["TitleScreenNextScene: ; unreferenced","\tld hl, wJumptableIndex","\tinc [hl]","\tret"],"name":"TitleScreenNextScene","file":"engine/menus/intro_menu.asm","lineNo":1064,"address":63913,"addressUsedBy":[]}

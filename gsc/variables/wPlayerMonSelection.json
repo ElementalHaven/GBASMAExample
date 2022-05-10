@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerMonSelection","file":"wram.asm","lineNo":2848,"address":29138,"addressUsedBy":["Function10383c","LoadSelectedPartiesForColosseum","_SelectMonsForMobileBattle"]}

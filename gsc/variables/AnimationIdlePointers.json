@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AnimationIdlePointers","file":"gfx/pokemon/idle_pointers.asm","lineNo":1,"address":238066,"addressUsedBy":["GetMonAnimPointer"]}

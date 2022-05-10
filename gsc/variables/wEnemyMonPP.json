@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemyMonPP","lineNo":5,"address":27176,"addressUsedBy":["BattleCommand_Disable","GeneratePartyMonStats","Function3f662","BattleCommand_DoTurn","AIChooseMove","InitEnemyWildmon","ParseEnemyAction","HandleEncore","LoadEnemyMon","GetMaxPPOfMove","PokeBallEffect","HandleMysteryberry"]}

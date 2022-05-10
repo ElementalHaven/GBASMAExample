@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_ABCMode","Pokedex_OrderMonsByMode","Pokedex_UpdateSearchScreen"],"usingMethods":["Pokedex_ABCMode","Pokedex_InitCursorPosition","Pokedex_ListingHandleDPadInput","Pokedex_NextOrPreviousDexEntry","Pokedex_PutScrollbarOAM"],"name":"wDexListingEnd","file":"wram.asm","lineNo":807,"address":20142,"addressUsedBy":[]}

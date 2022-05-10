@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AI_TryItem"],"name":"wEnemyTrainerItem1","file":"wram.asm","lineNo":413,"address":18382,"addressUsedBy":["AI_TryItem","GetTrainerAttributes"]}

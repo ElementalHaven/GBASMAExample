@@ -1,0 +1,1 @@
+{"names":["asm_ce58f"],"callingMethods":["Functionce564","Functionce577"],"methodsCalled":["Functionce6f1"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_ce58f:","\tcall Functionce6f1","\tret"],"name":"asm_ce58f","file":"engine/battle_anims/functions.asm","lineNo":3807,"address":229539,"addressUsedBy":[]}

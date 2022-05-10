@@ -1,0 +1,1 @@
+{"type":"byte[1024]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"vBGMap2","file":"vram.asm","lineNo":15,"address":14336,"addressUsedBy":["PhoneRing_CopyTilemapAtOnce","SaveMenu_CopyTilemapAtOnce"]}

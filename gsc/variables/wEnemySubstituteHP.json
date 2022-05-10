@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemySubstituteHP","file":"wram.asm","lineNo":596,"address":18513,"addressUsedBy":["BattleCommand_Substitute","DoSubstituteDamage"]}

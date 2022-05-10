@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["BattleTowerMobileError","Function10020b","Function117bb6","Function171c41","Function17e309","Function17f5c3","Function17f5d2"],"usingMethods":["DisplayMobileError"],"name":"wc303","file":"wram.asm","lineNo":250,"address":17326,"addressUsedBy":["Function17ff23"]}

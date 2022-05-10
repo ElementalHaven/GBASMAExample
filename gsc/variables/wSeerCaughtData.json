@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ReadCaughtData"],"usingMethods":["GetCaughtLevel","GetCaughtTime"],"name":"wSeerCaughtData","file":"wram.asm","lineNo":1682,"address":26384,"addressUsedBy":[]}

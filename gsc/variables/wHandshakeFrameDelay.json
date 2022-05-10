@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Printer_CheckConnectionStatus"],"usingMethods":[],"name":"wHandshakeFrameDelay","file":"wram.asm","lineNo":987,"address":22010,"addressUsedBy":[]}

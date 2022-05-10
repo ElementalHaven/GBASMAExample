@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["NamingScreen"],"usingMethods":[],"name":"wNamingScreenStringEntryCoord","file":"wram.asm","lineNo":868,"address":20201,"addressUsedBy":["NamingScreenJoypadLoop"]}

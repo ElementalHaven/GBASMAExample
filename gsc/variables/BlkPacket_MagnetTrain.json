@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_MagnetTrain","file":"gfx/sgb/blk_packets.asm","lineNo":85,"address":70194,"addressUsedBy":["LoadSGBLayout"]}

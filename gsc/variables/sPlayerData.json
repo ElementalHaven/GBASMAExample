@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"sPlayerData","file":"sram.asm","lineNo":101,"address":45231,"addressUsedBy":["CompareLoadedAndSavedPlayerID","Function4a0c2","TryLoadSaveData","LoadPlayerData","Function10578c","ClockResetPassword","SavePlayerData","PrepMysteryGiftDataToSend"]}

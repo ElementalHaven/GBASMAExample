@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MagnetTrain_Jumptable"],"usingMethods":[],"name":"wMagnetTrainWaitCounter","file":"wram.asm","lineNo":1455,"address":26214,"addressUsedBy":["MagnetTrain_Jumptable"]}

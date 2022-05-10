@@ -1,0 +1,1 @@
+{"names":["MaxRepelEffect"],"callingMethods":[],"methodsCalled":["UseRepel"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["MaxRepelEffect:","\tld b, 250","\tjr UseRepel"],"name":"MaxRepelEffect","file":"engine/items/item_effects.asm","lineNo":2070,"address":80872,"addressUsedBy":[]}

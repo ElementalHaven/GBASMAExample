@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Gen1TrainerClassNames","file":"data/text/unused_gen1_trainer_names.asm","lineNo":1,"address":161531,"addressUsedBy":["GetGen1TrainerClassName"]}

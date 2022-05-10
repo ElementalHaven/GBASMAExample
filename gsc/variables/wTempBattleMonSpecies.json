@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleIntro","DoBattle","InitBattleMon"],"usingMethods":["BattleAnimCmd_Transform","GetBattlemonBackpicPalettePointer","LoveBallMultiplier"],"name":"wTempBattleMonSpecies","file":"wram.asm","lineNo":2213,"address":27171,"addressUsedBy":[]}

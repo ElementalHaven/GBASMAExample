@@ -1,0 +1,1 @@
+{"type":"byte[256]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPokedexOrder","file":"wram.asm","lineNo":803,"address":19884,"addressUsedBy":["Pokedex_ABCMode","Pokedex_SearchForMons","Function11ad1b","Pokedex_InitCursorPosition","Pokedex_OrderMonsByMode","Pokedex_GetSelectedMon","Function11b099","Pokedex_PrintListing"]}

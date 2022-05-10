@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wOTPartyMon1Status","lineNo":2,"address":27298,"addressUsedBy":["AI_Switch","BattleCommand_HealBell","AI_HealStatus","Defrost","ShowLinkBattleParticipantsAfterEnd","PokeFluteEffect","HandleDefrost"]}

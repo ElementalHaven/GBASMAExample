@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AskRememberPassword","BuenasPassword","Function11a00e","Function11a0ca","Function11a5b9","Function11a5f5"],"usingMethods":["LoadSGBLayout","ScrollingMenu_UpdateDisplay","_CGB_Pokepic"],"name":"wMenuBorderRightCoord","file":"wram.asm","lineNo":1507,"address":26253,"addressUsedBy":[]}

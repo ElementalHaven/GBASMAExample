@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HallOfFame","MovePKMNWitoutMail_InsertMon","PauseGameLogic","ResumeGameLogic"],"usingMethods":[],"name":"wGameLogicPaused","file":"wram.asm","lineNo":144,"address":17102,"addressUsedBy":[]}

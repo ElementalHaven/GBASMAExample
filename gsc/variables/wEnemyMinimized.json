@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewEnemyMonStatus"],"usingMethods":["BattleCommand_Transform","DropEnemySub"],"name":"wEnemyMinimized","file":"wram.asm","lineNo":629,"address":18539,"addressUsedBy":["BattleCommand_DoubleMinimizeDamage","MinimizeDropSub"]}

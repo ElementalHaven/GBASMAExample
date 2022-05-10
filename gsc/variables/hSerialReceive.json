@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Link_ResetSerialRegistersAfterLinkClosure","SetBitsForTimeCapsuleRequest","WaitForLinkedFriend","WaitForOtherPlayerToExit"],"usingMethods":[],"name":"hSerialReceive","file":"hram.asm","lineNo":127,"address":58911,"addressUsedBy":[]}

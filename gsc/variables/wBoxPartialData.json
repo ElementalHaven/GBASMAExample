@@ -1,0 +1,1 @@
+{"type":"byte[480]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBoxPartialData","file":"wram.asm","lineNo":391,"address":17739,"addressUsedBy":["SaveBoxAddress","LoadBoxAddress","LoadBoxMonListing"]}

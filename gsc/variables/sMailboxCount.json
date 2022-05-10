@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["GetMailboxCount","InitMail"],"name":"sMailboxCount","file":"sram.asm","lineNo":24,"address":44611,"addressUsedBy":["RestorePartyMonMail","InitMail","GetMailboxCount","SendMailToPC","MailboxPC","MailboxPC_GetMailAuthor","MoveMailFromPCToParty","BackupPartyMonMail","DeleteMailFromPC","DeletePartyMonMail"]}

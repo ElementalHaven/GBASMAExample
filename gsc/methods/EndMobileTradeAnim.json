@@ -1,0 +1,1 @@
+{"names":["EndMobileTradeAnim"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["EndMobileTradeAnim:","\tld hl, wJumptableIndex","\tset 7, [hl]","\tret"],"name":"EndMobileTradeAnim","file":"mobile/mobile_42.asm","lineNo":405,"address":265744,"addressUsedBy":[]}

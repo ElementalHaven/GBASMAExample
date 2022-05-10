@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DSTChecks","MainMenu_MobileStudium"],"usingMethods":["DSTChecks","MainMenu_MobileStudium"],"name":"wStartHour","file":"wram.asm","lineNo":2478,"address":27614,"addressUsedBy":[]}

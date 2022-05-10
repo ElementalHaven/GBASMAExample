@@ -1,0 +1,1 @@
+{"type":"byte[5]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLuckyNumberDigitsBuffer","file":"wram.asm","lineNo":1745,"address":26505,"addressUsedBy":["CheckForLuckyNumberWinners"]}

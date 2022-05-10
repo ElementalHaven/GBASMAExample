@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["LoadMapTimeOfDay","ReanchorBGMap_NoOAMUpdate","UpdateOverworldMap"],"usingMethods":["UpdateOverworldMap"],"name":"wBGMapAnchor","file":"wram.asm","lineNo":2102,"address":26994,"addressUsedBy":[]}

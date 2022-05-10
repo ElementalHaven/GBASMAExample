@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["TryAddMonToParty"],"usingMethods":["TryAddMonToParty"],"name":"hMoveMon","file":"hram.asm","lineNo":53,"address":58838,"addressUsedBy":[]}

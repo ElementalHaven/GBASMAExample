@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DecompressGet2bppPredef","lineNo":1,"address":67401,"addressUsedBy":["ShrinkFrame","GetTrainerBackpic","GetChrisBackpic"]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["InitMapNameSign"],"usingMethods":[],"name":"wLandmarkSignTimer","file":"wram.asm","lineNo":159,"address":17115,"addressUsedBy":["PlaceMapNameSign"]}

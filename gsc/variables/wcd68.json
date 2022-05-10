@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleTowerRoomMenu_InitRAM","Function100e72","Function118473","Function17d6a1"],"usingMethods":["Function118473"],"name":"wcd68","file":"wram.asm","lineNo":1305,"address":26057,"addressUsedBy":["Function17f524","asm_100eb8","Function11a302"]}

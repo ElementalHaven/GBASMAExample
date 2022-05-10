@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_EnemyMonFainted","file":"data/text/battle.asm","lineNo":162,"address":171645,"addressUsedBy":["PursuitSwitch","FaintEnemyPokemon"]}

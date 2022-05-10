@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1144d1","Function1146a4","Function1146fa","Function1155d1"],"usingMethods":["Function1144d1","Function1146fa","Function1154d4","ToggleDecorationsVisibility"],"name":"wDecoBigDoll","file":"wram.asm","lineNo":2809,"address":29072,"addressUsedBy":["DecoAction_putawaybigdoll","DecoAction_setupbigdoll"]}

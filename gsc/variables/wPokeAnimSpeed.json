@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitAnim"],"usingMethods":["PokeAnim_GetDuration"],"name":"wPokeAnimSpeed","file":"wram.asm","lineNo":3014,"address":29640,"addressUsedBy":[]}

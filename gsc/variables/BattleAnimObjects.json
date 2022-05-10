@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleAnimObjects","file":"data/battle_anims/objects.asm","lineNo":19,"address":225003,"addressUsedBy":["InitBattleAnimation"]}

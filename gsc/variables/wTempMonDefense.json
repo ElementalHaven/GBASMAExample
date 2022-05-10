@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTempMonDefense","lineNo":8,"address":26966,"addressUsedBy":["PrintTempMonStats","EvolveAfterBattle_MasterLoop","PrintPartyMonPage2"]}

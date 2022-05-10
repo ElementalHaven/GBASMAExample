@@ -1,0 +1,1 @@
+{"names":["_InitializeStartDay"],"callingMethods":[],"methodsCalled":["InitializeStartDay"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["_InitializeStartDay:","\tcall InitializeStartDay","\tret"],"name":"_InitializeStartDay","file":"engine/overworld/time.asm","lineNo":1,"address":83252,"addressUsedBy":["InitializeWorld"]}

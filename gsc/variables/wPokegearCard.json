@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeGear","Pokegear_InitJumptableIndices","Pokegear_SwitchPage"],"usingMethods":["InitPokegearTilemap"],"name":"wPokegearCard","file":"wram.asm","lineNo":1430,"address":26201,"addressUsedBy":["AnimatePokegearModeIndicatorArrow"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ContestAskSwitchText","file":"engine/events/bug_contest/display_stats.asm","lineNo":89,"address":223534,"addressUsedBy":["DisplayCaughtContestMonStats"]}

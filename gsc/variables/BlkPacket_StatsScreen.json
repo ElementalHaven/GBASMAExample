@@ -1,0 +1,1 @@
+{"type":"byte[8]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BlkPacket_StatsScreen","file":"gfx/sgb/blk_packets.asm","lineNo":34,"address":70062,"addressUsedBy":["LoadSGBLayout"]}

@@ -1,0 +1,1 @@
+{"names":["NoEffect"],"callingMethods":[],"methodsCalled":["IsntTheTimeMessage"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["NoEffect:","\tjp IsntTheTimeMessage"],"name":"NoEffect","file":"engine/items/item_effects.asm","lineNo":2576,"address":81280,"addressUsedBy":[]}

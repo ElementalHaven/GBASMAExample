@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["FlyFunction_GetMonIcon","GetMonIconDE","GetSpeciesIcon","InitPartyMenuIcon","MoveList_InitAnimatedMonIcon","NamingScreen_InitAnimatedMonIcon","Trade_LoadMonIconGFX"],"usingMethods":["GetIcon"],"name":"wCurIcon","file":"wram.asm","lineNo":282,"address":17505,"addressUsedBy":[]}

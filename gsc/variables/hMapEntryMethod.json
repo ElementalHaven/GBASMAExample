@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Continue","Function1002dc","NewGame","PostCreditsSpawn"],"usingMethods":["RunMapSetupScript"],"name":"hMapEntryMethod","file":"hram.asm","lineNo":33,"address":58823,"addressUsedBy":[]}

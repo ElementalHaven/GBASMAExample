@@ -1,0 +1,1 @@
+{"names":["Function4ad60"],"callingMethods":["Function4acaa"],"methodsCalled":["FarCall"],"methodAddressesUsed":["ManagePokemonMoves"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall ManagePokemonMoves","\tret"],"name":"Function4ad60","lineNo":1,"address":154644,"addressUsedBy":[]}

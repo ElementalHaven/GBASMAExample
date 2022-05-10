@@ -1,0 +1,1 @@
+{"type":"byte[19]","validValues":[],"settingMethods":[],"usingMethods":["InitClock"],"name":"wInitMinuteBuffer","file":"wram.asm","lineNo":766,"address":19566,"addressUsedBy":["SetMinutes","DisplayMinutesWithMinString","OakText_ResponseToSetTime"]}

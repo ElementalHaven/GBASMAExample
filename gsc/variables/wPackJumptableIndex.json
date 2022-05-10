@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DepositSellInitPackBuffers","GiveItem","InitPackBuffers","Pack_InterpretJoypad"],"usingMethods":["BattlePack","GiveItem","Pack"],"name":"wPackJumptableIndex","file":"wram.asm","lineNo":1435,"address":26203,"addressUsedBy":[]}

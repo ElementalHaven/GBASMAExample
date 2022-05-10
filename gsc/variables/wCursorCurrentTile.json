@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["Init2DMenuCursorPosition","LinkTradeMenu","Place2DMenuCursor","ScrollingMenu_InitFlags"],"usingMethods":[],"name":"wCursorCurrentTile","file":"wram.asm","lineNo":1569,"address":26307,"addressUsedBy":["LinkTradeMenu","Move2DMenuCursor"]}

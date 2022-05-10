@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokegearPhone_UpdateDisplayList"],"usingMethods":["PokegearPhone_UpdateDisplayList"],"name":"wPokegearPhoneLoadNameBuffer","file":"wram.asm","lineNo":836,"address":20164,"addressUsedBy":[]}

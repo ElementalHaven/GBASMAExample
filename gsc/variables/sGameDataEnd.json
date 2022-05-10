@@ -1,0 +1,1 @@
+{"type":"byte[394]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sGameDataEnd","file":"sram.asm","lineNo":104,"address":45231,"addressUsedBy":["SaveChecksum","VerifyChecksum"]}

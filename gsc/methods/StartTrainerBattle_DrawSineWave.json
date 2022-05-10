@@ -1,0 +1,1 @@
+{"names":["StartTrainerBattle_DrawSineWave"],"callingMethods":["StartTrainerBattle_SineWave"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tcalc_sine_wave"],"name":"StartTrainerBattle_DrawSineWave","lineNo":3,"address":182234,"addressUsedBy":[]}

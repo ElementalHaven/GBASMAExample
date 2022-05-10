@@ -1,0 +1,1 @@
+{"names":["PlayerDecorationMenu"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["_PlayerDecorationMenu"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _PlayerDecorationMenu","\tld a, c","\tand a","\tret z","\tscf","\tret"],"name":"PlayerDecorationMenu","lineNo":1,"address":92854,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LinkTradeAnim_LoadTradeMonSpecies"],"usingMethods":["TradeAnim_TubeToOT1"],"name":"wLinkTradeSendmonSpecies","file":"wram.asm","lineNo":857,"address":20191,"addressUsedBy":[]}

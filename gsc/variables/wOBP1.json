@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimAssignPals","BattleAnimCmd_OBP1","BattleAnim_RevertPals","BattleBGEffect_1c","BattleBGEffect_AlternateHues","BattleBGEffects_ResetVideoHRAM","DoBattleTransition","MagnetTrain_Jumptable_FirstRunThrough"],"usingMethods":[],"name":"wOBP1","file":"wram.asm","lineNo":1617,"address":26336,"addressUsedBy":[]}

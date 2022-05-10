@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["BattleAnimCmd_1GFX","BattleAnimCmd_2GFX","BattleAnimCmd_3GFX","BattleAnimCmd_4GFX","BattleAnimCmd_5GFX","BattleAnimCmd_IncBGEffect","BattleAnimCmd_IncObj","BattleAnimCmd_SetObj","RunBattleAnimCommand"],"name":"wBattleAnimByte","file":"wram.asm","lineNo":3168,"address":33311,"addressUsedBy":[]}

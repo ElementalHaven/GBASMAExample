@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckOverworldTileArrays","LoadSpecialMapPalette"],"name":"wMapTileset","file":"wram.asm","lineNo":2119,"address":27033,"addressUsedBy":[]}

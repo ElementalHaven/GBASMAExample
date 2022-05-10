@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["AICompareSpeed"],"name":"wBattleMonSpeed","lineNo":14,"address":18370,"addressUsedBy":["ApplyPrzEffectOnSpeed","DetermineMoveOrder","BattleMenu_Run"]}

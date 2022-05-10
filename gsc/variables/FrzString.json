@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"FrzString","file":"engine/pokemon/mon_stats.asm","lineNo":429,"address":162085,"addressUsedBy":["PlaceNonFaintStatus"]}

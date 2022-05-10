@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitSearchScreen"],"usingMethods":["Pokedex_PlaceSearchResultsTypeStrings","Pokedex_PlaceSearchScreenTypeStrings","Pokedex_SearchForMons"],"name":"wDexSearchMonType1","file":"wram.asm","lineNo":810,"address":20145,"addressUsedBy":["Pokedex_PrevSearchMonType","Pokedex_NextSearchMonType"]}

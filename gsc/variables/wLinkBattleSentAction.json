@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_LinkBattleSendReceiveAction"],"usingMethods":["Function100acf","_LinkBattleSendReceiveAction"],"name":"wLinkBattleSentAction","file":"wram.asm","lineNo":2379,"address":27547,"addressUsedBy":[]}

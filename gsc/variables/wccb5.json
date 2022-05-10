@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["Function10299e"],"usingMethods":[],"name":"wccb5","file":"wram.asm","lineNo":1184,"address":25745,"addressUsedBy":["Function100acf","Function1018a8","Function1018fb","Function1017b0","_SelectMonsForMobileBattle"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemCantGetOnText","file":"engine/items/item_effects.asm","lineNo":2698,"address":81377,"addressUsedBy":["CantGetOnYourBikeMessage"]}

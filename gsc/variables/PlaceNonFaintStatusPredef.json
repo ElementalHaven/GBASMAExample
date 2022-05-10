@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PlaceNonFaintStatusPredef","lineNo":1,"address":67308,"addressUsedBy":["PrintPlayerHUD","DrawEnemyHUD"]}

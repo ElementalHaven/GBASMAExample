@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_BatonPass","BattleCommand_ForceSwitch","DoBattle","EnemyPartyMonEntrance","SwitchOften","SwitchRarely","SwitchSometimes"],"usingMethods":["CheckWhetherSwitchmonIsPredetermined","ForceEnemySwitch"],"name":"wEnemySwitchMonIndex","file":"wram.asm","lineNo":704,"address":18573,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["Mail_Draw13TileRow"],"callingMethods":["LoadMorphMailGFX"],"methodsCalled":["Mail_DrawRowLoop"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Mail_Draw13TileRow:","\tld b, $d","\tjr Mail_DrawRowLoop"],"name":"Mail_Draw13TileRow","file":"engine/pokemon/mail_2.asm","lineNo":818,"address":199656,"addressUsedBy":[]}

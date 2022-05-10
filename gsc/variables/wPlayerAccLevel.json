@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AI_Smart_AccuracyDown","AI_Smart_EvasionUp","AI_Smart_PsychUp","BattleCommand_CheckHit"],"name":"wPlayerAccLevel","file":"wram.asm","lineNo":575,"address":18498,"addressUsedBy":[]}

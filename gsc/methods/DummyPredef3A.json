@@ -1,0 +1,1 @@
+{"names":["DummyPredef3A"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DummyPredef3A:","\tret","","\tret ; unused"],"name":"DummyPredef3A","file":"engine/events/mom_phone.asm","lineNo":235,"address":254741,"addressUsedBy":[]}

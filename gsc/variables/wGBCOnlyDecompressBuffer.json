@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wGBCOnlyDecompressBuffer","file":"wram.asm","lineNo":1664,"address":26351,"addressUsedBy":["GBCOnlyScreen"]}

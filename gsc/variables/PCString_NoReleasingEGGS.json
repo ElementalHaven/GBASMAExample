@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_NoReleasingEGGS","file":"engine/pokemon/bills_pc.asm","lineNo":2228,"address":248016,"addressUsedBy":["BillsPC_IsMonAnEgg"]}

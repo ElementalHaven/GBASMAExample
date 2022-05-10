@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DecoAction_AskWhichSide","DecoAction_PutItAway_Ornament","DecoAction_SetItUp_Ornament"],"usingMethods":["DecoAction_FinishUp_Ornament","DecoAction_PutItAway_Ornament","DecoAction_SetItUp_Ornament"],"name":"wSelectedDecoration","file":"wram.asm","lineNo":2202,"address":27151,"addressUsedBy":[]}

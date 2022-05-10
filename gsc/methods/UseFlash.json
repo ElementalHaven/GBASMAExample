@@ -1,0 +1,1 @@
+{"names":["UseFlash"],"callingMethods":["FlashFunction"],"methodsCalled":["QueueScript"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["Script_UseFlash"],"constantsUsed":[],"lines":["UseFlash:","\tld hl, Script_UseFlash","\tjp QueueScript"],"name":"UseFlash","file":"engine/events/overworld.asm","lineNo":308,"address":74350,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["Function28926","LinkTrade","_LinkBattleSendReceiveAction"],"usingMethods":["LinkTrade","Link_EnsureSync","_LinkBattleSendReceiveAction"],"name":"wOtherPlayerLinkAction","file":"wram.asm","lineNo":1377,"address":26171,"addressUsedBy":[]}

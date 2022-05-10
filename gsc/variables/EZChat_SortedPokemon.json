@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EZChat_SortedPokemon","file":"data/pokemon/ezchat_order.asm","lineNo":4,"address":286914,"addressUsedBy":["EZChat_GetSeenPokemonByKana"]}

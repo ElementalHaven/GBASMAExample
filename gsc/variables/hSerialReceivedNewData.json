@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Link_CheckCommunicationError"],"usingMethods":[],"name":"hSerialReceivedNewData","file":"hram.asm","lineNo":123,"address":58907,"addressUsedBy":[]}

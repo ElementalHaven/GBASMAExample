@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":["PokeAnim_ConvertAndApplyBitmask","PokeAnim_CopyBitmaskToBuffer"],"name":"wPokeAnimFrontpicHeight","file":"wram.asm","lineNo":3012,"address":29638,"addressUsedBy":[]}

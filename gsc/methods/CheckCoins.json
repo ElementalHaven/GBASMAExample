@@ -1,0 +1,1 @@
+{"names":["CheckCoins"],"callingMethods":[],"methodsCalled":["CompareFunds"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["wCoins"],"constantsUsed":[],"lines":["CheckCoins::","\tld a, 2","\tld de, wCoins","\tjp CompareFunds"],"name":"CheckCoins","file":"engine/events/money.asm","lineNo":206,"address":94135,"addressUsedBy":[]}

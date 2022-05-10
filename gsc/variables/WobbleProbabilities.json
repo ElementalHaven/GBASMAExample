@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"WobbleProbabilities","file":"data/battle/wobble_probabilities.asm","lineNo":1,"address":81605,"addressUsedBy":["GetPokeBallWobble"]}

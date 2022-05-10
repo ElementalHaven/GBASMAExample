@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CheckDirection","CheckMapCanWaterfall","Cut_GetLeafSpawnCoords","Cut_Headbutt_GetPixelFacing","DoPlayerMovement","Fishing_CheckFacingUp","HideHeadbuttTree","SurfStartStep","_CardKey","_GetVarAction"],"name":"wPlayerDirection","lineNo":8,"address":27653,"addressUsedBy":[]}

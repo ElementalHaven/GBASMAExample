@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["ItemSwitch_ConvertItemFormatToDW","ScrollingMenu_GetListItemCoordAndFunctionArgs"],"name":"wMenuData_ScrollingMenuItemFormat","file":"wram.asm","lineNo":1537,"address":26283,"addressUsedBy":[]}

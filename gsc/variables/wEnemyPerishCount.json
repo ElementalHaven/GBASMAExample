@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_PerishSong"],"usingMethods":["AI_Smart_RazorWind","AI_Smart_Unused2B","CheckAbleToSwitch"],"name":"wEnemyPerishCount","file":"wram.asm","lineNo":532,"address":18416,"addressUsedBy":["HandlePerishSong"]}

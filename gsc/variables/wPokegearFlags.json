@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["PokegearClock_Joypad","PokegearMap_ContinueMap","PokegearPhone_Joypad","PokegearRadio_Joypad","RadioChannels"],"name":"wPokegearFlags","file":"wram.asm","lineNo":2620,"address":28746,"addressUsedBy":["StartMenu","Pokegear_FinishTilemap"]}

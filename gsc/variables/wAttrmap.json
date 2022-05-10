@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wAttrmap","file":"wram.asm","lineNo":1351,"address":26164,"addressUsedBy":["PokeAnim_GetAttrmapCoord","LinkTextbox2","BlankScreen","InitMapSignAttrmap","Function8b744","DisplayUnownWords","Function89215","Function8a0de","Function8a0c1","Function48cdc","_LinkTextbox","CardFlip_DisplayCardFaceUp","Function1034e0"]}

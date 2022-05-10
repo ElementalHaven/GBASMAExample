@@ -1,0 +1,1 @@
+{"names":["Function100ec5"],"callingMethods":["Function100ea2","asm_100eb8"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["wcd67"],"constantsUsed":[],"lines":["Function100ec5:","\tld hl, wcd67","\tinc [hl]","\tret"],"name":"Function100ec5","file":"mobile/mobile_40.asm","lineNo":2201,"address":256724,"addressUsedBy":[]}

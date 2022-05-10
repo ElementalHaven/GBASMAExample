@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["TrainerCard_Page2_3_AnimateBadges","TrainerCard_Page2_3_InitObjectsAndStrings"],"usingMethods":["TrainerCard_Page2_3_AnimateBadges","TrainerCard_Page2_3_OAMUpdate"],"name":"wTrainerCardBadgeFrameCounter","file":"wram.asm","lineNo":1441,"address":26206,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["BattleCommand_BeatUp"],"name":"wBaseAttack","file":"wram.asm","lineNo":2255,"address":27214,"addressUsedBy":[]}

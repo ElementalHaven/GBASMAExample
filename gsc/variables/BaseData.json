@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BaseData","file":"data/pokemon/base_stats.asm","lineNo":34,"address":162995,"addressUsedBy":["Link_PrepPartyData_Gen1","GetGender","IsThePlayerMonTypesEffectiveAgainstOTMon"]}

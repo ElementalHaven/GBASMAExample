@@ -1,0 +1,1 @@
+{"names":["Function102048"],"callingMethods":["Function101bc8","Function101c11"],"methodsCalled":["Function10204c"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function102048:","\tcall Function10204c","\tret"],"name":"Function102048","file":"mobile/mobile_40.asm","lineNo":4565,"address":259012,"addressUsedBy":[]}

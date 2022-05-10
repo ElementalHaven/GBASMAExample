@@ -1,0 +1,1 @@
+{"names":["Function100320"],"callingMethods":["Function100144","Function100232","Function100301"],"methodsCalled":["FarCall"],"methodAddressesUsed":["Mobile_ReloadMapPart"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall Mobile_ReloadMapPart","\tret"],"name":"Function100320","lineNo":1,"address":255149,"addressUsedBy":[]}

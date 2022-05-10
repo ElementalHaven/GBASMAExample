@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function89c67","Function8a757","Function8aa0a"],"usingMethods":["Function89b97","Function89c67","Function8a6cd","Function8aa0a"],"name":"wd011","file":"wram.asm","lineNo":1807,"address":26611,"addressUsedBy":["ReadAndPrintLinkBattleRecord"]}

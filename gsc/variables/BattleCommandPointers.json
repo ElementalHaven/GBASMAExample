@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleCommandPointers","file":"data/battle/effect_command_pointers.asm","lineNo":5,"address":141750,"addressUsedBy":["DoMove"]}

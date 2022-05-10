@@ -1,0 +1,1 @@
+{"names":["BattleCommand_UsedMoveText"],"callingMethods":[],"methodsCalled":["FarCall"],"methodAddressesUsed":["DisplayUsedMoveText"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall DisplayUsedMoveText","\tret"],"name":"BattleCommand_UsedMoveText","lineNo":1,"address":117010,"addressUsedBy":[]}

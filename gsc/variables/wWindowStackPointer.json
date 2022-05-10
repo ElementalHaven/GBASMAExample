@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["_ExitMenu"],"usingMethods":[],"name":"wWindowStackPointer","file":"wram.asm","lineNo":1491,"address":26233,"addressUsedBy":["Function102b68","_PushWindow"]}

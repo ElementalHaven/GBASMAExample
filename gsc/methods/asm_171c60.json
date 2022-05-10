@@ -1,0 +1,1 @@
+{"names":["asm_171c60"],"callingMethods":["Function171c2c","Function171c41"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd49"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["asm_171c60:","\tld a, $80","\tld [wcd49], a","\tret"],"name":"asm_171c60","file":"mobile/mobile_5c.asm","lineNo":640,"address":295769,"addressUsedBy":[]}

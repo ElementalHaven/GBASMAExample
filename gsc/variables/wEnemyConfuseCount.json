@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EnemyUsedFullRestore"],"usingMethods":[],"name":"wEnemyConfuseCount","file":"wram.asm","lineNo":528,"address":18412,"addressUsedBy":["CheckEnemyTurn","BattleCommand_FinishConfusingTarget"]}

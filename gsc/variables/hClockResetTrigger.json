@@ -1,0 +1,1 @@
+{"type":"byte[19]","validValues":[],"settingMethods":["TitleScreenMain"],"usingMethods":["TitleScreenMain"],"name":"hClockResetTrigger","file":"hram.asm","lineNo":168,"address":58940,"addressUsedBy":[]}

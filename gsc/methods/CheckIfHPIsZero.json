@@ -1,0 +1,1 @@
+{"names":["CheckIfHPIsZero"],"callingMethods":["HasEnemyFainted","HasPlayerFainted"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["CheckIfHPIsZero:","\tld a, [hli]","\tor [hl]","\tret"],"name":"CheckIfHPIsZero","file":"engine/battle/core.asm","lineNo":995,"address":134902,"addressUsedBy":[]}

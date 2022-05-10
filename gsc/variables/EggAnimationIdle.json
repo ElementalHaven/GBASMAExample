@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EggAnimationIdle","file":"gfx/pokemon/idles.asm","lineNo":252,"address":241009,"addressUsedBy":["GetMonAnimPointer"]}

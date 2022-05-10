@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["Printer_SendNextByte","Printer_WaitHandshake"],"usingMethods":["Printer_SendNextByte"],"name":"wPrinterSendByteOffset","file":"wram.asm","lineNo":989,"address":22012,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ListMovesPredef","lineNo":1,"address":67305,"addressUsedBy":["SetUpMoveList","Function100c74","MoveSelectionScreen","LoadGreenPage","ForgetMove"]}

@@ -1,0 +1,1 @@
+{"type":"byte[24]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDiscardPile","file":"wram.asm","lineNo":901,"address":20329,"addressUsedBy":["CardFlip_ShuffleDeck","_CardFlip","CardFlip_BlankDiscardedCardSlot"]}

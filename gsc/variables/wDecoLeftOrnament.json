@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1150b3","Function1153d2"],"usingMethods":["DecorationDesc_LeftOrnament","Function1150b3","Function1153d2","ToggleDecorationsVisibility"],"name":"wDecoLeftOrnament","file":"wram.asm","lineNo":2807,"address":29070,"addressUsedBy":["QueryWhichSide"]}

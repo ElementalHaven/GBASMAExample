@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_MoveToWhere","file":"engine/pokemon/bills_pc.asm","lineNo":2216,"address":247832,"addressUsedBy":["_MovePKMNWithoutMail"]}

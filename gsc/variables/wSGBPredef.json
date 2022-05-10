@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadSGBLayout","_CGB_BattleColors","_CGB_GSTitleScreen","_CGB_MapPals"],"usingMethods":["GetMysteryGift_MobileAdapterLayout","LoadSGBLayout","LoadSGBLayoutCGB"],"name":"wSGBPredef","file":"wram.asm","lineNo":1339,"address":26105,"addressUsedBy":[]}

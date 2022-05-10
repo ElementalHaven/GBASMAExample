@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingBattleTowerWins","file":"sram.asm","lineNo":271,"address":50162,"addressUsedBy":["StubbedTrainerRankings_BattleTowerWins"]}

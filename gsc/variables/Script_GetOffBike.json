@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Script_GetOffBike","file":"engine/events/overworld.asm","lineNo":1729,"address":75774,"addressUsedBy":["BikeFunction"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1156cc","Function1159fb","InitDecorations"],"usingMethods":["DecorationDesc_Poster","Function1156cc","Function1159fb","SetPosterVisibility","ToggleMaptileDecorations"],"name":"wDecoPoster","file":"wram.asm","lineNo":2805,"address":29068,"addressUsedBy":["DecoAction_setupposter","DecoAction_putawayposter"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattlePack","CleanUpBattleRAM","Pack"],"usingMethods":["InitPackBuffers"],"name":"wLastPocket","file":"wram.asm","lineNo":1963,"address":26873,"addressUsedBy":[]}

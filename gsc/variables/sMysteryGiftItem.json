@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetMysteryGiftItem"],"usingMethods":["CheckMysteryGift","GetMysteryGiftItem"],"name":"sMysteryGiftItem","file":"sram.asm","lineNo":50,"address":44753,"addressUsedBy":["BackupMysteryGift","CheckMysteryGift","_ResetWRAM","RestoreMysteryGift","GetMysteryGiftItem"]}

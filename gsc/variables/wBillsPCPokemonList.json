@@ -1,0 +1,1 @@
+{"type":"byte[720]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBillsPCPokemonList","file":"wram.asm","lineNo":1006,"address":22036,"addressUsedBy":["BillsPC_RefreshTextboxes","BillsPC_LoadMonStats","BillsPC_GetSelectedPokemonSpecies","CopyBoxmonSpecies"]}

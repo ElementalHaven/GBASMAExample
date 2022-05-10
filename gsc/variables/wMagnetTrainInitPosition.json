@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MagnetTrain"],"usingMethods":["MagnetTrain_InitLYOverrides","MagnetTrain_LoadGFX_PlayMusic"],"name":"wMagnetTrainInitPosition","file":"wram.asm","lineNo":3124,"address":32922,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Script_CantDoWaterfall","file":"engine/events/overworld.asm","lineNo":731,"address":74755,"addressUsedBy":["TryWaterfallOW"]}

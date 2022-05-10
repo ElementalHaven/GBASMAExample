@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function1156cc","Function1159fb"],"usingMethods":["Function1156cc","Function1159fb","ToggleMaptileDecorations"],"name":"wDecoPlant","file":"wram.asm","lineNo":2804,"address":29067,"addressUsedBy":["DecoAction_putawayplant","Function114acf","DecoAction_setupplant","Function11494d","Function1148c2"]}

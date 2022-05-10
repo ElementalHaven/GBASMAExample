@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"YouDontHaveAMonText","file":"engine/items/pack.asm","lineNo":1568,"address":83222,"addressUsedBy":["UseItem","GiveItem"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokeBallTransition","file":"engine/battle/battle_transition.asm","lineNo":716,"address":182201,"addressUsedBy":["StartTrainerBattle_LoadPokeBallGraphics"]}

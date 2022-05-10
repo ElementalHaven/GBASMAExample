@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PrinterDataPacket2","file":"engine/printer/printer_serial.asm","lineNo":438,"address":173414,"addressUsedBy":["Printer_SignalSendHeader"]}

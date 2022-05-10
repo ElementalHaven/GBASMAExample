@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"OTString","file":"engine/pokemon/stats_screen.asm","lineNo":783,"address":158323,"addressUsedBy":["LoadBluePage","EggStatsScreen"]}

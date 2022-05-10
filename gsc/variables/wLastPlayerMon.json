@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoBattle","ForcePlayerMonChoice","OfferSwitch","PlayerPartyMonEntrance","SwitchPlayerMon","TryPlayerSwitch"],"usingMethods":["PursuitSwitch"],"name":"wLastPlayerMon","file":"wram.asm","lineNo":706,"address":18575,"addressUsedBy":[]}

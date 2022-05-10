@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_StringBuffer1GrewToLevel","file":"data/text/battle.asm","lineNo":343,"address":171691,"addressUsedBy":["AnimateExpBar","GiveExperiencePoints"]}

@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["HandleMovementData"],"usingMethods":[],"name":"wMovementPointer","file":"wram.asm","lineNo":187,"address":17132,"addressUsedBy":["JumpMovementPointer"]}

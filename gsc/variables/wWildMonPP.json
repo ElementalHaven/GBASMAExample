@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wWildMonPP","file":"wram.asm","lineNo":736,"address":18602,"addressUsedBy":["BattleCommand_Spite","BattleCommand_DoTurn","BattleCommand_Sketch","InitEnemyWildmon","PokeBallEffect","HandleMysteryberry"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ReplaceTimeOfDayPals"],"usingMethods":["FlashFunction","FlickeringCaveEntrancePalette","GetTimePalette","StartTrainerBattle_Flash"],"name":"wTimeOfDayPalset","file":"wram.asm","lineNo":2557,"address":28726,"addressUsedBy":[]}

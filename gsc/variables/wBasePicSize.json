@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["PokeAnim_GetFrontpicDims","_GetFrontpic"],"name":"wBasePicSize","file":"wram.asm","lineNo":2272,"address":27229,"addressUsedBy":["GetAnimatedEnemyFrontpic"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["HPBarAnim_PaletteUpdate"],"name":"wCurHPAnimPal","file":"wram.asm","lineNo":2173,"address":27125,"addressUsedBy":["HPBarAnim_PaletteUpdate"]}

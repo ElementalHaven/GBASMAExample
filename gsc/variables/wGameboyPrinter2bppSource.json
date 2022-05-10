@@ -1,0 +1,1 @@
+{"type":"byte[40]","validValues":[],"settingMethods":["Printer_StageHeaderForSend"],"usingMethods":[],"name":"wGameboyPrinter2bppSource","file":"wram.asm","lineNo":971,"address":21960,"addressUsedBy":["Printer_Convert2RowsTo2bpp","Printer_ResetData"]}

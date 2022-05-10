@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TrainerCard_JohtoBadgesOAM","file":"engine/menus/trainer_card.asm","lineNo":561,"address":99940,"addressUsedBy":["TrainerCard_Page3_Joypad","TrainerCard_Page2_3_InitObjectsAndStrings","TrainerCard_Page2_Joypad"]}

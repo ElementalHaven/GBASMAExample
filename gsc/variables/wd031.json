@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Function8b7bd","Function8b94a"],"usingMethods":["Function8b7bd"],"name":"wd031","file":"wram.asm","lineNo":1820,"address":26643,"addressUsedBy":["Function89a57"]}

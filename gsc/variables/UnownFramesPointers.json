@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownFramesPointers","file":"gfx/pokemon/unown_frame_pointers.asm","lineNo":1,"address":242850,"addressUsedBy":["GetMonFramesPointer"]}

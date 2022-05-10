@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["NewGame"],"usingMethods":["GiveEgg","LostBattle","WinTrainerBattle"],"name":"wDebugFlags","file":"wram.asm","lineNo":143,"address":17101,"addressUsedBy":[]}

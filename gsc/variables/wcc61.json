@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":["Function100ae7","Function1029af"],"name":"wcc61","file":"wram.asm","lineNo":1178,"address":25661,"addressUsedBy":["Function1018a8","Function1018fb","CopyOtherPlayersBattleMonSelection","Function100406","Function1017c7"]}

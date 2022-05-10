@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_CheckObedience","BattleCommand_CheckTurn","CheckTurn","HandleFutureSight","ResetTurn"],"usingMethods":["BattleCommand_Charge","BattleCommand_CheckObedience","UsedMoveText","UsedMoveText_CheckObedience"],"name":"wAlreadyDisobeyed","file":"wram.asm","lineNo":619,"address":18533,"addressUsedBy":[]}

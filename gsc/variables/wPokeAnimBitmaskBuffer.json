@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPokeAnimBitmaskBuffer","file":"wram.asm","lineNo":3032,"address":29661,"addressUsedBy":["PokeAnim_CopyBitmaskToBuffer","PokeAnim_ConvertAndApplyBitmask"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PPIsMaxedOutText","file":"engine/items/item_effects.asm","lineNo":2526,"address":81231,"addressUsedBy":["RestorePPEffect"]}

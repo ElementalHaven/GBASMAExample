@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["LoadEnemyMon"],"usingMethods":[],"name":"wEnemyMonHappiness","lineNo":6,"address":27176,"addressUsedBy":["BattleCommand_HappinessPower","BattleCommand_FrustrationPower"]}

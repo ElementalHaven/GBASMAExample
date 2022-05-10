@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["BattleTowerRoomMenu_InitRAM"],"usingMethods":["BattleTowerRoomMenu_Cleanup"],"name":"wcd7f","file":"wram.asm","lineNo":1325,"address":26080,"addressUsedBy":[]}

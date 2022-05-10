@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_MovePKMNWithoutMail"],"usingMethods":["MovePKMNWitoutMail_InsertMon","_MovePKMNWithoutMail"],"name":"wBillsPC_BackupCursorPosition","file":"wram.asm","lineNo":1016,"address":22765,"addressUsedBy":[]}

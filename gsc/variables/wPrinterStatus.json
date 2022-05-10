@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["CheckPrinterStatus","Function847bd","PlacePrinterStatusString","Print_InitPrinterHandshake","Printer_SignalSendHeader","Printer_StartTransmittingTilemap"],"usingMethods":["Function847bd","PlacePrinterStatusString"],"name":"wPrinterStatus","file":"wram.asm","lineNo":995,"address":22016,"addressUsedBy":[]}

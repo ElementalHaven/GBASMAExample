@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Flypoints","file":"data/maps/flypoints.asm","lineNo":1,"address":190724,"addressUsedBy":["GetMapCursorCoordinates","TownMapBubble","_FlyMap","CheckIfVisitedFlypoint","Function92311"]}

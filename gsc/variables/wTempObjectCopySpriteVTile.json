@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CopyMapObjectToObjectStruct"],"usingMethods":["CopyTempObjectToObjectStruct"],"name":"wTempObjectCopySpriteVTile","file":"wram.asm","lineNo":191,"address":17139,"addressUsedBy":[]}

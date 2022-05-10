@@ -1,0 +1,1 @@
+{"names":["UselessAndA"],"callingMethods":["CopyNextCoordsTileToStandingCoordsTile","UpdateTallGrassFlags"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["UselessAndA:","\tand a","\tret"],"name":"UselessAndA","file":"engine/overworld/map_objects.asm","lineNo":263,"address":59889,"addressUsedBy":[]}

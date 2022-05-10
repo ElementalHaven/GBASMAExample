@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SlotsAction_GiveEarnedCoins","SlotsAction_Init","Slots_CheckMatchedFirstTwoReels"],"usingMethods":["ReelAction_FastSpinReel2UntilLinedUp7s","ReelAction_SetUpReel2SkipTo7","SlotsLoop","Slots_StopReel3"],"name":"wFirstTwoReelsMatchingSevens","file":"wram.asm","lineNo":882,"address":20263,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["ResetClock"],"callingMethods":[],"methodsCalled":["FarCall","Init"],"methodAddressesUsed":["_ResetClock"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _ResetClock","\tjp Init"],"name":"ResetClock","lineNo":1,"address":64030,"addressUsedBy":[]}

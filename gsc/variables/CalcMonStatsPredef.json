@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CalcMonStatsPredef","lineNo":1,"address":67245,"addressUsedBy":["CorrectPartyErrors","GiveExperiencePoints","HatchEggs","DayCare_GiveEgg","UpdateStatsAfterItem","Function11b483","_TempMonStatsCalculation","Function11b6b4","EvolveAfterBattle_MasterLoop","LoadEnemyMon","ValidateBTParty"]}

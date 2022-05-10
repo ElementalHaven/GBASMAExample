@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NonTrainerCallerNames","file":"data/phone/non_trainer_names.asm","lineNo":1,"address":187506,"addressUsedBy":["GetCallerName"]}

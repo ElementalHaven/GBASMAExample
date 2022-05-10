@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleAnimCmd_BGEffect","Functionc8f2e","Functionc8f9a","InitSurfWaves"],"usingMethods":["Functionc8f9a","QueueBGEffect"],"name":"wBattleAnimTemp3","file":"wram.asm","lineNo":3176,"address":33316,"addressUsedBy":["InitSurfWaves","Functionc8f2e"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["_CardFlip"],"usingMethods":["CardFlip_BlankDiscardedCardSlot","CardFlip_CheckWinCondition","CardFlip_DisplayCardFaceUp"],"name":"wCardFlipFaceUpCard","file":"wram.asm","lineNo":900,"address":20328,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["PrintPCBox"],"usingMethods":["Printer_GetBoxMonSpecies","Printer_GetMonGender","Printer_PrintBoxListSegment"],"name":"wAddrOfBoxToPrint","file":"wram.asm","lineNo":1759,"address":26572,"addressUsedBy":[]}

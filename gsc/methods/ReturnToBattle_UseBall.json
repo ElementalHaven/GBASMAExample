@@ -1,0 +1,1 @@
+{"names":["ReturnToBattle_UseBall"],"callingMethods":["PokeBallEffect","UseBallInTrainerBattle"],"methodsCalled":["FarCall"],"methodAddressesUsed":["_ReturnToBattle_UseBall"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _ReturnToBattle_UseBall","\tret"],"name":"ReturnToBattle_UseBall","lineNo":1,"address":80006,"addressUsedBy":[]}

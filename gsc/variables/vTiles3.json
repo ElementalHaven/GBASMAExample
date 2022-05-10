@@ -1,0 +1,1 @@
+{"type":"byte[2048]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"vTiles3","file":"vram.asm","lineNo":12,"address":8192,"addressUsedBy":["InitCGBPals","LoadTrainerBattlePokeballTiles","GetAnimatedEnemyFrontpic"]}

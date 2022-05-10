@@ -1,0 +1,1 @@
+{"names":["Function4ad56"],"callingMethods":["Function4acaa"],"methodsCalled":["FarCall","WaitBGMap2"],"methodAddressesUsed":["OpenPartyStats"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall OpenPartyStats","\tcall WaitBGMap2","\tret"],"name":"Function4ad56","lineNo":1,"address":154639,"addressUsedBy":[]}

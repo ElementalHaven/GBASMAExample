@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":["Printer_CopyPacket"],"usingMethods":["Printer_SendPrinterData1","Printer_SendPrinterData2","Printer_SendPrinterData3","Printer_SendPrinterData4"],"name":"wPrinterData","file":"wram.asm","lineNo":977,"address":22002,"addressUsedBy":["Printer_ResetData","Printer_ComputeChecksum"]}

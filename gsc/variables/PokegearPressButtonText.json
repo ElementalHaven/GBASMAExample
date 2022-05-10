@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokegearPressButtonText","file":"engine/pokegear/pokegear.asm","lineNo":1356,"address":189880,"addressUsedBy":["PokegearClock_Init"]}

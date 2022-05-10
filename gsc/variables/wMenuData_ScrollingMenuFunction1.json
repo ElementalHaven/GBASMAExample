@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMenuData_ScrollingMenuFunction1","file":"wram.asm","lineNo":1540,"address":26287,"addressUsedBy":["ScrollingMenu_UpdateDisplay","ScrollingMenu_CallFunctions1and2"]}

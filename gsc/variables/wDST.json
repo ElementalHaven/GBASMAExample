@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DSTChecks","InitialClearDSTFlag","InitialSetDSTFlag"],"usingMethods":["DSTChecks","InitialClearDSTFlag","InitialSetDSTFlag","MrChrono"],"name":"wDST","file":"wram.asm","lineNo":2486,"address":27625,"addressUsedBy":[]}

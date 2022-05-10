@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_RemoveMail","file":"engine/pokemon/bills_pc.asm","lineNo":2220,"address":247918,"addressUsedBy":["BillsPC_CheckMail_PreventBlackout"]}

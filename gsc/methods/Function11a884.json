@@ -1,0 +1,1 @@
+{"names":["Function11a884"],"callingMethods":["Function11a80c"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function11a884:","\tadd e","\tcp $a","\tret c","\tsub $a","\tinc b","\tret"],"name":"Function11a884","file":"mobile/mobile_46.asm","lineNo":5219,"address":281718,"addressUsedBy":[]}

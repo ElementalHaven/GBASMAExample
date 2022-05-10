@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckPartyFullAfterContest"],"usingMethods":["CheckPartyFullAfterContest","ContestScore"],"name":"wContestMonSpecies","lineNo":1,"address":29559,"addressUsedBy":[]}

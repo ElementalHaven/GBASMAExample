@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":["GetMonFramesPointer","PokeAnim_Cry","PokeAnim_CryNoWait","PokeAnim_GetSpeciesOrUnown","PokeAnim_IsEgg","PokeAnim_IsUnown","PokeAnim_StereoCry"],"name":"wPokeAnimSpecies","file":"wram.asm","lineNo":3007,"address":29632,"addressUsedBy":[]}

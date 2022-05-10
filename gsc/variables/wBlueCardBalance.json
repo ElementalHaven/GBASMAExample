@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BuenaPrize"],"usingMethods":["BuenaPrize"],"name":"wBlueCardBalance","file":"wram.asm","lineNo":2841,"address":29121,"addressUsedBy":["PrintBlueCardBalance"]}

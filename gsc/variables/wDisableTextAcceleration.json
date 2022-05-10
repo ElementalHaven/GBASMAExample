@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EnableTextAcceleration","Function101a4f","Gen2ToGen2LinkComms","MainMenu","StartMobileBattle"],"usingMethods":["Gen2ToGen2LinkComms"],"name":"wDisableTextAcceleration","file":"wram.asm","lineNo":156,"address":17112,"addressUsedBy":[]}

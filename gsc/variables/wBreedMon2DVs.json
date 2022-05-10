@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["CheckBreedmonCompatibility","GetHeritableMoves"],"name":"wBreedMon2DVs","lineNo":12,"address":29527,"addressUsedBy":["DayCare_InitBreeding"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemStorageFullText","file":"engine/pokemon/mon_menu.asm","lineNo":405,"address":86964,"addressUsedBy":["TryGiveItemToPartymon","TakePartyItem"]}

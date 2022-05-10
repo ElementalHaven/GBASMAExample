@@ -1,0 +1,1 @@
+{"names":["Function119937"],"callingMethods":[],"methodsCalled":["BattleTowerRoomMenu_IncrementJumptable","FarCall"],"methodAddressesUsed":["Function1707f4"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall Function1707f4","\tjp BattleTowerRoomMenu_IncrementJumptable"],"name":"Function119937","lineNo":1,"address":279661,"addressUsedBy":[]}

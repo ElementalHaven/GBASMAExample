@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_PlayerPickedUpPayDayMoney","file":"data/text/battle.asm","lineNo":3,"address":171602,"addressUsedBy":["CheckPayDay"]}

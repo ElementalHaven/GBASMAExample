@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["MysteryGift_ReadJoypad"],"usingMethods":["Function104a95","Function104ddd"],"name":"hMGJoypadReleased","file":"hram.asm","lineNo":114,"address":58901,"addressUsedBy":[]}

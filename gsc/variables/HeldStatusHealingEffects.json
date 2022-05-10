@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HeldStatusHealingEffects","file":"data/battle/held_heal_status.asm","lineNo":3,"address":137718,"addressUsedBy":["UseHeldStatusHealingItem"]}

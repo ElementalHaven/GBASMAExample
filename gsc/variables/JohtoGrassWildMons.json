@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"JohtoGrassWildMons","file":"data/wild/johto_grass.asm","lineNo":3,"address":106683,"addressUsedBy":["RandomPhoneWildMon","RandomUnseenWildMon","FindNest","_GrassWildmonLookup","OaksPKMNTalk4"]}

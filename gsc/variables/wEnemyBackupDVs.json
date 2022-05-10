@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["BattleCommand_Transform"],"usingMethods":[],"name":"wEnemyBackupDVs","file":"wram.asm","lineNo":618,"address":18531,"addressUsedBy":["CheckOppositeGender","LoadEnemyMon","GetEnemyMonDVs","PokeBallEffect","DrawEnemyHUD"]}

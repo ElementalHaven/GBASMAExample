@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingTotalSlotsPayouts","file":"sram.asm","lineNo":303,"address":50257,"addressUsedBy":["StubbedTrainerRankings_AddToSlotsPayouts"]}

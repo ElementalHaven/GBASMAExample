@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wGameTimeMinutes","file":"wram.asm","lineNo":2493,"address":27629,"addressUsedBy":["Continue_DisplayGameTime","PrintDiplomaPage2","TrainerCard_Page1_PrintGameTime","HOF_AnimatePlayerPic"]}

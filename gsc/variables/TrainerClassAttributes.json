@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"TrainerClassAttributes","file":"data/trainers/attributes.asm","lineNo":1,"address":127657,"addressUsedBy":["AI_TryItem","AIChooseMove","GetTrainerAttributes","AI_SwitchOrTryItem"]}

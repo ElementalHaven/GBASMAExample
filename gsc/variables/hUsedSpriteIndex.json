@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["GetUsedSprites","InitSprites","LoadOpponentTrainerAndPokemonWithOTSprite","_UpdatePlayerSprite","_UpdateSprites"],"usingMethods":["GetUsedSprite","InitSprites","_UpdateSprites"],"name":"hUsedSpriteIndex","file":"hram.asm","lineNo":99,"address":58889,"addressUsedBy":[]}

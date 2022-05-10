@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HasNoPPLeftText","file":"data/text/battle.asm","lineNo":559,"address":171742,"addressUsedBy":["BattleCommand_DoTurn"]}

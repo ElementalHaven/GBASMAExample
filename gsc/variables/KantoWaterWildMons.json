@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"KantoWaterWildMons","file":"data/wild/kanto_water.asm","lineNo":3,"address":108969,"addressUsedBy":["FindNest","_WaterWildmonLookup"]}

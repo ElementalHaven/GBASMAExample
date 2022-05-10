@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"UnownAnimationPointers","file":"gfx/pokemon/unown_anim_pointers.asm","lineNo":1,"address":241016,"addressUsedBy":["GetMonAnimPointer"]}

@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTradeAnimAddress","file":"wram.asm","lineNo":854,"address":20189,"addressUsedBy":["RunTradeAnimScript","RunMobileTradeAnim_NoFrontpics","RunMobileTradeAnim_Frontpics","GetMobileTradeAnimByte","TradeAnim_AdvanceScriptPointer"]}

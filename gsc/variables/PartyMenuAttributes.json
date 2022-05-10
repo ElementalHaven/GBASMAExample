@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PartyMenuAttributes","file":"engine/pokemon/party_menu.asm","lineNo":659,"address":160419,"addressUsedBy":["InitPartyMenuWithCancel","InitPartyMenuNoCancel"]}

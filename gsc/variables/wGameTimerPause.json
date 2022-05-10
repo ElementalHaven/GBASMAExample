@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wGameTimerPause","file":"wram.asm","lineNo":1584,"address":26323,"addressUsedBy":["FinishContinueFunction","Function101e98","Function1011f1","Function8916e","Function89168","Function89174","MainMenu","Function101ead"]}

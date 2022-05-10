@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":["HandleContinueMap"],"usingMethods":["ReplaceTimeOfDayPals"],"name":"wMapTimeOfDay","file":"wram.asm","lineNo":149,"address":17105,"addressUsedBy":[]}

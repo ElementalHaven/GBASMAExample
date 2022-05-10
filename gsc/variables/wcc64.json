@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wcc64","file":"wram.asm","lineNo":1180,"address":25664,"addressUsedBy":["CopyOtherPlayersBattleMonSelection"]}

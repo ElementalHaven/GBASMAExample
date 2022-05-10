@@ -1,0 +1,1 @@
+{"type":"byte[64]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wSurfWaveBGEffect","file":"wram.asm","lineNo":3201,"address":33380,"addressUsedBy":["InitSurfWaves","BattleBGEffect_Surf"]}

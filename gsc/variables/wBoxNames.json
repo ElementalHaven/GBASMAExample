@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBoxNames","file":"wram.asm","lineNo":2768,"address":29037,"addressUsedBy":["SetDefaultBoxNames","PrintPCBox_Page1","BillsPC_BoxName","GetBoxName"]}

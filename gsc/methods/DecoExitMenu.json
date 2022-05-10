@@ -1,0 +1,1 @@
+{"names":["DecoExitMenu"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["DecoExitMenu:","\tscf","\tret"],"name":"DecoExitMenu","file":"engine/overworld/decorations.asm","lineNo":333,"address":100552,"addressUsedBy":[]}

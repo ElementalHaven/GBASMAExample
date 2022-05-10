@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BuyMenu","BuyMenuLoop"],"usingMethods":["BuyMenuLoop"],"name":"wMenuScrollPositionBackup","file":"wram.asm","lineNo":1937,"address":26749,"addressUsedBy":[]}

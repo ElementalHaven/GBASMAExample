@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ItemAttributes","file":"data/items/attributes.asm","lineNo":8,"address":64619,"addressUsedBy":["GetItemAttr","GetItemHeldEffect","InitList"]}

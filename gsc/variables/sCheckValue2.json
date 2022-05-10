@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ValidateSave"],"usingMethods":["CheckPrimarySaveFile","CheckSave"],"name":"sCheckValue2","file":"sram.asm","lineNo":110,"address":45627,"addressUsedBy":[]}

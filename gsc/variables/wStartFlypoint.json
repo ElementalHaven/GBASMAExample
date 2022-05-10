@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["FlyMap"],"usingMethods":["FlyMapScroll"],"name":"wStartFlypoint","file":"wram.asm","lineNo":1788,"address":26594,"addressUsedBy":[]}

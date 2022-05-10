@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PlayBattleAnimPredef","lineNo":1,"address":67374,"addressUsedBy":["ItemRecoveryAnim","Call_PlayBattleAnim","UseBallInTrainerBattle","HandleWrap","PokeBallEffect"]}

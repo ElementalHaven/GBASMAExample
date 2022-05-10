@@ -1,0 +1,1 @@
+{"type":"byte[13]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"w5_dc00","file":"wram.asm","lineNo":3210,"address":34468,"addressUsedBy":["CheckBattleScene","Function101663","Function101674","Function10218d"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_UsersStringBuffer1Activated","file":"data/text/battle.asm","lineNo":297,"address":171675,"addressUsedBy":["HandleStatBoostingHeldItems","HandleBerserkGene"]}

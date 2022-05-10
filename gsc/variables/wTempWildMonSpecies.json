@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckEncounterRoamMon","ChooseWildEncounter","CleanUpBattleRAM","FishFunction","NoTreeMon","RockMonEncounter","SelectTreeMon","TreeMonEncounter","TryWildEncounter"],"usingMethods":["LoadTrainerOrWildMonPic"],"name":"wTempWildMonSpecies","file":"wram.asm","lineNo":2227,"address":27204,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"validValues":[],"settingMethods":[],"usingMethods":[],"name":"sPokemonData","file":"sram.asm","lineNo":103,"address":45231,"addressUsedBy":["LoadPokemonData","StagePartyDataForMysteryGift","SavePokemonData","PrepMysteryGiftDataToSend"]}

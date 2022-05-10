@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CleanUpBattleRAM","EvolutionAnimation","FullRestoreEffect","ItemRestoreHP","RevivePokemon","StopDangerSound","UpdateFaintedPlayerMon"],"usingMethods":["PokeFluteEffect"],"name":"wLowHealthAlarm","file":"wram.asm","lineNo":76,"address":17063,"addressUsedBy":["CheckDanger"]}

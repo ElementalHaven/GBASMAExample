@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Function4acaa","MonMenuLoop"],"usingMethods":["_InitVerticalMenuCursor"],"name":"wMenuDataItems","file":"wram.asm","lineNo":1519,"address":26266,"addressUsedBy":["Function8b83e","Function8b832"]}

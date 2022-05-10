@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CanLearnTMHMMovePredef","lineNo":1,"address":67251,"addressUsedBy":["TeachTMHM","GetEggMove","CheckCanLearnMoveTutorMove","Function81df4","PlacePartyMonTMHMCompatibility"]}

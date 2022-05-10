@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NameInputUpper","file":"data/text/name_input_chars.asm","lineNo":18,"address":84671,"addressUsedBy":["NamingScreen_InitText","NamingScreenJoypadLoop"]}

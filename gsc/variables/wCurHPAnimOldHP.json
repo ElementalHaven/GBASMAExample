@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["EnemyPotionContinue","LongAnim_UpdateVariables","ShortHPBar_CalcPixelFrame"],"usingMethods":["HPBarAnim_UpdateHPRemaining","LongHPBarAnim_UpdateTiles","_AnimateHPBar"],"name":"wCurHPAnimOldHP","file":"wram.asm","lineNo":2171,"address":27121,"addressUsedBy":["FullRestoreContinue","_AnimateHPBar","LongAnim_UpdateVariables"]}

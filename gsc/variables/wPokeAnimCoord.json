@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["PokeAnim_InitPicAttributes"],"usingMethods":[],"name":"wPokeAnimCoord","file":"wram.asm","lineNo":3011,"address":29636,"addressUsedBy":["PokeAnim_GetAttrmapCoord","PokeAnim_PlaceGraphic","PokeAnim_DeinitFrames","PokeAnim_SetVBank1","PokeAnim_ConvertAndApplyBitmask"]}

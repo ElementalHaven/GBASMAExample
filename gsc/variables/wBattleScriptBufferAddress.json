@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["BattleCommand_EndLoop","DoMove","SkipToBattleCommand"],"usingMethods":["BattleCommand_EndLoop","DoMove","EndMoveEffect","SkipToBattleCommand"],"name":"wBattleScriptBufferAddress","file":"wram.asm","lineNo":546,"address":18467,"addressUsedBy":[]}

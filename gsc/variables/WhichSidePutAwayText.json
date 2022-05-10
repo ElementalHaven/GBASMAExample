@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"WhichSidePutAwayText","file":"engine/overworld/decorations.asm","lineNo":831,"address":101421,"addressUsedBy":["DecoAction_putawayornament"]}

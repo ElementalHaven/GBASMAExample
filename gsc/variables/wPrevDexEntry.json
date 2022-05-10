@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitDexEntryScreen","Pokedex_Page","Pokedex_ReinitDexEntryScreen","Pokedex_UpdateSearchResultsScreen"],"usingMethods":["Pokedex_InitCursorPosition","Pokedex_UpdateSearchScreen"],"name":"wPrevDexEntry","file":"wram.asm","lineNo":155,"address":17111,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_DoAnimScript"],"usingMethods":["PokeAnim_GetPointer"],"name":"wPokeAnimFrame","file":"wram.asm","lineNo":3021,"address":29650,"addressUsedBy":["PokeAnim_GetPointer"]}

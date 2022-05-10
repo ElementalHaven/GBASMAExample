@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":["Function639b"],"name":"wTitleScreenTimer","file":"wram.asm","lineNo":1409,"address":26194,"addressUsedBy":["TitleScreenMain","TitleScreenTimer","TitleScreenEnd"]}

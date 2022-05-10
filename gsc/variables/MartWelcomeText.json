@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MartWelcomeText","file":"engine/items/mart.asm","lineNo":810,"address":93916,"addressUsedBy":["StandardMart","RooftopSale"]}

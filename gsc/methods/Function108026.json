@@ -1,0 +1,1 @@
+{"names":["Function108026"],"callingMethods":[],"methodsCalled":["asm_10802c"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function108026:","\tld a, $0","\tjr asm_10802c"],"name":"Function108026","file":"mobile/mobile_42.asm","lineNo":34,"address":265408,"addressUsedBy":["Function102b12"]}

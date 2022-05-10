@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["UnownPuzzle_UpdateTilemap","_UnownPuzzle"],"usingMethods":["GetUnownPuzzleCoordData","UnownPuzzle_CheckCurrentTileOccupancy"],"name":"wUnownPuzzleCursorPosition","file":"wram.asm","lineNo":1460,"address":26216,"addressUsedBy":["UnownPuzzleJumptable","UnownPuzzle_UpdateTilemap"]}

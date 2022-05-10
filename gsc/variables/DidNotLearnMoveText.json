@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"DidNotLearnMoveText","file":"engine/pokemon/learn.asm","lineNo":215,"address":64370,"addressUsedBy":["LearnMove"]}

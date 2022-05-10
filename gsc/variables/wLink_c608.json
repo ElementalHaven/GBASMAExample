@@ -1,0 +1,1 @@
+{"type":"byte[10]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wLink_c608","file":"wram.asm","lineNo":776,"address":19624,"addressUsedBy":["Gen2ToGen2LinkComms","Gen2ToGen1LinkComms","FixDataForLinkTransfer"]}

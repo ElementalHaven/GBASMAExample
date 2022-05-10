@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"NothingToPutAwayText","file":"engine/overworld/decorations.asm","lineNo":887,"address":101499,"addressUsedBy":["DecoAction_TryPutItAway","DecoAction_PutItAway_Ornament"]}

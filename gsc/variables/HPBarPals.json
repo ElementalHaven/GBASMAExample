@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HPBarPals","file":"engine/gfx/color.asm","lineNo":1187,"address":70933,"addressUsedBy":["LoadSGBLayout","_CGB_BattleColors","_CGB_StatsScreenHPPals","_CGB_MoveList","ApplyHPBarPals"]}

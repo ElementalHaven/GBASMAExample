@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SavingDontTurnOffThePower","SlotsAction_WaitStart","SlotsAction_WaitStopReel1","SlotsAction_WaitStopReel2","SlotsAction_WaitStopReel3"],"usingMethods":[],"name":"hJoypadSum","file":"hram.asm","lineNo":41,"address":58829,"addressUsedBy":["SlotsAction_WaitReel3","SlotsAction_WaitReel2","SlotsAction_WaitReel1"]}

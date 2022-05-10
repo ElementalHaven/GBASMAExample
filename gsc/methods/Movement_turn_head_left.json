@@ -1,0 +1,1 @@
+{"names":["Movement_turn_head_left"],"callingMethods":[],"methodsCalled":["TurnHead"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["OW_LEFT"],"lines":["Movement_turn_head_left:","\tld a, OW_LEFT","\tjr TurnHead"],"name":"Movement_turn_head_left","file":"engine/overworld/movement.asm","lineNo":418,"address":61733,"addressUsedBy":[]}

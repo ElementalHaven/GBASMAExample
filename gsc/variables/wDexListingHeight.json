@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitMainScreen","Pokedex_InitSearchResultsScreen"],"usingMethods":["Pokedex_ListingHandleDPadInput","Pokedex_NextOrPreviousDexEntry","Pokedex_PrintListing"],"name":"wDexListingHeight","file":"wram.asm","lineNo":808,"address":20143,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AI_Smart_AlwaysHit","AI_Smart_Foresight","AI_Smart_LockOn","AI_Smart_Rollout","BattleCommand_CheckHit"],"name":"wEnemyAccLevel","file":"wram.asm","lineNo":587,"address":18506,"addressUsedBy":[]}

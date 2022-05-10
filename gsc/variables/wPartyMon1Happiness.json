@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPartyMon1Happiness","lineNo":14,"address":29237,"addressUsedBy":["ReturnShuckle","DoEggStep","HatchEggs","StepHappiness","Function102d48","GiveEgg","ChangeHappiness","GetFirstPokemonHappiness","_FindPartyMonAtLeastThatHappy","PokeBallEffect","AddTempmonToParty"]}

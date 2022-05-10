@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"OakTimeWhatTimeIsItText","file":"engine/rtc/timeset.asm","lineNo":296,"address":188315,"addressUsedBy":["InitClock"]}

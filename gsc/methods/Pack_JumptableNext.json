@@ -1,0 +1,1 @@
+{"names":["Pack_JumptableNext"],"callingMethods":["BattlePack","Pack"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Pack_JumptableNext:","\tld hl, wJumptableIndex","\tinc [hl]","\tret"],"name":"Pack_JumptableNext","file":"engine/items/pack.asm","lineNo":1169,"address":82845,"addressUsedBy":[]}

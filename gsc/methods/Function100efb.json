@@ -1,0 +1,1 @@
+{"names":["Function100efb"],"callingMethods":[],"methodsCalled":["asm_100f02"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":["Unknown_10102c"],"constantsUsed":[],"lines":["Function100efb:","\tld hl, Unknown_10102c","\tld c, 1","\tjr asm_100f02"],"name":"Function100efb","file":"mobile/mobile_40.asm","lineNo":2237,"address":256750,"addressUsedBy":[]}

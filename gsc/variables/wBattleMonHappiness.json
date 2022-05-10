@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ChangeHappiness"],"usingMethods":[],"name":"wBattleMonHappiness","lineNo":6,"address":18358,"addressUsedBy":["BattleCommand_HappinessPower","BattleCommand_FrustrationPower"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AI_Smart_BellyDrum","AI_Smart_Curse","CheckDamageStatsCritical"],"name":"wEnemyAtkLevel","file":"wram.asm","lineNo":582,"address":18501,"addressUsedBy":["CalcEnemyStats","AI_Smart_ResetStats","ApplyStatLevelMultiplier","AI_Smart_PsychUp"]}

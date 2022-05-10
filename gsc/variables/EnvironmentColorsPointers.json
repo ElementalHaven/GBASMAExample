@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"EnvironmentColorsPointers","file":"data/maps/environment_colors.asm","lineNo":1,"address":72080,"addressUsedBy":["LoadMapPals"]}

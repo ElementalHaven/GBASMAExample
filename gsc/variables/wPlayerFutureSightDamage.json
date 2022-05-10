@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wPlayerFutureSightDamage","file":"wram.asm","lineNo":719,"address":18588,"addressUsedBy":["BattleCommand_CheckFutureSight","BattleCommand_FutureSight"]}

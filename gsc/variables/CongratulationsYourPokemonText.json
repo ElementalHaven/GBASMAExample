@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CongratulationsYourPokemonText","file":"engine/pokemon/evolve.asm","lineNo":397,"address":147138,"addressUsedBy":["EvolveAfterBattle_MasterLoop"]}

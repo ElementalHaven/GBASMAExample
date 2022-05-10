@@ -1,0 +1,1 @@
+{"names":["Sprites_Sine"],"callingMethods":["AnimateEndOfExpBar","DoAnimFrame","Sprites_Cosine"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tcalc_sine_wave"],"name":"Sprites_Sine","lineNo":3,"address":186171,"addressUsedBy":[]}

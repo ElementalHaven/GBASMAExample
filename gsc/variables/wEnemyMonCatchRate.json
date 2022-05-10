@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["HandleSafariAngerEatingStatus"],"usingMethods":["PokeBallEffect"],"name":"wEnemyMonCatchRate","file":"wram.asm","lineNo":2217,"address":27201,"addressUsedBy":[]}

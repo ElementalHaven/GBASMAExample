@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"GBCOnlyString","file":"engine/movie/gbc_only.asm","lineNo":126,"address":159377,"addressUsedBy":["DrawGBCOnlyScreen"]}

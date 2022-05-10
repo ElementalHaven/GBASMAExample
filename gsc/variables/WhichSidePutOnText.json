@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"WhichSidePutOnText","file":"engine/overworld/decorations.asm","lineNo":806,"address":101399,"addressUsedBy":["DecoAction_setupornament"]}

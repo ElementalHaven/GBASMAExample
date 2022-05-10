@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["UpdateBattleStateAndExperienceAfterEnemyFaint","WinTrainerBattle"],"usingMethods":["CheckDanger"],"name":"wBattleLowHealthAlarm","file":"wram.asm","lineNo":634,"address":18542,"addressUsedBy":[]}

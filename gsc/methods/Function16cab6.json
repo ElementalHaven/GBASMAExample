@@ -1,0 +1,1 @@
+{"names":["Function16cab6"],"callingMethods":["Function16c943","Function16ca11"],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function16cab6:","\tld b, $0","\tld c, e","\tadd hl, bc","\tret"],"name":"Function16cab6","file":"mobile/mobile_5b.asm","lineNo":439,"address":293127,"addressUsedBy":[]}

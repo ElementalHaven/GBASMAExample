@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"HealingHPAmounts","file":"data/items/heal_hp.asm","lineNo":1,"address":80755,"addressUsedBy":["GetHealingItemAmount"]}

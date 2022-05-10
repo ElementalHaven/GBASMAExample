@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokegearAskDeleteText","file":"engine/pokegear/pokegear.asm","lineNo":1360,"address":189885,"addressUsedBy":["PokegearPhoneContactSubmenu"]}

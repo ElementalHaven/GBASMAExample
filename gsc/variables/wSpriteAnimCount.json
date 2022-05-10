@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DeleteSpriteAnimStruct2ToEnd"],"usingMethods":["_InitSpriteAnimStruct"],"name":"wSpriteAnimCount","file":"wram.asm","lineNo":279,"address":17503,"addressUsedBy":["_InitSpriteAnimStruct"]}

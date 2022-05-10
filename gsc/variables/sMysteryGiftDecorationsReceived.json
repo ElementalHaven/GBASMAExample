@@ -1,0 +1,1 @@
+{"type":"byte[4]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sMysteryGiftDecorationsReceived","file":"sram.asm","lineNo":55,"address":44762,"addressUsedBy":["MysteryGift_CheckAndSetDecorationAlreadyReceived","MysteryGift_CopyReceivedDecosToPC"]}

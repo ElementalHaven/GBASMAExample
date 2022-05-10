@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokemonRemoveMailText","file":"engine/pokemon/mon_menu.asm","lineNo":397,"address":86954,"addressUsedBy":["TryGiveItemToPartymon"]}

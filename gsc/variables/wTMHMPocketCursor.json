@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["TMHM_JoypadLoop"],"usingMethods":["TMHM_PocketLoop"],"name":"wTMHMPocketCursor","file":"wram.asm","lineNo":1970,"address":26879,"addressUsedBy":[]}

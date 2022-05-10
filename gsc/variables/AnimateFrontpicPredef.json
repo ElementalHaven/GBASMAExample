@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"AnimateFrontpicPredef","lineNo":1,"address":67422,"addressUsedBy":["EggHatch_AnimationSequence","EvolutionAnimation","BattleStartMessage","Function_SetEnemyMonAndSendOutAnimation","Function108219","AnimateTrademonFrontpic"]}

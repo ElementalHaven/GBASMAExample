@@ -1,0 +1,1 @@
+{"names":["Printer_NextSection"],"callingMethods":[],"methodsCalled":["_Printer_NextSection"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Printer_NextSection:","\tcall _Printer_NextSection","\tret"],"name":"Printer_NextSection","file":"engine/printer/printer_serial.asm","lineNo":71,"address":173122,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wTimeOfDayPalFlags","file":"wram.asm","lineNo":2556,"address":28725,"addressUsedBy":["_TimeOfDayPals"]}

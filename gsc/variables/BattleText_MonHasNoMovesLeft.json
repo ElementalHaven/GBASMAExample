@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BattleText_MonHasNoMovesLeft","file":"data/text/battle.asm","lineNo":332,"address":171687,"addressUsedBy":["CheckPlayerHasUsableMoves"]}

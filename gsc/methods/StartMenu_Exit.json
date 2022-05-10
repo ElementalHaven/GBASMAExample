@@ -1,0 +1,1 @@
+{"names":["StartMenu_Exit"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["StartMenu_Exit:","; Exit the menu.","","\tld a, 1","\tret"],"name":"StartMenu_Exit","file":"engine/menus/start_menu.asm","lineNo":405,"address":86441,"addressUsedBy":[]}

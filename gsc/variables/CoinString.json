@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"CoinString","file":"engine/menus/menu_2.asm","lineNo":108,"address":98666,"addressUsedBy":["DisplayCoinCaseBalance","DisplayMoneyAndCoinBalance"]}

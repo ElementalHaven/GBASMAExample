@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PokedexTypeSearchConversionTable","file":"data/types/search_types.asm","lineNo":1,"address":144519,"addressUsedBy":["Pokedex_SearchForMons"]}

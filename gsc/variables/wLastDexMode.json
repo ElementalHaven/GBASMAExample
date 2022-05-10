@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["Pokedex"],"usingMethods":["InitPokedex"],"name":"wLastDexMode","file":"wram.asm","lineNo":2628,"address":28748,"addressUsedBy":[]}

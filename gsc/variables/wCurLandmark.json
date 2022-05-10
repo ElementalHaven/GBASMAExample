@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitMapNameSign"],"usingMethods":["InitMapNameSign","PlaceMapNameCenterAlign"],"name":"wCurLandmark","file":"wram.asm","lineNo":158,"address":17114,"addressUsedBy":[]}

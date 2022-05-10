@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["EvolveAfterBattle_MasterLoop","GeneratePartyMonStats","LoadEnemyMon"],"usingMethods":["EvolutionAnimation","EvolveAfterBattle_MasterLoop","FillMoves"],"name":"wEvolutionOldSpecies","file":"wram.asm","lineNo":2182,"address":27132,"addressUsedBy":[]}

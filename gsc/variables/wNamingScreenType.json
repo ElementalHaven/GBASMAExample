@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["NamingScreen","NamingScreen_IsTargetBox"],"name":"wNamingScreenType","file":"wram.asm","lineNo":865,"address":20197,"addressUsedBy":["NamingScreen"]}

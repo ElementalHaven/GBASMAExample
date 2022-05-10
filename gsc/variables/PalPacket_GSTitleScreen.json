@@ -1,0 +1,1 @@
+{"type":"byte[7]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PalPacket_GSTitleScreen","file":"gfx/sgb/pal_packets.asm","lineNo":19,"address":70204,"addressUsedBy":["LoadSGBLayout"]}

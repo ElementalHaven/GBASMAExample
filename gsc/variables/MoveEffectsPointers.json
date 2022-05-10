@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"MoveEffectsPointers","file":"data/moves/effects_pointers.asm","lineNo":1,"address":101993,"addressUsedBy":["DoMove"]}

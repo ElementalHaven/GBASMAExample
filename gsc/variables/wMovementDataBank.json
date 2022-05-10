@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMovementDataBank","file":"wram.asm","lineNo":175,"address":17124,"addressUsedBy":["GetMovementByte"]}

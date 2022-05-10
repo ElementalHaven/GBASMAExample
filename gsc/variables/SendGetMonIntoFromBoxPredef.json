@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"SendGetMonIntoFromBoxPredef","lineNo":1,"address":67233,"addressUsedBy":["DepositPokemon","TryWithdrawPokemon"]}

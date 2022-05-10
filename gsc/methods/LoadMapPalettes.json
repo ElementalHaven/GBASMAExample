@@ -1,0 +1,1 @@
+{"names":["LoadMapPalettes"],"callingMethods":[],"methodsCalled":["GetSGBLayout"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":["SCGB_MAPPALS"],"lines":["LoadMapPalettes:","\tld b, SCGB_MAPPALS","\tjp GetSGBLayout"],"name":"LoadMapPalettes","file":"engine/overworld/warp_connection.asm","lineNo":310,"address":262754,"addressUsedBy":[]}

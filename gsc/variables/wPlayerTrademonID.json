@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["Function102a3b","Function170000","LinkTrade"],"usingMethods":[],"name":"wPlayerTrademonID","lineNo":7,"address":20180,"addressUsedBy":["DoNPCTrade","MobileTradeAnim_DisplayMonToBeSent","ShowPlayerTrademonStats","DebugMobileTrade"]}

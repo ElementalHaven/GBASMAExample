@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"RestoreThePPOfWhichMoveText","file":"engine/items/item_effects.asm","lineNo":2522,"address":81226,"addressUsedBy":["RestorePPEffect"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wEnemySafeguardCount","file":"wram.asm","lineNo":658,"address":18550,"addressUsedBy":["BattleCommand_Safeguard","HandleSafeguard"]}

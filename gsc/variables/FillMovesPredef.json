@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"FillMovesPredef","lineNo":1,"address":67290,"addressUsedBy":["GeneratePartyMonStats","LoadEnemyMon","RetrieveBreedmon","DayCare_InitBreeding"]}

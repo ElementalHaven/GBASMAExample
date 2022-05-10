@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"BuyItem_MenuHeader","file":"engine/items/buy_sell_toss.asm","lineNo":210,"address":99485,"addressUsedBy":["RooftopSale_SelectQuantityToBuy"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DoPlayerMovement","LoadMartPointer"],"usingMethods":["DoPlayerMovement","player_action"],"name":"wFacingDirection","file":"wram.asm","lineNo":1909,"address":26722,"addressUsedBy":[]}

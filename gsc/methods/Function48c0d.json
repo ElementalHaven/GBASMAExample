@@ -1,0 +1,1 @@
+{"names":["Function48c0d"],"callingMethods":["Function48ab5"],"methodsCalled":[],"methodAddressesUsed":[],"fallsInto":"Function48c0f","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function48c0d:","\txor a","\tand a","","Function48c0f:"],"name":"Function48c0d","file":"mobile/mobile_12.asm","lineNo":1498,"address":150674,"addressUsedBy":[]}

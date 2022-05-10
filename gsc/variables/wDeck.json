@@ -1,0 +1,1 @@
+{"type":"byte[24]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wDeck","file":"wram.asm","lineNo":897,"address":20303,"addressUsedBy":["CardFlip_ShuffleDeck","_CardFlip"]}

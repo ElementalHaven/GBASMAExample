@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wHappinessStepCount","file":"wram.asm","lineNo":2857,"address":29165,"addressUsedBy":["StepHappiness"]}

@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["CheckBugContestTimer","StartBugContestTimer"],"usingMethods":["CheckBugContestTimer"],"name":"wBugContestMinsRemaining","file":"wram.asm","lineNo":2438,"address":27594,"addressUsedBy":[]}

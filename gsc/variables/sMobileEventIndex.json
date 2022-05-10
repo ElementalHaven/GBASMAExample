@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["DeleteMobileEventIndex","RestoreMobileEventIndex"],"usingMethods":["BackupMobileEventIndex","CheckMobileEventIndex"],"name":"sMobileEventIndex","file":"sram.asm","lineNo":174,"address":47097,"addressUsedBy":["BackupMobileEventIndex","CheckMobileEventIndex","RestoreMobileEventIndex","DeleteMobileEventIndex"]}

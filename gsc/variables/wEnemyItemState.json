@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":["InitEnemyTrainer","ResetEnemyBattleVars"],"usingMethods":[],"name":"wEnemyItemState","file":"wram.asm","lineNo":608,"address":18519,"addressUsedBy":["AIUpdateHUD"]}

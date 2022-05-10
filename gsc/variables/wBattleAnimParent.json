@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wBattleAnimParent","file":"wram.asm","lineNo":3165,"address":33307,"addressUsedBy":["BattleAnimCmd_Ret","BattleAnimCmd_Call"]}

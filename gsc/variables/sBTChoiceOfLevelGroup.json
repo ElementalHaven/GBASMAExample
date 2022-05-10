@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["SaveBattleTowerLevelGroup"],"usingMethods":["LoadBattleTowerLevelGroup"],"name":"sBTChoiceOfLevelGroup","file":"sram.asm","lineNo":191,"address":47101,"addressUsedBy":["SaveBattleTowerLevelGroup","LoadBattleTowerLevelGroup"]}

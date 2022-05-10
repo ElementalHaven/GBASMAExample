@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AskMobileOrCable"],"usingMethods":["AskMobileOrCable"],"name":"wMobileOrCable_LastSelection","file":"wram.asm","lineNo":2837,"address":29110,"addressUsedBy":["Mobile_SelectThreeMons"]}

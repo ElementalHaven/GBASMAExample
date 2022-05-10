@@ -1,0 +1,1 @@
+{"names":["DisappearUser"],"callingMethods":["BattleCommand_Charge"],"methodsCalled":["FarCall"],"methodAddressesUsed":["_DisappearUser"],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["\tfarcall _DisappearUser","\tret"],"name":"DisappearUser","lineNo":1,"address":124465,"addressUsedBy":[]}

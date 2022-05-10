@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Elevator_CurrentFloorText","file":"engine/events/elevator.asm","lineNo":162,"address":88030,"addressUsedBy":["Elevator_GetCurrentFloorText"]}

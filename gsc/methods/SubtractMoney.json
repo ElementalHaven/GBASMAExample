@@ -1,0 +1,1 @@
+{"names":["SubtractMoney"],"callingMethods":["TakeMoney"],"methodsCalled":[],"methodAddressesUsed":[],"fallsInto":"SubtractFunds","varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SubtractMoney:","\tld a, 3","SubtractFunds:"],"name":"SubtractMoney","file":"engine/events/money.asm","lineNo":94,"address":94056,"addressUsedBy":[]}

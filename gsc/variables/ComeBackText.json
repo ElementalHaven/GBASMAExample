@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"ComeBackText","file":"engine/battle/core.asm","lineNo":7770,"address":140436,"addressUsedBy":["WithdrawMonText","TextJump_ComeBack"]}

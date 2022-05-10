@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["ClearBattleRAM"],"usingMethods":["BattleAnimCmd_Cry","BattleCommand_BeatUp","BattleCommand_Critical","DropPlayerSub","FaintYourPokemon","InitBattleMon","PursuitSwitch"],"name":"wBattleMonSpecies","lineNo":1,"address":18354,"addressUsedBy":["InitBattleMon","BattleCommand_Transform"]}

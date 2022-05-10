@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"YouHaveNoPKMNString","file":"engine/pokemon/party_menu.asm","lineNo":780,"address":160657,"addressUsedBy":["PrintPartyMenuText"]}

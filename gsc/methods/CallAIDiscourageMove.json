@@ -1,0 +1,1 @@
+{"names":["CallAIDiscourageMove"],"callingMethods":[],"methodsCalled":["AIDiscourageMove"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["CallAIDiscourageMove: ; unreferenced","\tjp AIDiscourageMove"],"name":"CallAIDiscourageMove","file":"engine/battle/ai/scoring.asm","lineNo":1554,"address":126373,"addressUsedBy":[]}

@@ -1,0 +1,1 @@
+{"names":["Functioncd820"],"callingMethods":[],"methodsCalled":["DeinitBattleAnimation"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Functioncd820:","\tcall DeinitBattleAnimation","\tret"],"name":"Functioncd820","file":"engine/battle_anims/functions.asm","lineNo":1427,"address":227478,"addressUsedBy":[]}

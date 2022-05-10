@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["Pokedex_InitUnownMode"],"usingMethods":["Pokedex_LoadUnownFrontpicTiles","Pokedex_UnownModePlaceCursor","PrintUnownWord"],"name":"wDexCurUnownIndex","file":"wram.asm","lineNo":818,"address":20153,"addressUsedBy":["Pokedex_UnownModeHandleDPadInput"]}

@@ -1,0 +1,1 @@
+{"type":"String","validValues":[],"settingMethods":[],"usingMethods":[],"name":"PCString_WhatsUp","file":"engine/pokemon/bills_pc.asm","lineNo":2214,"address":247801,"addressUsedBy":["_MovePKMNWithoutMail","BillsPCDepositFuncDeposit","_DepositPKMN","_WithdrawPKMN","BillsPCDepositFuncRelease","BillsPC_Withdraw"]}

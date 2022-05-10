@@ -1,0 +1,1 @@
+{"names":["Function102996"],"callingMethods":[],"methodsCalled":["ExitMenu","Function1029af"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function102996:","\tcall Function1029af","\tcall ExitMenu","\tscf","\tret"],"name":"Function102996","file":"mobile/mobile_40.asm","lineNo":5895,"address":260196,"addressUsedBy":[]}

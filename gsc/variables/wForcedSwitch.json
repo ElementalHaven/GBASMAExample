@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattleCommand_ForceSwitch","BattleCommand_Teleport","CleanUpBattleRAM","ClearBattleRAM","PokeDollEffect"],"usingMethods":["BattleTurn","Battle_EnemyFirst","Battle_PlayerFirst"],"name":"wForcedSwitch","file":"wram.asm","lineNo":2242,"address":27208,"addressUsedBy":[]}

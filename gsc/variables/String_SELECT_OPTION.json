@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":[],"name":"String_SELECT_OPTION","file":"engine/pokedex/pokedex.asm","lineNo":1131,"address":143056,"addressUsedBy":["Pokedex_DrawMainScreenBG"]}

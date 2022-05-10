@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":["ClearDailyTimers","Function1154d4"],"usingMethods":["Function1154d4"],"name":"wDailyResetTimer","file":"wram.asm","lineNo":2816,"address":29078,"addressUsedBy":["RestartDailyResetTimer","CheckDailyResetTimer"]}

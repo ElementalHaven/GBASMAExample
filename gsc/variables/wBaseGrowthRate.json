@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["CalcExpAtLevel"],"name":"wBaseGrowthRate","file":"wram.asm","lineNo":2275,"address":27234,"addressUsedBy":[]}

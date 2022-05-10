@@ -1,0 +1,1 @@
+{"names":["Function8b35d"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function8b35d:","\tld a, h","\tcp d","\tret nz","\tld a, l","\tcp e","\tret"],"name":"Function8b35d","file":"mobile/mobile_22_2.asm","lineNo":35,"address":180273,"addressUsedBy":[]}

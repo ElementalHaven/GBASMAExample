@@ -1,0 +1,1 @@
+{"type":"byte[3]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"wMomsMoney","file":"wram.asm","lineNo":2586,"address":28736,"addressUsedBy":["BankOfMom","Mom_ContinueMenuSetup","WinTrainerBattle","MomBuysItem_DeductFunds","CheckBalance_MomItem2"]}

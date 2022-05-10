@@ -1,0 +1,1 @@
+{"names":["Function1028a5"],"callingMethods":[],"methodsCalled":[],"methodAddressesUsed":[],"varsSet":["wcd49"],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function1028a5:","\tld a, $4 ; Function1023a1","\tld [wcd49], a","\tret"],"name":"Function1028a5","file":"mobile/mobile_40.asm","lineNo":5753,"address":260073,"addressUsedBy":[]}

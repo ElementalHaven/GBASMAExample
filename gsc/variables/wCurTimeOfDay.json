@@ -1,0 +1,1 @@
+{"type":"byte[1]","validValues":[],"settingMethods":["UpdateTimeOfDayPal","_TimeOfDayPals"],"usingMethods":[],"name":"wCurTimeOfDay","file":"wram.asm","lineNo":2558,"address":28727,"addressUsedBy":["_TimeOfDayPals"]}

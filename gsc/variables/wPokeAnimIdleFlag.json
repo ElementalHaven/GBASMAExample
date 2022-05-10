@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["PokeAnim_InitAnim"],"usingMethods":["GetMonAnimPointer"],"name":"wPokeAnimIdleFlag","file":"wram.asm","lineNo":3013,"address":29639,"addressUsedBy":["PokeAnim_InitAnim"]}

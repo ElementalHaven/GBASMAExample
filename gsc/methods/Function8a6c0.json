@@ -1,0 +1,1 @@
+{"names":["Function8a6c0"],"callingMethods":[],"methodsCalled":["PlayClickSFX"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["Function8a6c0:","\tcall PlayClickSFX","\tand a","\tret"],"name":"Function8a6c0","file":"mobile/mobile_22.asm","lineNo":3373,"address":178554,"addressUsedBy":[]}

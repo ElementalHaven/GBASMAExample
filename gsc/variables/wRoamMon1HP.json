@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["InitRoamMons"],"usingMethods":[],"name":"wRoamMon1HP","lineNo":5,"address":29606,"addressUsedBy":["GetRoamMonHP"]}

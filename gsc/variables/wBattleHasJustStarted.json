@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["AI_Switch","BattleTurn","DoBattle"],"usingMethods":["CheckIfCurPartyMonIsFitToFight","CheckWhetherSwitchmonIsPredetermined","CheckWhetherToAskSwitch","SendOutMonText"],"name":"wBattleHasJustStarted","file":"wram.asm","lineNo":2291,"address":27246,"addressUsedBy":[]}

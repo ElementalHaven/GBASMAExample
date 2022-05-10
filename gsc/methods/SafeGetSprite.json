@@ -1,0 +1,1 @@
+{"names":["SafeGetSprite"],"callingMethods":["GetUsedSprite"],"methodsCalled":["GetSprite"],"methodAddressesUsed":[],"varsSet":[],"varsUsed":[],"varAddressesUsed":[],"constantsUsed":[],"lines":["SafeGetSprite:","\tpush hl","\tcall GetSprite","\tpop hl","\tret"],"name":"SafeGetSprite","file":"engine/overworld/overworld.asm","lineNo":164,"address":89398,"addressUsedBy":[]}

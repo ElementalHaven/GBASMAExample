@@ -1,0 +1,1 @@
+{"type":"short","validValues":[],"settingMethods":[],"usingMethods":[],"name":"Script_JumpStdFromRAM","file":"engine/events/std_collision.asm","lineNo":28,"address":88351,"addressUsedBy":["CheckFacingTileForStdScript"]}

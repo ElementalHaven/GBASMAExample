@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":["BattlePack","CleanUpBattleRAM","DepositSellPack","Pack","ResetPocketCursorPositions"],"usingMethods":["BattlePack","DepositSellPack","Pack"],"name":"wItemsPocketCursor","file":"wram.asm","lineNo":1967,"address":26876,"addressUsedBy":[]}

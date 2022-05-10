@@ -1,0 +1,1 @@
+{"type":"byte","validValues":[],"settingMethods":[],"usingMethods":["AI_Smart_SpDefenseUp2","CheckDamageStatsCritical"],"name":"wEnemySDefLevel","file":"wram.asm","lineNo":586,"address":18505,"addressUsedBy":[]}

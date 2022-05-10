@@ -1,0 +1,1 @@
+{"type":"byte[2]","validValues":[],"settingMethods":[],"usingMethods":[],"name":"sTrainerRankingsChecksum","file":"sram.asm","lineNo":308,"address":50271,"addressUsedBy":["CalculateTrainerRankingsChecksum","UpdateTrainerRankingsChecksum","VerifyTrainerRankingsChecksum"]}
